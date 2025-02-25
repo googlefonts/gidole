@@ -1,0 +1,68 @@
+{
+color = 3;
+glyphname = Abrevetilde;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (167,740);
+ref = tildecomb;
+},
+{
+ref = Abreve;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 21;
+},
+{
+position = 342;
+width = 140;
+},
+{
+position = 1396;
+width = 20;
+},
+{
+position = 1542;
+width = 124;
+},
+{
+position = 1962;
+width = 124;
+},
+{
+position = 2022;
+width = 124;
+},
+{
+position = 2136;
+width = 20;
+}
+);
+vhints = (
+{
+position = 296;
+width = 600;
+},
+{
+position = 331;
+width = 140;
+},
+{
+position = 721;
+width = 140;
+}
+);
+};
+};
+width = 1190;
+}
+);
+unicode = 7860;
+}

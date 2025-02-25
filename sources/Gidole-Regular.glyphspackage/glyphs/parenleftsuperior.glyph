@@ -1,0 +1,27 @@
+{
+color = 3;
+glyphname = parenleftsuperior;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (0,1016);
+ref = parenleftinferior;
+}
+);
+userData = {
+com.fontlab.hintData = {
+vhints = (
+{
+position = 110;
+width = 122;
+}
+);
+};
+};
+width = 523;
+}
+);
+unicode = 8317;
+}

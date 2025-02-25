@@ -1,0 +1,46 @@
+{
+color = 3;
+glyphname = schwa;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+angle = 180;
+pos = (1035,1082);
+ref = e;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -16;
+width = 134;
+},
+{
+position = 449;
+width = 124;
+},
+{
+position = 964;
+width = 134;
+}
+);
+vhints = (
+{
+position = 100;
+width = 150;
+},
+{
+position = 760;
+width = 150;
+}
+);
+};
+};
+width = 1055;
+}
+);
+unicode = 601;
+}

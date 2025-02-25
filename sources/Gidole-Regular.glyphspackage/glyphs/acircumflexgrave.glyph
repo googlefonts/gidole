@@ -1,0 +1,68 @@
+{
+color = 3;
+glyphname = acircumflexgrave;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (131,396);
+ref = gravecomb;
+},
+{
+ref = acircumflex;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -16;
+width = 134;
+},
+{
+position = 0;
+width = 21;
+},
+{
+position = 527;
+width = 124;
+},
+{
+position = 964;
+width = 134;
+},
+{
+position = 1222;
+width = 274;
+},
+{
+position = 1618;
+width = 274;
+}
+);
+vhints = (
+{
+position = 100;
+width = 150;
+},
+{
+position = 184;
+width = 622;
+},
+{
+position = 251;
+width = 323;
+},
+{
+position = 720;
+width = 150;
+}
+);
+};
+};
+width = 1020;
+}
+);
+unicode = 7847;
+}

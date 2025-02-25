@@ -1,0 +1,37 @@
+{
+color = 3;
+glyphname = fourinferior;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (0,-177);
+ref = four.d;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -177;
+width = 21;
+},
+{
+position = -12;
+width = 118;
+}
+);
+vhints = (
+{
+position = 451;
+width = 132;
+}
+);
+};
+};
+width = 740;
+}
+);
+unicode = 8324;
+}

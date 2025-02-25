@@ -1,0 +1,56 @@
+{
+color = 3;
+glyphname = edotaccent;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (307,0);
+ref = dotaccentcomb;
+},
+{
+ref = e;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -16;
+width = 134;
+},
+{
+position = 509;
+width = 124;
+},
+{
+position = 964;
+width = 134;
+},
+{
+position = 1247;
+width = 207;
+}
+);
+vhints = (
+{
+position = 125;
+width = 150;
+},
+{
+position = 427;
+width = 206;
+},
+{
+position = 785;
+width = 150;
+}
+);
+};
+};
+width = 1055;
+}
+);
+unicode = 279;
+}

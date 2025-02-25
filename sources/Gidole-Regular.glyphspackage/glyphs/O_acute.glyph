@@ -1,0 +1,52 @@
+{
+color = 3;
+glyphname = Oacute;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (397,334);
+ref = acutecomb;
+},
+{
+ref = O;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -19;
+width = 140;
+},
+{
+position = 1295;
+width = 140;
+},
+{
+position = 1556;
+width = 274;
+}
+);
+vhints = (
+{
+position = 130;
+width = 156;
+},
+{
+position = 517;
+width = 323;
+},
+{
+position = 970;
+width = 156;
+}
+);
+};
+};
+width = 1256;
+}
+);
+unicode = 211;
+}

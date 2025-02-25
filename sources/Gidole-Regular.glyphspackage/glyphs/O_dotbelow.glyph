@@ -1,0 +1,52 @@
+{
+color = 3;
+glyphname = Odotbelow;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (378,0);
+ref = dotbelowcomb;
+},
+{
+ref = O;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -372;
+width = 207;
+},
+{
+position = -19;
+width = 140;
+},
+{
+position = 1295;
+width = 140;
+}
+);
+vhints = (
+{
+position = 130;
+width = 156;
+},
+{
+position = 498;
+width = 206;
+},
+{
+position = 970;
+width = 156;
+}
+);
+};
+};
+width = 1256;
+}
+);
+unicode = 7884;
+}

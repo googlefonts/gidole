@@ -1,0 +1,44 @@
+{
+color = 3;
+glyphname = lcaron;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (344,0);
+ref = apostrophemod;
+},
+{
+ref = l;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -16;
+width = 134;
+},
+{
+position = 1088;
+width = 424;
+}
+);
+vhints = (
+{
+position = 160;
+width = 150;
+},
+{
+position = 464;
+width = 220;
+}
+);
+};
+};
+width = 824;
+}
+);
+unicode = 318;
+}

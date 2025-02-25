@@ -1,0 +1,50 @@
+{
+color = 3;
+glyphname = ldotbelow;
+layers = (
+{
+anchors = (
+{
+name = Top;
+pos = (235,1496);
+}
+);
+layerId = m001;
+shapes = (
+{
+pos = (87,0);
+ref = dotbelowcomb;
+},
+{
+ref = l;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -372;
+width = 207;
+},
+{
+position = -16;
+width = 134;
+}
+);
+vhints = (
+{
+position = 160;
+width = 150;
+},
+{
+position = 207;
+width = 206;
+}
+);
+};
+};
+width = 486;
+}
+);
+unicode = 7735;
+}

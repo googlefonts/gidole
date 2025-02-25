@@ -1,0 +1,68 @@
+{
+color = 3;
+glyphname = Ocircumflextilde;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (199,740);
+ref = tildecomb;
+},
+{
+ref = Ocircumflex;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -19;
+width = 140;
+},
+{
+position = 1295;
+width = 140;
+},
+{
+position = 1556;
+width = 274;
+},
+{
+position = 1962;
+width = 124;
+},
+{
+position = 2022;
+width = 124;
+},
+{
+position = 2136;
+width = 20;
+}
+);
+vhints = (
+{
+position = 130;
+width = 156;
+},
+{
+position = 317;
+width = 622;
+},
+{
+position = 328;
+width = 600;
+},
+{
+position = 970;
+width = 156;
+}
+);
+};
+};
+width = 1256;
+}
+);
+unicode = 7894;
+}

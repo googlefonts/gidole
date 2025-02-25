@@ -1,0 +1,52 @@
+{
+color = 3;
+glyphname = Ihookabove;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (-51,334);
+ref = hookabovecomb;
+},
+{
+ref = I;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 21;
+},
+{
+position = 1396;
+width = 20;
+},
+{
+position = 1543;
+width = 98;
+},
+{
+position = 1780;
+width = 98;
+}
+);
+vhints = (
+{
+position = 180;
+width = 156;
+},
+{
+position = 307;
+width = 110;
+}
+);
+};
+};
+width = 516;
+}
+);
+unicode = 7880;
+}

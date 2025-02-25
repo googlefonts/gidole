@@ -1,0 +1,54 @@
+{
+glyphname = commaturnedabovecomb;
+layers = (
+{
+anchors = (
+{
+name = _Top;
+pos = (217,1082);
+}
+);
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(120,1330,o),
+(133,1359,o),
+(145,1383,cs),
+(217,1536,l),
+(309,1536,l),
+(256,1387,ls),
+(289,1375,o),
+(313,1344,o),
+(313,1301,cs),
+(313,1246,o),
+(270,1206,o),
+(217,1206,cs),
+(164,1206,o),
+(120,1246,o),
+(120,1301,cs)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 1206;
+width = 330;
+}
+);
+vhints = (
+{
+position = 120;
+width = 193;
+}
+);
+};
+};
+width = 433;
+}
+);
+unicode = 786;
+}

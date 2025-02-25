@@ -1,0 +1,49 @@
+{
+color = 2;
+glyphname = Nacute;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(694,1556,l),
+(536,1556,l),
+(690,1830,l),
+(859,1830,l)
+);
+},
+{
+ref = N;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 21;
+},
+{
+position = 1396;
+width = 20;
+}
+);
+vhints = (
+{
+position = 180;
+width = 156;
+},
+{
+position = 958;
+width = 156;
+}
+);
+};
+};
+width = 1294;
+}
+);
+unicode = 323;
+}

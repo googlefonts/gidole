@@ -1,0 +1,44 @@
+{
+color = 3;
+glyphname = Dcroat;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = Eth;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 140;
+},
+{
+position = 652;
+width = 140;
+},
+{
+position = 1276;
+width = 140;
+}
+);
+vhints = (
+{
+position = 240;
+width = 156;
+},
+{
+position = 991;
+width = 156;
+}
+);
+};
+};
+width = 1277;
+}
+);
+unicode = 272;
+}

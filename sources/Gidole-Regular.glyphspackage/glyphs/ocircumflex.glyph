@@ -1,0 +1,52 @@
+{
+color = 3;
+glyphname = ocircumflex;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (119,0);
+ref = circumflex;
+},
+{
+ref = o;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -16;
+width = 134;
+},
+{
+position = 964;
+width = 134;
+},
+{
+position = 1222;
+width = 274;
+}
+);
+vhints = (
+{
+position = 125;
+width = 150;
+},
+{
+position = 239;
+width = 622;
+},
+{
+position = 825;
+width = 150;
+}
+);
+};
+};
+width = 1100;
+}
+);
+unicode = 244;
+}

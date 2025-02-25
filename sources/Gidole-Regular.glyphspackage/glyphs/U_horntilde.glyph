@@ -1,0 +1,68 @@
+{
+color = 3;
+glyphname = Uhorntilde;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (189,334);
+ref = tildecomb;
+},
+{
+ref = Uhorn;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -19;
+width = 140;
+},
+{
+position = 1113;
+width = 110;
+},
+{
+position = 1396;
+width = 20;
+},
+{
+position = 1556;
+width = 124;
+},
+{
+position = 1616;
+width = 124;
+},
+{
+position = 1730;
+width = 20;
+}
+);
+vhints = (
+{
+position = 160;
+width = 156;
+},
+{
+position = 318;
+width = 600;
+},
+{
+position = 920;
+width = 156;
+},
+{
+position = 1230;
+width = 140;
+}
+);
+};
+};
+width = 1320;
+}
+);
+unicode = 7918;
+}

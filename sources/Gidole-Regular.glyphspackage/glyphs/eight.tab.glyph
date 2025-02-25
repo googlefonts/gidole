@@ -1,0 +1,51 @@
+{
+color = 3;
+glyphname = eight.tab;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = eight;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -19;
+width = 140;
+},
+{
+position = 661;
+width = 140;
+},
+{
+position = 1295;
+width = 140;
+}
+);
+vhints = (
+{
+position = 131;
+width = 156;
+},
+{
+position = 159;
+width = 156;
+},
+{
+position = 793;
+width = 156;
+},
+{
+position = 821;
+width = 156;
+}
+);
+};
+};
+width = 1108;
+}
+);
+}

@@ -1,0 +1,58 @@
+{
+color = 3;
+glyphname = iotatonos;
+layers = (
+{
+anchors = (
+{
+name = Bottom;
+pos = (310,0);
+},
+{
+name = Top;
+pos = (234,1496);
+}
+);
+layerId = m001;
+shapes = (
+{
+pos = (37,0);
+ref = tonos;
+},
+{
+ref = iota;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -16;
+width = 134;
+},
+{
+position = 1062;
+width = 20;
+},
+{
+position = 1222;
+width = 274;
+}
+);
+vhints = (
+{
+position = 160;
+width = 150;
+},
+{
+position = 169;
+width = 222;
+}
+);
+};
+};
+width = 470;
+}
+);
+unicode = 943;
+}

@@ -1,0 +1,37 @@
+{
+color = 3;
+glyphname = foursuperior;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (0,177);
+ref = four.n;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 839;
+width = 21;
+},
+{
+position = 1004;
+width = 118;
+}
+);
+vhints = (
+{
+position = 451;
+width = 132;
+}
+);
+};
+};
+width = 740;
+}
+);
+unicode = 8308;
+}

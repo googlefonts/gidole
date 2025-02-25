@@ -1,0 +1,57 @@
+{
+glyphname = "Dzhe-cy";
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(688,-374,l),
+(572,-374,l),
+(547,0,l),
+(179,0,l),
+(179,1416,l),
+(335,1416,l),
+(335,140,l),
+(923,140,l),
+(923,1416,l),
+(1079,1416,l),
+(1079,0,l),
+(713,0,l)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 140;
+},
+{
+position = 1396;
+width = 20;
+}
+);
+vhints = (
+{
+position = 179;
+width = 156;
+},
+{
+position = 572;
+width = 116;
+},
+{
+position = 923;
+width = 156;
+}
+);
+};
+};
+width = 1260;
+}
+);
+unicode = 1039;
+}

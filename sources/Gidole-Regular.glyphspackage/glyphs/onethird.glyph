@@ -1,0 +1,57 @@
+{
+color = 3;
+glyphname = onethird;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (750,0);
+ref = three.d;
+},
+{
+pos = (539,0);
+ref = fraction;
+},
+{
+pos = (10,663);
+ref = one.d;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -12;
+width = 118;
+},
+{
+position = 330;
+width = 118;
+},
+{
+position = 648;
+width = 118;
+},
+{
+position = 663;
+width = 21;
+}
+);
+vhints = (
+{
+position = 296;
+width = 132;
+},
+{
+position = 1243;
+width = 132;
+}
+);
+};
+};
+width = 1517;
+}
+);
+unicode = 8531;
+}

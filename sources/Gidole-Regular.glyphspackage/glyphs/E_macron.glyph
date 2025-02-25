@@ -1,0 +1,53 @@
+{
+color = 2;
+glyphname = Emacron;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(862,1720,l),
+(862,1586,l),
+(292,1586,l),
+(292,1720,l)
+);
+},
+{
+ref = E;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 140;
+},
+{
+position = 652;
+width = 140;
+},
+{
+position = 1276;
+width = 140;
+},
+{
+position = 1586;
+width = 134;
+}
+);
+vhints = (
+{
+position = 180;
+width = 156;
+}
+);
+};
+};
+width = 1100;
+}
+);
+unicode = 274;
+}

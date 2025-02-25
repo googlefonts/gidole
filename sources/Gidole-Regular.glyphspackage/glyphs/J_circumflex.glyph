@@ -1,0 +1,48 @@
+{
+color = 3;
+glyphname = Jcircumflex;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (289,334);
+ref = circumflex;
+},
+{
+ref = J;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -19;
+width = 140;
+},
+{
+position = 1396;
+width = 20;
+},
+{
+position = 1556;
+width = 274;
+}
+);
+vhints = (
+{
+position = 409;
+width = 622;
+},
+{
+position = 642;
+width = 156;
+}
+);
+};
+};
+width = 958;
+}
+);
+unicode = 308;
+}

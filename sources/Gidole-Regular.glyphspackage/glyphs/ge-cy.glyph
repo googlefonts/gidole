@@ -1,0 +1,49 @@
+{
+glyphname = "ge-cy";
+layers = (
+{
+anchors = (
+{
+name = Top;
+pos = (505,1082);
+}
+);
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(800,1082,l),
+(800,948,l),
+(310,948,l),
+(310,0,l),
+(160,0,l),
+(160,1082,l)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 21;
+},
+{
+position = 948;
+width = 134;
+}
+);
+vhints = (
+{
+position = 160;
+width = 150;
+}
+);
+};
+};
+width = 880;
+}
+);
+unicode = 1075;
+}

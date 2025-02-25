@@ -1,0 +1,55 @@
+{
+glyphname = Upsilontonos;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(553,1416,l),
+(885,672,l),
+(1217,1416,l),
+(1386,1416,l),
+(963,506,l),
+(963,0,l),
+(807,0,l),
+(807,506,l),
+(384,1416,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(176,1269,l),
+(50,1269,l),
+(102,1543,l),
+(272,1543,l)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 21;
+},
+{
+position = 1396;
+width = 20;
+}
+);
+vhints = (
+{
+position = 807;
+width = 156;
+}
+);
+};
+};
+width = 1426;
+}
+);
+unicode = 910;
+}

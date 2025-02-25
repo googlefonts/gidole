@@ -1,0 +1,55 @@
+{
+glyphname = K;
+layers = (
+{
+anchors = (
+{
+name = Bottom;
+pos = (614,0);
+}
+);
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(917,1416,l),
+(1101,1416,l),
+(592,753,l),
+(1129,0,l),
+(944,0,l),
+(491,643,l),
+(336,443,l),
+(336,0,l),
+(180,0,l),
+(180,1416,l),
+(336,1416,l),
+(336,652,l)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 21;
+},
+{
+position = 1396;
+width = 20;
+}
+);
+vhints = (
+{
+position = 180;
+width = 156;
+}
+);
+};
+};
+width = 1179;
+}
+);
+unicode = 75;
+}

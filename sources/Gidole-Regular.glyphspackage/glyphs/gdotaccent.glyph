@@ -1,0 +1,60 @@
+{
+color = 3;
+glyphname = gdotaccent;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (297,0);
+ref = dotaccentcomb;
+},
+{
+ref = g;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -427;
+width = 134;
+},
+{
+position = -16;
+width = 134;
+},
+{
+position = 964;
+width = 134;
+},
+{
+position = 1062;
+width = 20;
+},
+{
+position = 1247;
+width = 207;
+}
+);
+vhints = (
+{
+position = 125;
+width = 150;
+},
+{
+position = 417;
+width = 206;
+},
+{
+position = 805;
+width = 150;
+}
+);
+};
+};
+width = 1115;
+}
+);
+unicode = 289;
+}

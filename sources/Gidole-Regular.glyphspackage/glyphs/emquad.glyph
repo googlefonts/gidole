@@ -1,0 +1,10 @@
+{
+glyphname = emquad;
+layers = (
+{
+layerId = m001;
+width = 2088;
+}
+);
+unicode = 8193;
+}

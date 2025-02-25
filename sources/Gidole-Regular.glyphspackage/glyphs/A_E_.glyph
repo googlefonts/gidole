@@ -1,0 +1,69 @@
+{
+glyphname = AE;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(431,482,l),
+(809,482,l),
+(809,1269,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(720,1416,l),
+(1469,1416,l),
+(1469,1276,l),
+(965,1276,l),
+(965,792,l),
+(1399,792,l),
+(1399,652,l),
+(965,652,l),
+(965,140,l),
+(1469,140,l),
+(1469,0,l),
+(809,0,l),
+(809,342,l),
+(364,342,l),
+(200,0,l),
+(30,0,l)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 140;
+},
+{
+position = 342;
+width = 140;
+},
+{
+position = 652;
+width = 140;
+},
+{
+position = 1276;
+width = 140;
+}
+);
+vhints = (
+{
+position = 809;
+width = 156;
+}
+);
+};
+};
+width = 1609;
+}
+);
+unicode = 198;
+}

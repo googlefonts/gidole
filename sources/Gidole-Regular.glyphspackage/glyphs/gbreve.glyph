@@ -1,0 +1,64 @@
+{
+color = 3;
+glyphname = gbreve;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (146,0);
+ref = breve;
+},
+{
+ref = g;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -427;
+width = 134;
+},
+{
+position = -16;
+width = 134;
+},
+{
+position = 964;
+width = 134;
+},
+{
+position = 1062;
+width = 20;
+},
+{
+position = 1208;
+width = 124;
+}
+);
+vhints = (
+{
+position = 125;
+width = 150;
+},
+{
+position = 256;
+width = 140;
+},
+{
+position = 646;
+width = 140;
+},
+{
+position = 805;
+width = 150;
+}
+);
+};
+};
+width = 1115;
+}
+);
+unicode = 287;
+}

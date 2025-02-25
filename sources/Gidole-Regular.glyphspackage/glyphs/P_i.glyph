@@ -1,0 +1,49 @@
+{
+glyphname = Pi;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1080,1416,l),
+(1080,0,l),
+(924,0,l),
+(924,1276,l),
+(336,1276,l),
+(336,0,l),
+(180,0,l),
+(180,1416,l)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 21;
+},
+{
+position = 1276;
+width = 140;
+}
+);
+vhints = (
+{
+position = 180;
+width = 156;
+},
+{
+position = 924;
+width = 156;
+}
+);
+};
+};
+width = 1260;
+}
+);
+unicode = 928;
+}

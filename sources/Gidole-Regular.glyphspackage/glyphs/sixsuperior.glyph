@@ -1,0 +1,41 @@
+{
+color = 3;
+glyphname = sixsuperior;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (0,177);
+ref = six.n;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 830;
+width = 118;
+},
+{
+position = 1220;
+width = 111;
+}
+);
+vhints = (
+{
+position = 97;
+width = 132;
+},
+{
+position = 511;
+width = 132;
+}
+);
+};
+};
+width = 740;
+}
+);
+unicode = 8310;
+}

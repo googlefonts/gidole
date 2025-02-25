@@ -1,0 +1,48 @@
+{
+color = 3;
+glyphname = "Ushort-cy";
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (199,334);
+ref = brevecomb;
+},
+{
+ref = "U-cy";
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -19;
+width = 140;
+},
+{
+position = 1396;
+width = 20;
+},
+{
+position = 1542;
+width = 124;
+}
+);
+vhints = (
+{
+position = 309;
+width = 140;
+},
+{
+position = 699;
+width = 140;
+}
+);
+};
+};
+width = 1130;
+}
+);
+unicode = 1038;
+}

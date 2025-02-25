@@ -1,0 +1,57 @@
+{
+glyphname = breve;
+layers = (
+{
+anchors = (
+{
+name = _Top;
+pos = (374,1082);
+}
+);
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(250,1496,l),
+(250,1381,o),
+(312,1332,o),
+(375,1332,cs),
+(438,1332,o),
+(500,1381,o),
+(500,1496,c),
+(640,1496,l),
+(640,1344,o),
+(542,1208,o),
+(375,1208,cs),
+(208,1208,o),
+(110,1344,o),
+(110,1496,c)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 1208;
+width = 124;
+}
+);
+vhints = (
+{
+position = 110;
+width = 140;
+},
+{
+position = 500;
+width = 140;
+}
+);
+};
+};
+width = 750;
+}
+);
+unicode = 728;
+}

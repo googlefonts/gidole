@@ -1,0 +1,52 @@
+{
+color = 3;
+glyphname = "Ef-cy";
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = Phi;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 21;
+},
+{
+position = 168;
+width = 140;
+},
+{
+position = 1108;
+width = 140;
+},
+{
+position = 1396;
+width = 20;
+}
+);
+vhints = (
+{
+position = 120;
+width = 156;
+},
+{
+position = 640;
+width = 156;
+},
+{
+position = 1160;
+width = 156;
+}
+);
+};
+};
+width = 1436;
+}
+);
+unicode = 1060;
+}

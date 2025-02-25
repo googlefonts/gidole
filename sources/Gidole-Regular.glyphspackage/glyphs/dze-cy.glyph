@@ -1,0 +1,40 @@
+{
+color = 3;
+glyphname = "dze-cy";
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = s;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -16;
+width = 134;
+},
+{
+position = 964;
+width = 134;
+}
+);
+vhints = (
+{
+position = 117;
+width = 150;
+},
+{
+position = 713;
+width = 150;
+}
+);
+};
+};
+width = 963;
+}
+);
+unicode = 1109;
+}

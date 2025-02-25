@@ -1,0 +1,41 @@
+{
+color = 3;
+glyphname = zerosuperior;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (0,177);
+ref = zero.n;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 827;
+width = 118;
+},
+{
+position = 1487;
+width = 118;
+}
+);
+vhints = (
+{
+position = 100;
+width = 132;
+},
+{
+position = 508;
+width = 132;
+}
+);
+};
+};
+width = 740;
+}
+);
+unicode = 8304;
+}

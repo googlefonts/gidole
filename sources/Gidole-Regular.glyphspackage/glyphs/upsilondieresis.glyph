@@ -1,0 +1,56 @@
+{
+color = 3;
+glyphname = upsilondieresis;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (132,0);
+ref = dieresiscomb;
+},
+{
+ref = upsilon;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -16;
+width = 134;
+},
+{
+position = 1062;
+width = 20;
+},
+{
+position = 1247;
+width = 188;
+}
+);
+vhints = (
+{
+position = 150;
+width = 150;
+},
+{
+position = 252;
+width = 188;
+},
+{
+position = 634;
+width = 188;
+},
+{
+position = 800;
+width = 150;
+}
+);
+};
+};
+width = 1090;
+}
+);
+unicode = 971;
+}

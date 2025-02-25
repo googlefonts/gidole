@@ -1,0 +1,56 @@
+{
+color = 3;
+glyphname = dcaron;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (989,80);
+ref = apostrophemod;
+},
+{
+ref = d;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -16;
+width = 134;
+},
+{
+position = 0;
+width = 21;
+},
+{
+position = 964;
+width = 134;
+},
+{
+position = 1168;
+width = 424;
+}
+);
+vhints = (
+{
+position = 125;
+width = 150;
+},
+{
+position = 805;
+width = 150;
+},
+{
+position = 1109;
+width = 220;
+}
+);
+};
+};
+width = 1469;
+}
+);
+unicode = 271;
+}

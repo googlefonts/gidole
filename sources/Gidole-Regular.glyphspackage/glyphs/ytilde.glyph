@@ -1,0 +1,52 @@
+{
+color = 3;
+glyphname = ytilde;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (76,0);
+ref = tildecomb;
+},
+{
+ref = y;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -427;
+width = 134;
+},
+{
+position = 1062;
+width = 20;
+},
+{
+position = 1222;
+width = 124;
+},
+{
+position = 1282;
+width = 124;
+},
+{
+position = 1396;
+width = 20;
+}
+);
+vhints = (
+{
+position = 205;
+width = 600;
+}
+);
+};
+};
+width = 1010;
+}
+);
+unicode = 7929;
+}

@@ -1,0 +1,48 @@
+{
+color = 3;
+glyphname = Ygrave;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (207,334);
+ref = gravecomb;
+},
+{
+ref = Y;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 21;
+},
+{
+position = 1396;
+width = 20;
+},
+{
+position = 1556;
+width = 274;
+}
+);
+vhints = (
+{
+position = 327;
+width = 323;
+},
+{
+position = 463;
+width = 156;
+}
+);
+};
+};
+width = 1082;
+}
+);
+unicode = 7922;
+}

@@ -1,0 +1,49 @@
+{
+color = 2;
+glyphname = Igrave;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(213,1830,l),
+(367,1556,l),
+(209,1556,l),
+(44,1830,l)
+);
+},
+{
+ref = I;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 21;
+},
+{
+position = 1396;
+width = 20;
+}
+);
+vhints = (
+{
+position = 44;
+width = 323;
+},
+{
+position = 180;
+width = 156;
+}
+);
+};
+};
+width = 516;
+}
+);
+unicode = 204;
+}

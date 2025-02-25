@@ -1,0 +1,45 @@
+{
+glyphname = minute;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(320,1388,o),
+(313,1367,o),
+(305,1346,cs),
+(217,1088,l),
+(120,1088,l),
+(120,1411,ls),
+(120,1472,o),
+(163,1512,o),
+(218,1512,cs),
+(281,1512,o),
+(320,1468,o),
+(320,1414,cs)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 1088;
+width = 424;
+}
+);
+vhints = (
+{
+position = 120;
+width = 200;
+}
+);
+};
+};
+width = 440;
+}
+);
+unicode = 8242;
+}

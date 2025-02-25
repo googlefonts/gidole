@@ -1,0 +1,56 @@
+{
+glyphname = four;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1012,350,l),
+(892,350,l),
+(892,0,l),
+(736,0,l),
+(736,350,l),
+(130,350,l),
+(130,451,l),
+(544,1416,l),
+(701,1416,l),
+(303,490,l),
+(736,490,l),
+(736,840,l),
+(892,840,l),
+(892,490,l),
+(1012,490,l)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 21;
+},
+{
+position = 350;
+width = 140;
+},
+{
+position = 1396;
+width = 20;
+}
+);
+vhints = (
+{
+position = 736;
+width = 156;
+}
+);
+};
+};
+width = 1142;
+}
+);
+unicode = 52;
+}

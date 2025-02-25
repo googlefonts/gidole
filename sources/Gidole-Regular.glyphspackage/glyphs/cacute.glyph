@@ -1,0 +1,45 @@
+{
+color = 2;
+glyphname = cacute;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(582,1222,l),
+(424,1222,l),
+(578,1496,l),
+(747,1496,l)
+);
+},
+{
+ref = c;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -16;
+width = 134;
+},
+{
+position = 964;
+width = 134;
+}
+);
+vhints = (
+{
+position = 125;
+width = 150;
+}
+);
+};
+};
+width = 964;
+}
+);
+unicode = 263;
+}

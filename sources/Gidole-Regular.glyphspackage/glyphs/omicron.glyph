@@ -1,0 +1,46 @@
+{
+color = 3;
+glyphname = omicron;
+layers = (
+{
+anchors = (
+{
+name = Top;
+pos = (550,1082);
+}
+);
+layerId = m001;
+shapes = (
+{
+ref = o;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -16;
+width = 134;
+},
+{
+position = 964;
+width = 134;
+}
+);
+vhints = (
+{
+position = 125;
+width = 150;
+},
+{
+position = 825;
+width = 150;
+}
+);
+};
+};
+width = 1100;
+}
+);
+unicode = 959;
+}

@@ -1,0 +1,60 @@
+{
+color = 3;
+glyphname = upsilondieresistonos;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (92,0);
+ref = dieresistonos;
+},
+{
+ref = upsilon;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -16;
+width = 134;
+},
+{
+position = 1062;
+width = 20;
+},
+{
+position = 1247;
+width = 168;
+},
+{
+position = 1436;
+width = 21;
+}
+);
+vhints = (
+{
+position = 150;
+width = 150;
+},
+{
+position = 212;
+width = 168;
+},
+{
+position = 694;
+width = 168;
+},
+{
+position = 800;
+width = 150;
+}
+);
+};
+};
+width = 1090;
+}
+);
+unicode = 944;
+}

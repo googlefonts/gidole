@@ -1,0 +1,53 @@
+{
+color = 3;
+glyphname = eightinferior;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (0,-177);
+ref = eight.d;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -189;
+width = 118;
+},
+{
+position = 153;
+width = 118;
+},
+{
+position = 471;
+width = 118;
+}
+);
+vhints = (
+{
+position = 97;
+width = 132;
+},
+{
+position = 114;
+width = 132;
+},
+{
+position = 494;
+width = 132;
+},
+{
+position = 511;
+width = 132;
+}
+);
+};
+};
+width = 740;
+}
+);
+unicode = 8328;
+}

@@ -1,0 +1,44 @@
+{
+color = 3;
+glyphname = breveinvertedcomb;
+layers = (
+{
+anchors = (
+{
+name = _Top;
+pos = (375,1082);
+}
+);
+layerId = m001;
+shapes = (
+{
+angle = 180;
+pos = (750,2718);
+ref = breve;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 1386;
+width = 124;
+}
+);
+vhints = (
+{
+position = 110;
+width = 140;
+},
+{
+position = 500;
+width = 140;
+}
+);
+};
+};
+width = 750;
+}
+);
+unicode = 785;
+}

@@ -1,0 +1,40 @@
+{
+color = 3;
+glyphname = second;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (330,0);
+ref = minute;
+},
+{
+ref = minute;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 1088;
+width = 424;
+}
+);
+vhints = (
+{
+position = 120;
+width = 200;
+},
+{
+position = 450;
+width = 200;
+}
+);
+};
+};
+width = 770;
+}
+);
+unicode = 8243;
+}

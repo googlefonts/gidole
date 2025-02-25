@@ -1,0 +1,39 @@
+{
+glyphname = chi;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(755,-414,l),
+(484,197,l),
+(213,-414,l),
+(50,-414,l),
+(401,342,l),
+(57,1082,l),
+(220,1082,l),
+(484,486,l),
+(748,1082,l),
+(911,1082,l),
+(567,342,l),
+(918,-414,l)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 1062;
+width = 20;
+}
+);
+};
+};
+width = 968;
+}
+);
+unicode = 967;
+}

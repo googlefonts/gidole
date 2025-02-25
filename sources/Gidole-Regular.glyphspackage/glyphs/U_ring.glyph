@@ -1,0 +1,60 @@
+{
+color = 3;
+glyphname = Uring;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (309,334);
+ref = ringcomb;
+},
+{
+ref = U;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -19;
+width = 140;
+},
+{
+position = 1396;
+width = 20;
+},
+{
+position = 1516;
+width = 95;
+},
+{
+position = 1786;
+width = 95;
+}
+);
+vhints = (
+{
+position = 160;
+width = 156;
+},
+{
+position = 429;
+width = 106;
+},
+{
+position = 699;
+width = 106;
+},
+{
+position = 920;
+width = 156;
+}
+);
+};
+};
+width = 1236;
+}
+);
+unicode = 366;
+}

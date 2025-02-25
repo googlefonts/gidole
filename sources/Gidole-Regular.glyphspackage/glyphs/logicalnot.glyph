@@ -1,0 +1,39 @@
+{
+glyphname = logicalnot;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(820,608,l),
+(820,200,l),
+(670,200,l),
+(670,474,l),
+(120,474,l),
+(120,608,l)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 474;
+width = 134;
+}
+);
+vhints = (
+{
+position = 670;
+width = 150;
+}
+);
+};
+};
+width = 940;
+}
+);
+unicode = 172;
+}

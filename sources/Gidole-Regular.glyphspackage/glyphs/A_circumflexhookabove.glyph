@@ -1,0 +1,60 @@
+{
+color = 3;
+glyphname = Acircumflexhookabove;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (315,743);
+ref = hookabovecomb;
+},
+{
+ref = Acircumflex;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 21;
+},
+{
+position = 342;
+width = 140;
+},
+{
+position = 1396;
+width = 20;
+},
+{
+position = 1556;
+width = 274;
+},
+{
+position = 1952;
+width = 98;
+},
+{
+position = 2189;
+width = 98;
+}
+);
+vhints = (
+{
+position = 284;
+width = 622;
+},
+{
+position = 673;
+width = 110;
+}
+);
+};
+};
+width = 1190;
+}
+);
+unicode = 7848;
+}

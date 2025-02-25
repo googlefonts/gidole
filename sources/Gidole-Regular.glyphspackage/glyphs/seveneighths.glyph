@@ -1,0 +1,73 @@
+{
+color = 3;
+glyphname = seveneighths;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (0,662);
+ref = seven.d;
+},
+{
+pos = (740,0);
+ref = eight.d;
+},
+{
+pos = (547,0);
+ref = fraction;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -12;
+width = 118;
+},
+{
+position = 330;
+width = 118;
+},
+{
+position = 648;
+width = 118;
+},
+{
+position = 662;
+width = 21;
+},
+{
+position = 1298;
+width = 118;
+}
+);
+vhints = (
+{
+position = 116;
+width = 512;
+},
+{
+position = 837;
+width = 132;
+},
+{
+position = 854;
+width = 132;
+},
+{
+position = 1234;
+width = 132;
+},
+{
+position = 1251;
+width = 132;
+}
+);
+};
+};
+width = 1525;
+}
+);
+unicode = 8542;
+}

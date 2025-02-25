@@ -1,0 +1,38 @@
+{
+color = 3;
+glyphname = commaaboverightcomb;
+layers = (
+{
+anchors = (
+{
+name = _Apos;
+pos = (45,1364);
+}
+);
+layerId = m001;
+shapes = (
+{
+ref = quoteright;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 1088;
+width = 424;
+}
+);
+vhints = (
+{
+position = 120;
+width = 220;
+}
+);
+};
+};
+width = 460;
+}
+);
+unicode = 789;
+}

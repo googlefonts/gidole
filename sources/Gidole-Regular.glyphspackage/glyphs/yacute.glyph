@@ -1,0 +1,44 @@
+{
+color = 3;
+glyphname = yacute;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (274,0);
+ref = acutecomb;
+},
+{
+ref = y;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -427;
+width = 134;
+},
+{
+position = 1062;
+width = 20;
+},
+{
+position = 1222;
+width = 274;
+}
+);
+vhints = (
+{
+position = 394;
+width = 323;
+}
+);
+};
+};
+width = 1010;
+}
+);
+unicode = 253;
+}

@@ -1,0 +1,56 @@
+{
+color = 3;
+glyphname = nmacronbelow;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (145,0);
+ref = macronbelowcomb;
+},
+{
+ref = n;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -319;
+width = 134;
+},
+{
+position = 0;
+width = 21;
+},
+{
+position = 964;
+width = 134;
+},
+{
+position = 1062;
+width = 20;
+}
+);
+vhints = (
+{
+position = 160;
+width = 150;
+},
+{
+position = 265;
+width = 570;
+},
+{
+position = 800;
+width = 150;
+}
+);
+};
+};
+width = 1100;
+}
+);
+unicode = 7753;
+}

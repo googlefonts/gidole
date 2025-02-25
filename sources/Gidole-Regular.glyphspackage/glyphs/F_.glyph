@@ -1,0 +1,51 @@
+{
+glyphname = F;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(940,1416,l),
+(940,1276,l),
+(336,1276,l),
+(336,792,l),
+(860,792,l),
+(860,652,l),
+(336,652,l),
+(336,0,l),
+(180,0,l),
+(180,1416,l)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 21;
+},
+{
+position = 652;
+width = 140;
+},
+{
+position = 1276;
+width = 140;
+}
+);
+vhints = (
+{
+position = 180;
+width = 156;
+}
+);
+};
+};
+width = 1060;
+}
+);
+unicode = 70;
+}

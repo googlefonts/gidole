@@ -1,0 +1,40 @@
+{
+color = 3;
+glyphname = commaaccentcomb;
+layers = (
+{
+anchors = (
+{
+name = _Bottom;
+pos = (215,0);
+}
+);
+layerId = m001;
+shapes = (
+{
+angle = 180;
+pos = (433,1081);
+ref = commaturnedabovecomb;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -455;
+width = 330;
+}
+);
+vhints = (
+{
+position = 120;
+width = 193;
+}
+);
+};
+};
+width = 433;
+}
+);
+unicode = 806;
+}

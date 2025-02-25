@@ -1,0 +1,44 @@
+{
+color = 3;
+glyphname = Rho;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = P;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 21;
+},
+{
+position = 516;
+width = 140;
+},
+{
+position = 1276;
+width = 140;
+}
+);
+vhints = (
+{
+position = 180;
+width = 156;
+},
+{
+position = 870;
+width = 156;
+}
+);
+};
+};
+width = 1126;
+}
+);
+unicode = 929;
+}

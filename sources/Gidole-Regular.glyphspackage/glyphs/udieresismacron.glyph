@@ -1,0 +1,65 @@
+{
+color = 2;
+glyphname = udieresismacron;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(830,1691,l),
+(830,1557,l),
+(260,1557,l),
+(260,1691,l)
+);
+},
+{
+ref = udieresis;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -16;
+width = 134;
+},
+{
+position = 1062;
+width = 20;
+},
+{
+position = 1247;
+width = 188;
+},
+{
+position = 1557;
+width = 134;
+}
+);
+vhints = (
+{
+position = 150;
+width = 150;
+},
+{
+position = 260;
+width = 188;
+},
+{
+position = 642;
+width = 188;
+},
+{
+position = 790;
+width = 150;
+}
+);
+};
+};
+width = 1100;
+}
+);
+unicode = 470;
+}

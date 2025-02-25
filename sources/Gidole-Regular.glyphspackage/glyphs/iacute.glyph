@@ -1,0 +1,49 @@
+{
+color = 2;
+glyphname = iacute;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(282,1222,l),
+(124,1222,l),
+(278,1496,l),
+(447,1496,l)
+);
+},
+{
+ref = idotless;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 21;
+},
+{
+position = 1062;
+width = 20;
+}
+);
+vhints = (
+{
+position = 124;
+width = 323;
+},
+{
+position = 160;
+width = 150;
+}
+);
+};
+};
+width = 470;
+}
+);
+unicode = 237;
+}

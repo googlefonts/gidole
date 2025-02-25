@@ -1,0 +1,53 @@
+{
+color = 3;
+glyphname = onequarter;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (540,0);
+ref = fraction;
+},
+{
+pos = (604,0);
+ref = four.d;
+},
+{
+pos = (10,662);
+ref = one.d;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 21;
+},
+{
+position = 165;
+width = 118;
+},
+{
+position = 662;
+width = 21;
+}
+);
+vhints = (
+{
+position = 296;
+width = 132;
+},
+{
+position = 1055;
+width = 132;
+}
+);
+};
+};
+width = 1367;
+}
+);
+unicode = 188;
+}

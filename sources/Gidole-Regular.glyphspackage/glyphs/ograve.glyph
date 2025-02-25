@@ -1,0 +1,49 @@
+{
+color = 2;
+glyphname = ograve;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(505,1496,l),
+(659,1222,l),
+(501,1222,l),
+(336,1496,l)
+);
+},
+{
+ref = o;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -16;
+width = 134;
+},
+{
+position = 964;
+width = 134;
+}
+);
+vhints = (
+{
+position = 125;
+width = 150;
+},
+{
+position = 825;
+width = 150;
+}
+);
+};
+};
+width = 1100;
+}
+);
+unicode = 242;
+}

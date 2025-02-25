@@ -1,0 +1,48 @@
+{
+color = 3;
+glyphname = Tdotbelow;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (301,0);
+ref = dotbelowcomb;
+},
+{
+ref = T;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -372;
+width = 207;
+},
+{
+position = 0;
+width = 21;
+},
+{
+position = 1277;
+width = 140;
+}
+);
+vhints = (
+{
+position = 421;
+width = 206;
+},
+{
+position = 446;
+width = 156;
+}
+);
+};
+};
+width = 1048;
+}
+);
+unicode = 7788;
+}

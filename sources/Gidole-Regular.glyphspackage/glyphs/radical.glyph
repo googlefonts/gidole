@@ -1,0 +1,34 @@
+{
+glyphname = radical;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(200,634,l),
+(503,183,l),
+(887,1496,l),
+(1042,1496,l),
+(601,0,l),
+(459,0,l),
+(80,552,l)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 21;
+}
+);
+};
+};
+width = 1122;
+}
+);
+unicode = 8730;
+}

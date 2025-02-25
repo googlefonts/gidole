@@ -1,0 +1,48 @@
+{
+color = 3;
+glyphname = quotedbl;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (320,0);
+ref = quotesingle;
+},
+{
+ref = quotesingle;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 1006;
+width = 424;
+}
+);
+vhints = (
+{
+position = 120;
+width = 200;
+},
+{
+position = 171;
+width = 98;
+},
+{
+position = 440;
+width = 200;
+},
+{
+position = 491;
+width = 98;
+}
+);
+};
+};
+width = 760;
+}
+);
+unicode = 34;
+}

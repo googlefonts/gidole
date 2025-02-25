@@ -1,0 +1,43 @@
+{
+glyphname = tonos;
+layers = (
+{
+anchors = (
+{
+name = _Top;
+pos = (198,1082);
+}
+);
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(258,1222,l),
+(132,1222,l),
+(184,1496,l),
+(354,1496,l)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 1222;
+width = 274;
+}
+);
+vhints = (
+{
+position = 132;
+width = 222;
+}
+);
+};
+};
+width = 475;
+}
+);
+unicode = 900;
+}

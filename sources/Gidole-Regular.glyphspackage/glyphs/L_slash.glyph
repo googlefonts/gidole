@@ -1,0 +1,51 @@
+{
+glyphname = Lslash;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(641,890,l),
+(413,731,l),
+(413,140,l),
+(1007,140,l),
+(1007,0,l),
+(257,0,l),
+(257,623,l),
+(141,542,l),
+(65,650,l),
+(257,784,l),
+(257,1416,l),
+(413,1416,l),
+(413,892,l),
+(565,998,l)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 140;
+},
+{
+position = 1396;
+width = 20;
+}
+);
+vhints = (
+{
+position = 257;
+width = 156;
+}
+);
+};
+};
+width = 1087;
+}
+);
+unicode = 321;
+}

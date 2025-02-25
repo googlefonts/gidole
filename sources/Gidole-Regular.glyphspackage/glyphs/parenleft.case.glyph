@@ -1,0 +1,26 @@
+{
+color = 3;
+glyphname = parenleft.case;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (0,172);
+ref = parenleft;
+}
+);
+userData = {
+com.fontlab.hintData = {
+vhints = (
+{
+position = 110;
+width = 140;
+}
+);
+};
+};
+width = 653;
+}
+);
+}

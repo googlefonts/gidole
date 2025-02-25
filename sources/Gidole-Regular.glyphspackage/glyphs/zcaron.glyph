@@ -1,0 +1,44 @@
+{
+color = 3;
+glyphname = zcaron;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (9,0);
+ref = caron;
+},
+{
+ref = z;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 134;
+},
+{
+position = 948;
+width = 134;
+},
+{
+position = 1222;
+width = 274;
+}
+);
+vhints = (
+{
+position = 129;
+width = 622;
+}
+);
+};
+};
+width = 880;
+}
+);
+unicode = 382;
+}

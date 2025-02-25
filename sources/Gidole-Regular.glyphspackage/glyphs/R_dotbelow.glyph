@@ -1,0 +1,62 @@
+{
+color = 3;
+glyphname = Rdotbelow;
+layers = (
+{
+anchors = (
+{
+name = Top;
+pos = (556,1416);
+}
+);
+layerId = m001;
+shapes = (
+{
+pos = (378,0);
+ref = dotbelowcomb;
+},
+{
+ref = R;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -372;
+width = 207;
+},
+{
+position = 0;
+width = 21;
+},
+{
+position = 556;
+width = 140;
+},
+{
+position = 1276;
+width = 140;
+}
+);
+vhints = (
+{
+position = 180;
+width = 156;
+},
+{
+position = 498;
+width = 206;
+},
+{
+position = 870;
+width = 156;
+}
+);
+};
+};
+width = 1151;
+}
+);
+unicode = 7770;
+}

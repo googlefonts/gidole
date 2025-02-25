@@ -1,0 +1,56 @@
+{
+glyphname = Y;
+layers = (
+{
+anchors = (
+{
+name = Bottom;
+pos = (541,0);
+},
+{
+name = Top;
+pos = (541,1416);
+}
+);
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(209,1416,l),
+(541,672,l),
+(873,1416,l),
+(1042,1416,l),
+(619,506,l),
+(619,0,l),
+(463,0,l),
+(463,506,l),
+(40,1416,l)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 21;
+},
+{
+position = 1396;
+width = 20;
+}
+);
+vhints = (
+{
+position = 463;
+width = 156;
+}
+);
+};
+};
+width = 1082;
+}
+);
+unicode = 89;
+}

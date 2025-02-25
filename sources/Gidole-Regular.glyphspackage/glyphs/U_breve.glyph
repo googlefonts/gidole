@@ -1,0 +1,57 @@
+{
+color = 3;
+glyphname = Ubreve;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (284,335);
+ref = breve;
+},
+{
+pos = (20,0);
+ref = U;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -19;
+width = 140;
+},
+{
+position = 1396;
+width = 20;
+},
+{
+position = 1543;
+width = 124;
+}
+);
+vhints = (
+{
+position = 180;
+width = 156;
+},
+{
+position = 394;
+width = 140;
+},
+{
+position = 784;
+width = 140;
+},
+{
+position = 940;
+width = 156;
+}
+);
+};
+};
+width = 1236;
+}
+);
+unicode = 364;
+}

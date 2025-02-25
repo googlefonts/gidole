@@ -1,0 +1,62 @@
+{
+glyphname = Epsilontonos;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1142,1416,l),
+(1142,1276,l),
+(518,1276,l),
+(518,792,l),
+(1062,792,l),
+(1062,652,l),
+(518,652,l),
+(518,140,l),
+(1142,140,l),
+(1142,0,l),
+(362,0,l),
+(362,1416,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(176,1269,l),
+(50,1269,l),
+(102,1543,l),
+(272,1543,l)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 140;
+},
+{
+position = 652;
+width = 140;
+},
+{
+position = 1276;
+width = 140;
+}
+);
+vhints = (
+{
+position = 362;
+width = 156;
+}
+);
+};
+};
+width = 1282;
+}
+);
+unicode = 904;
+}

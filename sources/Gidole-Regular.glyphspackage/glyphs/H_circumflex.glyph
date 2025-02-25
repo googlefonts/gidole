@@ -1,0 +1,56 @@
+{
+color = 3;
+glyphname = Hcircumflex;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (209,334);
+ref = circumflex;
+},
+{
+ref = H;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 21;
+},
+{
+position = 652;
+width = 140;
+},
+{
+position = 1396;
+width = 20;
+},
+{
+position = 1556;
+width = 274;
+}
+);
+vhints = (
+{
+position = 180;
+width = 156;
+},
+{
+position = 329;
+width = 622;
+},
+{
+position = 944;
+width = 156;
+}
+);
+};
+};
+width = 1280;
+}
+);
+unicode = 292;
+}

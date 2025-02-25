@@ -1,0 +1,52 @@
+{
+color = 3;
+glyphname = Edotbelow;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (372,0);
+ref = dotbelowcomb;
+},
+{
+ref = E;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -372;
+width = 207;
+},
+{
+position = 0;
+width = 140;
+},
+{
+position = 652;
+width = 140;
+},
+{
+position = 1276;
+width = 140;
+}
+);
+vhints = (
+{
+position = 180;
+width = 156;
+},
+{
+position = 492;
+width = 206;
+}
+);
+};
+};
+width = 1100;
+}
+);
+unicode = 7864;
+}

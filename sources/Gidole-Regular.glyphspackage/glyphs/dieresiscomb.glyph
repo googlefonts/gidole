@@ -1,0 +1,42 @@
+{
+color = 3;
+glyphname = dieresiscomb;
+layers = (
+{
+anchors = (
+{
+name = _Top;
+pos = (405,1082);
+}
+);
+layerId = m001;
+shapes = (
+{
+ref = dieresis;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 1247;
+width = 188;
+}
+);
+vhints = (
+{
+position = 120;
+width = 188;
+},
+{
+position = 502;
+width = 188;
+}
+);
+};
+};
+width = 810;
+}
+);
+unicode = 776;
+}

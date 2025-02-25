@@ -1,0 +1,49 @@
+{
+glyphname = Gamma;
+layers = (
+{
+anchors = (
+{
+name = Top;
+pos = (490,1416);
+}
+);
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(180,1416,l),
+(900,1416,l),
+(900,1276,l),
+(336,1276,l),
+(336,0,l),
+(180,0,l)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 21;
+},
+{
+position = 1276;
+width = 140;
+}
+);
+vhints = (
+{
+position = 180;
+width = 156;
+}
+);
+};
+};
+width = 990;
+}
+);
+unicode = 915;
+}

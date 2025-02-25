@@ -1,0 +1,36 @@
+{
+color = 3;
+glyphname = "Es-cy";
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = C;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -19;
+width = 140;
+},
+{
+position = 1295;
+width = 140;
+}
+);
+vhints = (
+{
+position = 130;
+width = 156;
+}
+);
+};
+};
+width = 1114;
+}
+);
+unicode = 1057;
+}

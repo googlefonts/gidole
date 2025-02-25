@@ -1,0 +1,40 @@
+{
+glyphname = brokenbar;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(316,1538,l),
+(316,698,l),
+(176,698,l),
+(176,1538,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(316,394,l),
+(316,-456,l),
+(176,-456,l),
+(176,394,l)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+vhints = (
+{
+position = 176;
+width = 140;
+}
+);
+};
+};
+width = 492;
+}
+);
+unicode = 166;
+}

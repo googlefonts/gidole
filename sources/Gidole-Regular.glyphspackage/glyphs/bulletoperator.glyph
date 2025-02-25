@@ -1,0 +1,32 @@
+{
+color = 3;
+glyphname = bulletoperator;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = periodcentered;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 431;
+width = 220;
+}
+);
+vhints = (
+{
+position = 160;
+width = 220;
+}
+);
+};
+};
+width = 500;
+}
+);
+unicode = 8729;
+}

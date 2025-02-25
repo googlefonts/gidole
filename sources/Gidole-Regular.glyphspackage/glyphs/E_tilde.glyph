@@ -1,0 +1,60 @@
+{
+color = 3;
+glyphname = Etilde;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (148,334);
+ref = tilde;
+},
+{
+ref = E;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 140;
+},
+{
+position = 652;
+width = 140;
+},
+{
+position = 1276;
+width = 140;
+},
+{
+position = 1556;
+width = 124;
+},
+{
+position = 1616;
+width = 124;
+},
+{
+position = 1730;
+width = 20;
+}
+);
+vhints = (
+{
+position = 180;
+width = 156;
+},
+{
+position = 277;
+width = 600;
+}
+);
+};
+};
+width = 1100;
+}
+);
+unicode = 7868;
+}

@@ -1,0 +1,28 @@
+{
+color = 3;
+glyphname = downArrow;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+angle = 180;
+pos = (1286,1182);
+ref = upArrow;
+}
+);
+userData = {
+com.fontlab.hintData = {
+vhints = (
+{
+position = 558;
+width = 150;
+}
+);
+};
+};
+width = 1306;
+}
+);
+unicode = 8595;
+}

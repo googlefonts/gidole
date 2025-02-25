@@ -1,0 +1,39 @@
+{
+color = 2;
+glyphname = Wgrave;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(705,1830,l),
+(859,1556,l),
+(701,1556,l),
+(536,1830,l)
+);
+},
+{
+ref = W;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 21;
+},
+{
+position = 1396;
+width = 20;
+}
+);
+};
+};
+width = 1500;
+}
+);
+unicode = 7808;
+}

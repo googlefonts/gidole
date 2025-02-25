@@ -1,0 +1,56 @@
+{
+color = 3;
+glyphname = Udieresis;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (213,334);
+ref = dieresis;
+},
+{
+ref = U;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -19;
+width = 140;
+},
+{
+position = 1396;
+width = 20;
+},
+{
+position = 1581;
+width = 188;
+}
+);
+vhints = (
+{
+position = 160;
+width = 156;
+},
+{
+position = 333;
+width = 188;
+},
+{
+position = 715;
+width = 188;
+},
+{
+position = 920;
+width = 156;
+}
+);
+};
+};
+width = 1236;
+}
+);
+unicode = 220;
+}

@@ -1,0 +1,37 @@
+{
+color = 3;
+glyphname = twoinferior;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (0,-177);
+ref = two.d;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -177;
+width = 118;
+},
+{
+position = 471;
+width = 118;
+}
+);
+vhints = (
+{
+position = 471;
+width = 132;
+}
+);
+};
+};
+width = 740;
+}
+);
+unicode = 8322;
+}

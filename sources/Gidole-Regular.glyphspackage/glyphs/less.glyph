@@ -1,0 +1,34 @@
+{
+glyphname = less;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(768,951,l),
+(837,831,l),
+(327,541,l),
+(837,251,l),
+(768,131,l),
+(160,485,l),
+(160,597,l)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+vhints = (
+{
+position = 160;
+width = 677;
+}
+);
+};
+};
+width = 963;
+}
+);
+unicode = 60;
+}

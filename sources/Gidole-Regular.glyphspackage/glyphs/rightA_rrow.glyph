@@ -1,0 +1,28 @@
+{
+color = 3;
+glyphname = rightArrow;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+angle = 180;
+pos = (1340,1082);
+ref = leftArrow;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 474;
+width = 134;
+}
+);
+};
+};
+width = 1360;
+}
+);
+unicode = 8594;
+}

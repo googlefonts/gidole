@@ -1,0 +1,52 @@
+{
+color = 3;
+glyphname = scaron;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (47,0);
+ref = caron;
+},
+{
+ref = s;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -16;
+width = 134;
+},
+{
+position = 964;
+width = 134;
+},
+{
+position = 1222;
+width = 274;
+}
+);
+vhints = (
+{
+position = 117;
+width = 150;
+},
+{
+position = 167;
+width = 622;
+},
+{
+position = 713;
+width = 150;
+}
+);
+};
+};
+width = 963;
+}
+);
+unicode = 353;
+}

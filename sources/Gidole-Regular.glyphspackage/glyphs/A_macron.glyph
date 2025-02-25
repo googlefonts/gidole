@@ -1,0 +1,47 @@
+{
+color = 2;
+glyphname = Amacron;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(880,1720,l),
+(880,1586,l),
+(310,1586,l),
+(310,1720,l)
+);
+},
+{
+ref = A;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 21;
+},
+{
+position = 342;
+width = 140;
+},
+{
+position = 1396;
+width = 20;
+},
+{
+position = 1586;
+width = 134;
+}
+);
+};
+};
+width = 1190;
+}
+);
+unicode = 256;
+}

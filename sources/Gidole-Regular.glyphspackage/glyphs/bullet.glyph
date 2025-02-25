@@ -1,0 +1,45 @@
+{
+glyphname = bullet;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(408,682,o),
+(478,612,o),
+(478,512,cs),
+(478,412,o),
+(408,342,o),
+(310,342,cs),
+(210,342,o),
+(140,412,o),
+(140,512,cs),
+(140,612,o),
+(210,682,o),
+(310,682,cs)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 342;
+width = 340;
+}
+);
+vhints = (
+{
+position = 140;
+width = 338;
+}
+);
+};
+};
+width = 618;
+}
+);
+unicode = 8226;
+}

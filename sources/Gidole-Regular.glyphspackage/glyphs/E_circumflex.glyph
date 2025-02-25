@@ -1,0 +1,52 @@
+{
+color = 3;
+glyphname = Ecircumflex;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (146,334);
+ref = circumflex;
+},
+{
+ref = E;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 140;
+},
+{
+position = 652;
+width = 140;
+},
+{
+position = 1276;
+width = 140;
+},
+{
+position = 1556;
+width = 274;
+}
+);
+vhints = (
+{
+position = 180;
+width = 156;
+},
+{
+position = 266;
+width = 622;
+}
+);
+};
+};
+width = 1100;
+}
+);
+unicode = 202;
+}

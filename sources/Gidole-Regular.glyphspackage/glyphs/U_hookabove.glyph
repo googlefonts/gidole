@@ -1,0 +1,56 @@
+{
+color = 3;
+glyphname = Uhookabove;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (309,334);
+ref = hookabovecomb;
+},
+{
+ref = U;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -19;
+width = 140;
+},
+{
+position = 1396;
+width = 20;
+},
+{
+position = 1543;
+width = 98;
+},
+{
+position = 1780;
+width = 98;
+}
+);
+vhints = (
+{
+position = 160;
+width = 156;
+},
+{
+position = 667;
+width = 110;
+},
+{
+position = 920;
+width = 156;
+}
+);
+};
+};
+width = 1236;
+}
+);
+unicode = 7910;
+}

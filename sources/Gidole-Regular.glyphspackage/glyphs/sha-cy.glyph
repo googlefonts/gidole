@@ -1,0 +1,57 @@
+{
+glyphname = "sha-cy";
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(160,1082,l),
+(310,1082,l),
+(310,140,l),
+(658,140,l),
+(658,1082,l),
+(808,1082,l),
+(808,140,l),
+(1156,140,l),
+(1156,1082,l),
+(1306,1082,l),
+(1306,0,l),
+(160,0,l)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 140;
+},
+{
+position = 1062;
+width = 20;
+}
+);
+vhints = (
+{
+position = 160;
+width = 150;
+},
+{
+position = 658;
+width = 150;
+},
+{
+position = 1156;
+width = 150;
+}
+);
+};
+};
+width = 1466;
+}
+);
+unicode = 1096;
+}

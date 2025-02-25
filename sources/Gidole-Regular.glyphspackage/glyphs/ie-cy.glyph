@@ -1,0 +1,44 @@
+{
+color = 3;
+glyphname = "ie-cy";
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = e;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -16;
+width = 134;
+},
+{
+position = 509;
+width = 124;
+},
+{
+position = 964;
+width = 134;
+}
+);
+vhints = (
+{
+position = 125;
+width = 150;
+},
+{
+position = 785;
+width = 150;
+}
+);
+};
+};
+width = 1055;
+}
+);
+unicode = 1077;
+}

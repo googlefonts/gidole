@@ -1,0 +1,33 @@
+{
+color = 3;
+glyphname = hyphentwo;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (-40,0);
+ref = hyphen;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 474;
+width = 134;
+}
+);
+vhints = (
+{
+position = 120;
+width = 500;
+}
+);
+};
+};
+width = 740;
+}
+);
+unicode = 8208;
+}

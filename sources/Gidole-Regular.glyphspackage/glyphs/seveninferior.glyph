@@ -1,0 +1,37 @@
+{
+color = 3;
+glyphname = seveninferior;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (0,-177);
+ref = seven.d;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -177;
+width = 21;
+},
+{
+position = 459;
+width = 118;
+}
+);
+vhints = (
+{
+position = 116;
+width = 512;
+}
+);
+};
+};
+width = 740;
+}
+);
+unicode = 8327;
+}

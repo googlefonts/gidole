@@ -1,0 +1,55 @@
+{
+color = 2;
+glyphname = ellipsis;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 0;
+nodes = (
+(405,-252,ls)
+);
+},
+{
+pos = (756,0);
+ref = period;
+},
+{
+pos = (388,0);
+ref = period;
+},
+{
+pos = (20,0);
+ref = period;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -16;
+width = 220;
+}
+);
+vhints = (
+{
+position = 160;
+width = 220;
+},
+{
+position = 528;
+width = 220;
+},
+{
+position = 896;
+width = 220;
+}
+);
+};
+};
+width = 1236;
+}
+);
+unicode = 8230;
+}

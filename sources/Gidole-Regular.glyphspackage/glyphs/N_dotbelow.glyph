@@ -1,0 +1,52 @@
+{
+color = 3;
+glyphname = Ndotbelow;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (424,0);
+ref = dotbelowcomb;
+},
+{
+ref = N;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -372;
+width = 207;
+},
+{
+position = 0;
+width = 21;
+},
+{
+position = 1396;
+width = 20;
+}
+);
+vhints = (
+{
+position = 180;
+width = 156;
+},
+{
+position = 544;
+width = 206;
+},
+{
+position = 958;
+width = 156;
+}
+);
+};
+};
+width = 1294;
+}
+);
+unicode = 7750;
+}

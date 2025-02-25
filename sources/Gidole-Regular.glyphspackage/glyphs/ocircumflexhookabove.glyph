@@ -1,0 +1,64 @@
+{
+color = 3;
+glyphname = ocircumflexhookabove;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (270,409);
+ref = hookabovecomb;
+},
+{
+ref = ocircumflex;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -16;
+width = 134;
+},
+{
+position = 964;
+width = 134;
+},
+{
+position = 1222;
+width = 274;
+},
+{
+position = 1618;
+width = 98;
+},
+{
+position = 1855;
+width = 98;
+}
+);
+vhints = (
+{
+position = 125;
+width = 150;
+},
+{
+position = 239;
+width = 622;
+},
+{
+position = 628;
+width = 110;
+},
+{
+position = 825;
+width = 150;
+}
+);
+};
+};
+width = 1100;
+}
+);
+unicode = 7893;
+}

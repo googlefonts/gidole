@@ -1,0 +1,44 @@
+{
+color = 3;
+glyphname = Zdotaccent;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (291,334);
+ref = dotaccentcomb;
+},
+{
+ref = Z;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 140;
+},
+{
+position = 1276;
+width = 140;
+},
+{
+position = 1581;
+width = 207;
+}
+);
+vhints = (
+{
+position = 411;
+width = 206;
+}
+);
+};
+};
+width = 1027;
+}
+);
+unicode = 379;
+}

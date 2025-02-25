@@ -1,0 +1,48 @@
+{
+color = 3;
+glyphname = Idotaccent;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (35,334);
+ref = dotaccentcomb;
+},
+{
+ref = I;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 21;
+},
+{
+position = 1396;
+width = 20;
+},
+{
+position = 1581;
+width = 207;
+}
+);
+vhints = (
+{
+position = 155;
+width = 206;
+},
+{
+position = 180;
+width = 156;
+}
+);
+};
+};
+width = 516;
+}
+);
+unicode = 304;
+}

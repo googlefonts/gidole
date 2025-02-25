@@ -1,0 +1,52 @@
+{
+color = 3;
+glyphname = iotadieresis;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (-170,0);
+ref = dieresiscomb;
+},
+{
+ref = iota;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -16;
+width = 134;
+},
+{
+position = 1062;
+width = 20;
+},
+{
+position = 1247;
+width = 188;
+}
+);
+vhints = (
+{
+position = -50;
+width = 188;
+},
+{
+position = 160;
+width = 150;
+},
+{
+position = 332;
+width = 188;
+}
+);
+};
+};
+width = 470;
+}
+);
+unicode = 970;
+}

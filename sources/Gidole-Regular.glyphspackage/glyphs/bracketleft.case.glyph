@@ -1,0 +1,40 @@
+{
+color = 3;
+glyphname = bracketleft.case;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (0,172);
+ref = bracketleft;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -284;
+width = 124;
+},
+{
+position = 1586;
+width = 124;
+}
+);
+vhints = (
+{
+position = 170;
+width = 140;
+},
+{
+position = 170;
+width = 332;
+}
+);
+};
+};
+width = 652;
+}
+);
+}

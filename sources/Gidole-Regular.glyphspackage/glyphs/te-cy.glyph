@@ -1,0 +1,45 @@
+{
+glyphname = "te-cy";
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(383,948,l),
+(80,948,l),
+(80,1082,l),
+(836,1082,l),
+(836,948,l),
+(533,948,l),
+(533,0,l),
+(383,0,l)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 21;
+},
+{
+position = 948;
+width = 134;
+}
+);
+vhints = (
+{
+position = 383;
+width = 150;
+}
+);
+};
+};
+width = 916;
+}
+);
+unicode = 1090;
+}

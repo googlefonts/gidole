@@ -1,0 +1,56 @@
+{
+color = 3;
+glyphname = Edieresis;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (172,334);
+ref = dieresis;
+},
+{
+ref = E;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 140;
+},
+{
+position = 652;
+width = 140;
+},
+{
+position = 1276;
+width = 140;
+},
+{
+position = 1581;
+width = 188;
+}
+);
+vhints = (
+{
+position = 180;
+width = 156;
+},
+{
+position = 292;
+width = 188;
+},
+{
+position = 674;
+width = 188;
+}
+);
+};
+};
+width = 1100;
+}
+);
+unicode = 203;
+}

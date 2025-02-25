@@ -1,0 +1,56 @@
+{
+color = 3;
+glyphname = Hdotbelow;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (407,0);
+ref = dotbelowcomb;
+},
+{
+ref = H;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -372;
+width = 207;
+},
+{
+position = 0;
+width = 21;
+},
+{
+position = 652;
+width = 140;
+},
+{
+position = 1396;
+width = 20;
+}
+);
+vhints = (
+{
+position = 180;
+width = 156;
+},
+{
+position = 527;
+width = 206;
+},
+{
+position = 944;
+width = 156;
+}
+);
+};
+};
+width = 1280;
+}
+);
+unicode = 7716;
+}

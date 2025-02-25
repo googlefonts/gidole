@@ -1,0 +1,43 @@
+{
+color = 3;
+glyphname = five.tab;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = five;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -19;
+width = 140;
+},
+{
+position = 731;
+width = 136;
+},
+{
+position = 1276;
+width = 140;
+}
+);
+vhints = (
+{
+position = 200;
+width = 156;
+},
+{
+position = 816;
+width = 156;
+}
+);
+};
+};
+width = 1108;
+}
+);
+}

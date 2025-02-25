@@ -1,0 +1,63 @@
+{
+glyphname = idotless;
+layers = (
+{
+anchors = (
+{
+name = Apos;
+pos = (6,0);
+},
+{
+name = Bottom;
+pos = (235,0);
+},
+{
+name = Center;
+pos = (6,0);
+},
+{
+name = DoubleTop;
+pos = (6,0);
+},
+{
+name = Top;
+pos = (235,1082);
+}
+);
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(160,0,l),
+(160,1082,l),
+(310,1082,l),
+(310,0,l)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 21;
+},
+{
+position = 1062;
+width = 20;
+}
+);
+vhints = (
+{
+position = 160;
+width = 150;
+}
+);
+};
+};
+width = 470;
+}
+);
+unicode = 305;
+}

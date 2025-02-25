@@ -1,0 +1,49 @@
+{
+color = 2;
+glyphname = Ugrave;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(573,1830,l),
+(727,1556,l),
+(569,1556,l),
+(404,1830,l)
+);
+},
+{
+ref = U;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -19;
+width = 140;
+},
+{
+position = 1396;
+width = 20;
+}
+);
+vhints = (
+{
+position = 160;
+width = 156;
+},
+{
+position = 920;
+width = 156;
+}
+);
+};
+};
+width = 1236;
+}
+);
+unicode = 217;
+}

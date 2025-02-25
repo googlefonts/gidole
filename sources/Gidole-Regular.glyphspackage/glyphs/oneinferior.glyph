@@ -1,0 +1,33 @@
+{
+color = 3;
+glyphname = oneinferior;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (0,-177);
+ref = one.d;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -177;
+width = 21;
+}
+);
+vhints = (
+{
+position = 286;
+width = 132;
+}
+);
+};
+};
+width = 548;
+}
+);
+unicode = 8321;
+}

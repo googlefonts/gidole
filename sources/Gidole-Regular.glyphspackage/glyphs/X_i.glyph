@@ -1,0 +1,79 @@
+{
+glyphname = Xi;
+layers = (
+{
+anchors = (
+{
+name = Apos;
+pos = (-7,0);
+},
+{
+name = Bottom;
+pos = (515,0);
+},
+{
+name = Center;
+pos = (-7,0);
+},
+{
+name = DoubleTop;
+pos = (-7,0);
+},
+{
+name = Top;
+pos = (515,1364);
+}
+);
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(816,792,l),
+(816,652,l),
+(201,652,l),
+(201,792,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(877,140,l),
+(877,0,l),
+(140,0,l),
+(140,140,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(877,1416,l),
+(877,1276,l),
+(140,1276,l),
+(140,1416,l)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 140;
+},
+{
+position = 652;
+width = 140;
+},
+{
+position = 1276;
+width = 140;
+}
+);
+};
+};
+width = 1017;
+}
+);
+unicode = 926;
+}

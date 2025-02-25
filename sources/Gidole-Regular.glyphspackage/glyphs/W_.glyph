@@ -1,0 +1,50 @@
+{
+glyphname = W;
+layers = (
+{
+anchors = (
+{
+name = Top;
+pos = (750,1416);
+}
+);
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(462,275,l),
+(675,986,l),
+(825,986,l),
+(1038,275,l),
+(1280,1416,l),
+(1440,1416,l),
+(1129,0,l),
+(977,0,l),
+(750,762,l),
+(523,0,l),
+(371,0,l),
+(60,1416,l),
+(220,1416,l)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 21;
+},
+{
+position = 1396;
+width = 20;
+}
+);
+};
+};
+width = 1500;
+}
+);
+unicode = 87;
+}

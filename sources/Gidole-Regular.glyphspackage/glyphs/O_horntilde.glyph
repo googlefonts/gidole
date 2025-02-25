@@ -1,0 +1,64 @@
+{
+color = 3;
+glyphname = Ohorntilde;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (199,334);
+ref = tildecomb;
+},
+{
+ref = Ohorn;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -19;
+width = 140;
+},
+{
+position = 1295;
+width = 140;
+},
+{
+position = 1556;
+width = 124;
+},
+{
+position = 1616;
+width = 124;
+},
+{
+position = 1730;
+width = 20;
+}
+);
+vhints = (
+{
+position = 130;
+width = 156;
+},
+{
+position = 328;
+width = 600;
+},
+{
+position = 970;
+width = 156;
+},
+{
+position = 1130;
+width = 140;
+}
+);
+};
+};
+width = 1256;
+}
+);
+unicode = 7904;
+}

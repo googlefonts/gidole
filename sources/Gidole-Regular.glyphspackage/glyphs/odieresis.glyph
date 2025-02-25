@@ -1,0 +1,56 @@
+{
+color = 3;
+glyphname = odieresis;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (145,0);
+ref = dieresis;
+},
+{
+ref = o;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -16;
+width = 134;
+},
+{
+position = 964;
+width = 134;
+},
+{
+position = 1247;
+width = 188;
+}
+);
+vhints = (
+{
+position = 125;
+width = 150;
+},
+{
+position = 265;
+width = 188;
+},
+{
+position = 647;
+width = 188;
+},
+{
+position = 825;
+width = 150;
+}
+);
+};
+};
+width = 1100;
+}
+);
+unicode = 246;
+}

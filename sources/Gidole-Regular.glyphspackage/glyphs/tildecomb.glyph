@@ -1,0 +1,46 @@
+{
+color = 3;
+glyphname = tildecomb;
+layers = (
+{
+anchors = (
+{
+name = _Top;
+pos = (429,1082);
+}
+);
+layerId = m001;
+shapes = (
+{
+ref = tilde;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 1222;
+width = 124;
+},
+{
+position = 1282;
+width = 124;
+},
+{
+position = 1396;
+width = 20;
+}
+);
+vhints = (
+{
+position = 129;
+width = 600;
+}
+);
+};
+};
+width = 858;
+}
+);
+unicode = 771;
+}

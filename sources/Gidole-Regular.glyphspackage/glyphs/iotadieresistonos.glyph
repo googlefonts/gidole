@@ -1,0 +1,62 @@
+{
+color = 3;
+glyphname = iotadieresistonos;
+layers = (
+{
+anchors = (
+{
+name = Bottom;
+pos = (240,0);
+}
+);
+layerId = m001;
+shapes = (
+{
+pos = (-210,0);
+ref = dieresistonos;
+},
+{
+ref = iota;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -16;
+width = 134;
+},
+{
+position = 1062;
+width = 20;
+},
+{
+position = 1247;
+width = 168;
+},
+{
+position = 1436;
+width = 21;
+}
+);
+vhints = (
+{
+position = -90;
+width = 168;
+},
+{
+position = 160;
+width = 150;
+},
+{
+position = 392;
+width = 168;
+}
+);
+};
+};
+width = 470;
+}
+);
+unicode = 912;
+}

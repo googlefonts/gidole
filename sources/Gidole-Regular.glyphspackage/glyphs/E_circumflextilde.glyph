@@ -1,0 +1,68 @@
+{
+color = 3;
+glyphname = Ecircumflextilde;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (148,740);
+ref = tildecomb;
+},
+{
+ref = Ecircumflex;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 140;
+},
+{
+position = 652;
+width = 140;
+},
+{
+position = 1276;
+width = 140;
+},
+{
+position = 1556;
+width = 274;
+},
+{
+position = 1962;
+width = 124;
+},
+{
+position = 2022;
+width = 124;
+},
+{
+position = 2136;
+width = 20;
+}
+);
+vhints = (
+{
+position = 180;
+width = 156;
+},
+{
+position = 266;
+width = 622;
+},
+{
+position = 277;
+width = 600;
+}
+);
+};
+};
+width = 1100;
+}
+);
+unicode = 7876;
+}

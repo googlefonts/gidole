@@ -1,0 +1,53 @@
+{
+color = 2;
+glyphname = Theta;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(792,792,l),
+(792,652,l),
+(464,652,l),
+(464,792,l)
+);
+},
+{
+ref = O;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -19;
+width = 140;
+},
+{
+position = 652;
+width = 140;
+},
+{
+position = 1295;
+width = 140;
+}
+);
+vhints = (
+{
+position = 130;
+width = 156;
+},
+{
+position = 970;
+width = 156;
+}
+);
+};
+};
+width = 1256;
+}
+);
+unicode = 920;
+}

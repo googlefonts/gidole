@@ -1,0 +1,33 @@
+{
+color = 3;
+glyphname = onesuperior;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (0,839);
+ref = one.d;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 839;
+width = 21;
+}
+);
+vhints = (
+{
+position = 286;
+width = 132;
+}
+);
+};
+};
+width = 538;
+}
+);
+unicode = 185;
+}

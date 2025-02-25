@@ -1,0 +1,52 @@
+{
+glyphname = hungarumlaut;
+layers = (
+{
+anchors = (
+{
+name = _Top;
+pos = (360,1082);
+}
+);
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(556,1222,l),
+(408,1222,l),
+(561,1496,l),
+(720,1496,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(258,1222,l),
+(110,1222,l),
+(263,1496,l),
+(422,1496,l)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 1222;
+width = 274;
+}
+);
+vhints = (
+{
+position = 110;
+width = 610;
+}
+);
+};
+};
+width = 850;
+}
+);
+unicode = 733;
+}

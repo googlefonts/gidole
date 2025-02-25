@@ -1,0 +1,57 @@
+{
+color = 3;
+glyphname = napostrophe;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (290,0);
+ref = n;
+},
+{
+pos = (20,0);
+ref = apostrophemod;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 21;
+},
+{
+position = 964;
+width = 134;
+},
+{
+position = 1062;
+width = 20;
+},
+{
+position = 1088;
+width = 424;
+}
+);
+vhints = (
+{
+position = 140;
+width = 220;
+},
+{
+position = 450;
+width = 150;
+},
+{
+position = 1090;
+width = 150;
+}
+);
+};
+};
+width = 1370;
+}
+);
+unicode = 329;
+}

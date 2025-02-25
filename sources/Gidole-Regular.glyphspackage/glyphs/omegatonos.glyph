@@ -1,0 +1,56 @@
+{
+color = 3;
+glyphname = omegatonos;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (611,1);
+ref = tonos;
+},
+{
+ref = omega;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -16;
+width = 134;
+},
+{
+position = 1077;
+width = 20;
+},
+{
+position = 1223;
+width = 274;
+}
+);
+vhints = (
+{
+position = 130;
+width = 150;
+},
+{
+position = 734;
+width = 150;
+},
+{
+position = 743;
+width = 222;
+},
+{
+position = 1338;
+width = 150;
+}
+);
+};
+};
+width = 1618;
+}
+);
+unicode = 974;
+}

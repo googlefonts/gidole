@@ -1,0 +1,38 @@
+{
+color = 3;
+glyphname = ogonekcomb;
+layers = (
+{
+anchors = (
+{
+name = _Bottom;
+pos = (371,0);
+}
+);
+layerId = m001;
+shapes = (
+{
+ref = ogonek;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -430;
+width = 124;
+}
+);
+vhints = (
+{
+position = 120;
+width = 124;
+}
+);
+};
+};
+width = 584;
+}
+);
+unicode = 808;
+}

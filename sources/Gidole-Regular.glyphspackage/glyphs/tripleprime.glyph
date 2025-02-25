@@ -1,0 +1,48 @@
+{
+color = 3;
+glyphname = tripleprime;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (670,0);
+ref = minute;
+},
+{
+pos = (330,0);
+ref = minute;
+},
+{
+ref = minute;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 1088;
+width = 424;
+}
+);
+vhints = (
+{
+position = 120;
+width = 200;
+},
+{
+position = 450;
+width = 200;
+},
+{
+position = 790;
+width = 200;
+}
+);
+};
+};
+width = 1110;
+}
+);
+unicode = 8244;
+}

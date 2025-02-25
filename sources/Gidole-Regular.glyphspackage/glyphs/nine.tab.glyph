@@ -1,0 +1,43 @@
+{
+color = 3;
+glyphname = nine.tab;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = nine;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 21;
+},
+{
+position = 525;
+width = 130;
+},
+{
+position = 1295;
+width = 140;
+}
+);
+vhints = (
+{
+position = 136;
+width = 156;
+},
+{
+position = 816;
+width = 156;
+}
+);
+};
+};
+width = 1108;
+}
+);
+}

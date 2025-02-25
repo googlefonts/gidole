@@ -1,0 +1,30 @@
+{
+color = 3;
+glyphname = nu;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = v;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 21;
+},
+{
+position = 1062;
+width = 20;
+}
+);
+};
+};
+width = 1010;
+}
+);
+unicode = 957;
+}

@@ -1,0 +1,64 @@
+{
+glyphname = "ka-cy";
+layers = (
+{
+anchors = (
+{
+name = Bottom;
+pos = (489,0);
+},
+{
+name = Top;
+pos = (489,1082);
+}
+);
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(310,1082,l),
+(310,604,l),
+(395,604,l),
+(749,1082,l),
+(925,1082,l),
+(524,547,l),
+(935,0,l),
+(755,0,l),
+(403,480,l),
+(310,479,l),
+(310,0,l),
+(160,0,l),
+(160,1082,l)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 21;
+},
+{
+position = 479;
+width = 125;
+},
+{
+position = 1062;
+width = 20;
+}
+);
+vhints = (
+{
+position = 160;
+width = 150;
+}
+);
+};
+};
+width = 1005;
+}
+);
+unicode = 1082;
+}

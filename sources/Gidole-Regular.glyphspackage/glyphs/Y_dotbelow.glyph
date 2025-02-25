@@ -1,0 +1,48 @@
+{
+color = 3;
+glyphname = Ydotbelow;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (318,0);
+ref = dotbelowcomb;
+},
+{
+ref = Y;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -372;
+width = 207;
+},
+{
+position = 0;
+width = 21;
+},
+{
+position = 1396;
+width = 20;
+}
+);
+vhints = (
+{
+position = 438;
+width = 206;
+},
+{
+position = 463;
+width = 156;
+}
+);
+};
+};
+width = 1082;
+}
+);
+unicode = 7924;
+}

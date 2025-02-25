@@ -1,0 +1,31 @@
+{
+glyphname = underscore;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(810,0,l),
+(810,-150,l),
+(30,-150,l),
+(30,0,l)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -150;
+width = 150;
+}
+);
+};
+};
+width = 840;
+}
+);
+unicode = 95;
+}

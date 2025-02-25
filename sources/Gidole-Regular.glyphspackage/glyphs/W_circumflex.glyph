@@ -1,0 +1,44 @@
+{
+color = 3;
+glyphname = Wcircumflex;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (319,334);
+ref = circumflex;
+},
+{
+ref = W;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 21;
+},
+{
+position = 1396;
+width = 20;
+},
+{
+position = 1556;
+width = 274;
+}
+);
+vhints = (
+{
+position = 439;
+width = 622;
+}
+);
+};
+};
+width = 1500;
+}
+);
+unicode = 372;
+}

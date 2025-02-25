@@ -1,0 +1,33 @@
+{
+color = 3;
+glyphname = anoteleia;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (20,447);
+ref = period;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 431;
+width = 220;
+}
+);
+vhints = (
+{
+position = 160;
+width = 220;
+}
+);
+};
+};
+width = 500;
+}
+);
+unicode = 903;
+}

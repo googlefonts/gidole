@@ -1,0 +1,49 @@
+{
+color = 2;
+glyphname = racute;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(512,1222,l),
+(354,1222,l),
+(508,1496,l),
+(677,1496,l)
+);
+},
+{
+ref = r;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 21;
+},
+{
+position = 964;
+width = 134;
+},
+{
+position = 1062;
+width = 20;
+}
+);
+vhints = (
+{
+position = 160;
+width = 150;
+}
+);
+};
+};
+width = 697;
+}
+);
+unicode = 341;
+}

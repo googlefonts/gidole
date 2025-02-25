@@ -1,0 +1,48 @@
+{
+color = 3;
+glyphname = "Ve-cy";
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = B;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 140;
+},
+{
+position = 652;
+width = 140;
+},
+{
+position = 1276;
+width = 140;
+}
+);
+vhints = (
+{
+position = 180;
+width = 156;
+},
+{
+position = 842;
+width = 156;
+},
+{
+position = 890;
+width = 156;
+}
+);
+};
+};
+width = 1166;
+}
+);
+unicode = 1042;
+}

@@ -1,0 +1,64 @@
+{
+glyphname = lcaron.alt;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(160,0,l),
+(160,1496,l),
+(310,1496,l),
+(310,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(639,1510,o),
+(684,1465,o),
+(684,1400,cs),
+(684,1375,o),
+(680,1359,o),
+(659,1308,cs),
+(569,1086,l),
+(471,1086,l),
+(528,1299,l),
+(491,1313,o),
+(464,1351,o),
+(464,1400,cs),
+(464,1465,o),
+(509,1510,o),
+(574,1510,cs)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 21;
+},
+{
+position = 1086;
+width = 21;
+}
+);
+vhints = (
+{
+position = 160;
+width = 150;
+},
+{
+position = 464;
+width = 220;
+}
+);
+};
+};
+width = 824;
+}
+);
+}

@@ -1,0 +1,35 @@
+{
+color = 3;
+glyphname = two.tab;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = two;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 140;
+},
+{
+position = 1295;
+width = 140;
+}
+);
+vhints = (
+{
+position = 764;
+width = 156;
+}
+);
+};
+};
+width = 1108;
+}
+);
+}

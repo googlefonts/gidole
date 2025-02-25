@@ -1,0 +1,492 @@
+{
+.appVersion = "3343";
+.formatVersion = 3;
+customParameters = (
+{
+name = licenses;
+value = "Gidole is dual licensed under OFL (without reserved font name) and MIT license - pick the one you prefer ¯\\_(ツ)_/¯";
+},
+{
+name = licenseURL;
+value = "https://raw.githubusercontent.com/larsenwork/Gidole/master/Resources/GidoleFont/License.txt";
+},
+{
+name = versionString;
+value = "Version 2.001";
+},
+{
+name = codePageRanges;
+value = (
+"1252",
+"1250"
+);
+},
+{
+name = openTypeOS2FamilyClass;
+value = (
+5,
+3
+);
+},
+{
+name = panose;
+value = (
+2,
+0,
+5,
+3,
+0,
+0,
+0,
+0,
+0,
+0
+);
+},
+{
+name = fsType;
+value = (
+);
+},
+{
+name = unicodeRanges;
+value = (
+0,
+1,
+2,
+3,
+4,
+5,
+6,
+7,
+29,
+30,
+31,
+33,
+35,
+37,
+38,
+45,
+62
+);
+},
+{
+name = vendorID;
+value = PfEd;
+}
+);
+date = "2014-12-04 19:46:25 +0000";
+familyName = Gidole;
+featurePrefixes = (
+{
+automatic = 1;
+code = "languagesystem DFLT dflt;
+
+languagesystem latn dflt;
+languagesystem latn CAT;
+";
+name = Languagesystems;
+}
+);
+features = (
+{
+automatic = 1;
+code = "feature locl;
+feature subs;
+feature sinf;
+feature sups;
+feature frac;
+feature ordn;
+feature case;
+feature zero;
+";
+tag = aalt;
+},
+{
+automatic = 1;
+code = "script latn;
+language CAT;
+lookup locl_latn_0 {
+	sub  l' periodcentered' l by ldot;
+	sub  L' periodcentered' L by Ldot;
+} locl_latn_0;
+";
+tag = locl;
+},
+{
+automatic = 1;
+code = "sub zero by zeroinferior;
+sub one by oneinferior;
+sub two by twoinferior;
+sub three by threeinferior;
+sub four by fourinferior;
+sub five by fiveinferior;
+sub six by sixinferior;
+sub seven by seveninferior;
+sub eight by eightinferior;
+sub nine by nineinferior;
+sub parenleft by parenleftinferior;
+sub parenright by parenrightinferior;
+";
+tag = subs;
+},
+{
+automatic = 1;
+code = "sub zero by zeroinferior;
+sub one by oneinferior;
+sub two by twoinferior;
+sub three by threeinferior;
+sub four by fourinferior;
+sub five by fiveinferior;
+sub six by sixinferior;
+sub seven by seveninferior;
+sub eight by eightinferior;
+sub nine by nineinferior;
+sub parenleft by parenleftinferior;
+sub parenright by parenrightinferior;
+";
+tag = sinf;
+},
+{
+automatic = 1;
+code = "sub zero by zerosuperior;
+sub one by onesuperior;
+sub two by twosuperior;
+sub three by threesuperior;
+sub four by foursuperior;
+sub five by fivesuperior;
+sub six by sixsuperior;
+sub seven by sevensuperior;
+sub eight by eightsuperior;
+sub nine by ninesuperior;
+sub parenleft by parenleftsuperior;
+sub parenright by parenrightsuperior;
+";
+tag = sups;
+},
+{
+automatic = 1;
+code = "sub one slash eight by oneeighth;
+sub one slash four by onequarter;
+sub three slash eight by threeeighths;
+sub one slash two by onehalf;
+sub five slash eight by fiveeighths;
+sub three slash four by threequarters;
+sub seven slash eight by seveneighths;
+sub one slash three by onethird;
+sub two slash three by twothirds;
+";
+tag = frac;
+},
+{
+automatic = 1;
+code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+";
+tag = ordn;
+},
+{
+automatic = 1;
+code = "sub colon by colon.case;
+sub exclamdown by exclamdown.case;
+sub questiondown by questiondown.case;
+sub parenleft by parenleft.case;
+sub parenright by parenright.case;
+sub braceleft by braceleft.case;
+sub braceright by braceright.case;
+sub bracketleft by bracketleft.case;
+sub bracketright by bracketright.case;
+sub at by at.case;
+sub at.alt by at.alt.case;
+";
+tag = case;
+},
+{
+automatic = 1;
+code = "lookupflag IgnoreMarks;
+sub f j by f_j;
+sub f t by f_t;
+";
+tag = dlig;
+},
+{
+automatic = 1;
+code = "lookupflag IgnoreMarks;
+sub f f i by f_f_i;
+sub f f by f_f;
+sub f i by f_i;
+sub f l by f_l;
+";
+tag = liga;
+},
+{
+automatic = 1;
+code = "sub zero by zero.zero;
+";
+tag = zero;
+}
+);
+fontMaster = (
+{
+customParameters = (
+{
+name = typoAscender;
+value = 1496;
+},
+{
+name = typoDescender;
+value = -472;
+},
+{
+name = typoLineGap;
+value = 102;
+},
+{
+name = hheaAscender;
+value = 1860;
+},
+{
+name = hheaDescender;
+value = -460;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1906;
+},
+{
+name = winDescent;
+value = 472;
+},
+{
+name = strikeoutPosition;
+value = 528;
+},
+{
+name = strikeoutSize;
+value = 100;
+},
+{
+name = underlineThickness;
+value = 99;
+},
+{
+name = underlinePosition;
+value = -99;
+},
+{
+name = subscriptXOffset;
+value = 0;
+},
+{
+name = subscriptXSize;
+value = 1331;
+},
+{
+name = subscriptYOffset;
+value = 287;
+},
+{
+name = subscriptYSize;
+value = 1434;
+},
+{
+name = superscriptXOffset;
+value = 0;
+},
+{
+name = superscriptXSize;
+value = 1331;
+},
+{
+name = superscriptYOffset;
+value = 983;
+},
+{
+name = superscriptYSize;
+value = 1434;
+}
+);
+guides = (
+{
+angle = 270;
+pos = (549,512);
+},
+{
+pos = (1024,754);
+},
+{
+pos = (1024,1593);
+},
+{
+pos = (1024,1222);
+},
+{
+pos = (1024,722);
+},
+{
+pos = (1024,115);
+},
+{
+pos = (1024,966);
+},
+{
+pos = (1024,1496);
+},
+{
+pos = (1024,-414);
+},
+{
+pos = (1024,1082);
+},
+{
+pos = (1024,1416);
+},
+{
+pos = (1024,541);
+}
+);
+id = m001;
+metricValues = (
+{
+pos = 1536;
+},
+{
+over = -19;
+},
+{
+over = -19;
+},
+{
+over = -19;
+},
+{
+pos = -512;
+},
+{
+},
+{
+over = 16;
+pos = 1082;
+},
+{
+over = 19;
+pos = 1416;
+}
+);
+name = Regular;
+}
+);
+instances = (
+{
+customParameters = (
+{
+name = postscriptWeightName;
+value = Regular;
+}
+);
+instanceInterpolations = {
+m001 = 1;
+};
+name = Regular;
+properties = (
+{
+key = postscriptFontName;
+value = "Gidole-Regular";
+},
+{
+key = postscriptFullNames;
+values = (
+{
+language = dflt;
+value = "Gidole Regular";
+}
+);
+},
+{
+key = styleMapFamilyNames;
+values = (
+{
+language = dflt;
+value = "Gidole Regular";
+}
+);
+}
+);
+}
+);
+metrics = (
+{
+type = ascender;
+},
+{
+type = "cap height";
+},
+{
+type = "x-height";
+},
+{
+type = baseline;
+},
+{
+type = descender;
+},
+{
+type = "italic angle";
+},
+{
+name = "zone 1";
+},
+{
+name = "zone 2";
+}
+);
+properties = (
+{
+key = copyrights;
+values = (
+{
+language = dflt;
+value = "Copyright (c) 2015, Andreas Larsen @larsenwork";
+}
+);
+},
+{
+key = designerURL;
+value = "http://gidole.github.io";
+},
+{
+key = licenses;
+values = (
+{
+language = dflt;
+value = "Gidole is dual licensed under OFL (without reserved font name) and MIT license - pick the one you prefer ¯\\_(ツ)_/¯";
+}
+);
+},
+{
+key = licenseURL;
+value = "https://raw.githubusercontent.com/larsenwork/Gidole/master/Resources/GidoleFont/License.txt";
+},
+{
+key = vendorID;
+value = PfEd;
+},
+{
+key = versionString;
+value = "Version 2.001";
+}
+);
+settings = {
+disablesAutomaticAlignment = 1;
+};
+unitsPerEm = 2048;
+userData = {
+UFOFormat = 3;
+};
+versionMajor = 2;
+versionMinor = 1;
+}

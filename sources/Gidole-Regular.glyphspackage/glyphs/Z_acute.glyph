@@ -1,0 +1,39 @@
+{
+color = 2;
+glyphname = Zacute;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(561,1556,l),
+(403,1556,l),
+(557,1830,l),
+(726,1830,l)
+);
+},
+{
+ref = Z;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 140;
+},
+{
+position = 1276;
+width = 140;
+}
+);
+};
+};
+width = 1027;
+}
+);
+unicode = 377;
+}

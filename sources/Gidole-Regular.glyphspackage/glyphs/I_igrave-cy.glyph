@@ -1,0 +1,52 @@
+{
+color = 3;
+glyphname = "Iigrave-cy";
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (313,334);
+ref = gravecomb;
+},
+{
+ref = "Ii-cy";
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 21;
+},
+{
+position = 1396;
+width = 20;
+},
+{
+position = 1556;
+width = 274;
+}
+);
+vhints = (
+{
+position = 180;
+width = 156;
+},
+{
+position = 433;
+width = 323;
+},
+{
+position = 958;
+width = 156;
+}
+);
+};
+};
+width = 1294;
+}
+);
+unicode = 1037;
+}

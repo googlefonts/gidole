@@ -1,0 +1,56 @@
+{
+color = 3;
+glyphname = Gmacron;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (213,334);
+ref = macroncomb;
+},
+{
+ref = G;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -19;
+width = 140;
+},
+{
+position = 602;
+width = 140;
+},
+{
+position = 1295;
+width = 140;
+},
+{
+position = 1586;
+width = 134;
+}
+);
+vhints = (
+{
+position = 130;
+width = 156;
+},
+{
+position = 333;
+width = 570;
+},
+{
+position = 949;
+width = 157;
+}
+);
+};
+};
+width = 1236;
+}
+);
+unicode = 7712;
+}

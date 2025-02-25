@@ -1,0 +1,60 @@
+{
+color = 3;
+glyphname = Ocircumflexdotbelow;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (197,335);
+ref = circumflexcomb;
+},
+{
+ref = Odotbelow;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -372;
+width = 207;
+},
+{
+position = -19;
+width = 140;
+},
+{
+position = 1295;
+width = 140;
+},
+{
+position = 1557;
+width = 274;
+}
+);
+vhints = (
+{
+position = 130;
+width = 156;
+},
+{
+position = 317;
+width = 622;
+},
+{
+position = 498;
+width = 206;
+},
+{
+position = 970;
+width = 156;
+}
+);
+};
+};
+width = 1256;
+}
+);
+unicode = 7896;
+}

@@ -1,0 +1,57 @@
+{
+glyphname = "Ii-cy";
+layers = (
+{
+anchors = (
+{
+name = Top;
+pos = (647,1416);
+}
+);
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(336,280,l),
+(957,1416,l),
+(1114,1416,l),
+(1114,0,l),
+(958,0,l),
+(958,1136,l),
+(337,0,l),
+(180,0,l),
+(180,1416,l),
+(336,1416,l)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 21;
+},
+{
+position = 1396;
+width = 20;
+}
+);
+vhints = (
+{
+position = 180;
+width = 156;
+},
+{
+position = 958;
+width = 156;
+}
+);
+};
+};
+width = 1294;
+}
+);
+unicode = 1048;
+}

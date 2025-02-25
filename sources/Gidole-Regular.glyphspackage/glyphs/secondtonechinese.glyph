@@ -1,0 +1,38 @@
+{
+color = 3;
+glyphname = secondtonechinese;
+layers = (
+{
+anchors = (
+{
+name = _Top;
+pos = (231,1082);
+}
+);
+layerId = m001;
+shapes = (
+{
+ref = acute;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 1222;
+width = 274;
+}
+);
+vhints = (
+{
+position = 120;
+width = 323;
+}
+);
+};
+};
+width = 563;
+}
+);
+unicode = 714;
+}

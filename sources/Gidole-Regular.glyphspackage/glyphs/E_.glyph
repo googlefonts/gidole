@@ -1,0 +1,63 @@
+{
+glyphname = E;
+layers = (
+{
+anchors = (
+{
+name = Bottom;
+pos = (885,0);
+},
+{
+name = Top;
+pos = (577,1416);
+}
+);
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(960,1416,l),
+(960,1276,l),
+(336,1276,l),
+(336,792,l),
+(870,792,l),
+(870,652,l),
+(336,652,l),
+(336,140,l),
+(960,140,l),
+(960,0,l),
+(180,0,l),
+(180,1416,l)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 140;
+},
+{
+position = 652;
+width = 140;
+},
+{
+position = 1276;
+width = 140;
+}
+);
+vhints = (
+{
+position = 180;
+width = 156;
+}
+);
+};
+};
+width = 1100;
+}
+);
+unicode = 69;
+}

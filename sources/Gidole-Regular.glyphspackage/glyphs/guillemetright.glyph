@@ -1,0 +1,18 @@
+{
+color = 3;
+glyphname = guillemetright;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+angle = 180;
+pos = (922,1078);
+ref = guillemetleft;
+}
+);
+width = 942;
+}
+);
+unicode = 187;
+}

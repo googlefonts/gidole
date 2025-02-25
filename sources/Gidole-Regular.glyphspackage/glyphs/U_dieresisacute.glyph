@@ -1,0 +1,61 @@
+{
+color = 2;
+glyphname = Udieresisacute;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(697,1891,l),
+(539,1891,l),
+(693,2165,l),
+(862,2165,l)
+);
+},
+{
+ref = Udieresis;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -19;
+width = 140;
+},
+{
+position = 1396;
+width = 20;
+},
+{
+position = 1581;
+width = 188;
+}
+);
+vhints = (
+{
+position = 160;
+width = 156;
+},
+{
+position = 333;
+width = 188;
+},
+{
+position = 715;
+width = 188;
+},
+{
+position = 920;
+width = 156;
+}
+);
+};
+};
+width = 1236;
+}
+);
+unicode = 471;
+}

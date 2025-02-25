@@ -1,0 +1,54 @@
+{
+color = 3;
+glyphname = i;
+layers = (
+{
+anchors = (
+{
+name = Bottom;
+pos = (240,0);
+}
+);
+layerId = m001;
+shapes = (
+{
+pos = (12,0);
+ref = dotaccentcomb;
+},
+{
+ref = idotless;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 21;
+},
+{
+position = 1062;
+width = 20;
+},
+{
+position = 1247;
+width = 207;
+}
+);
+vhints = (
+{
+position = 132;
+width = 206;
+},
+{
+position = 160;
+width = 150;
+}
+);
+};
+};
+width = 470;
+}
+);
+unicode = 105;
+}

@@ -1,0 +1,49 @@
+{
+color = 2;
+glyphname = Eacute;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(624,1556,l),
+(466,1556,l),
+(620,1830,l),
+(789,1830,l)
+);
+},
+{
+ref = E;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 140;
+},
+{
+position = 652;
+width = 140;
+},
+{
+position = 1276;
+width = 140;
+}
+);
+vhints = (
+{
+position = 180;
+width = 156;
+}
+);
+};
+};
+width = 1100;
+}
+);
+unicode = 201;
+}

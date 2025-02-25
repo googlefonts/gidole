@@ -1,0 +1,81 @@
+{
+color = 3;
+glyphname = fiveeighths;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (0,662);
+ref = five.d;
+},
+{
+pos = (880,0);
+ref = eight.d;
+},
+{
+pos = (687,0);
+ref = fraction;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -12;
+width = 118;
+},
+{
+position = 330;
+width = 118;
+},
+{
+position = 648;
+width = 118;
+},
+{
+position = 650;
+width = 118;
+},
+{
+position = 1025;
+width = 118;
+},
+{
+position = 1298;
+width = 118;
+}
+);
+vhints = (
+{
+position = 138;
+width = 132;
+},
+{
+position = 498;
+width = 132;
+},
+{
+position = 977;
+width = 132;
+},
+{
+position = 994;
+width = 132;
+},
+{
+position = 1374;
+width = 132;
+},
+{
+position = 1391;
+width = 132;
+}
+);
+};
+};
+width = 1665;
+}
+);
+unicode = 8541;
+}

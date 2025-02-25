@@ -1,0 +1,51 @@
+{
+glyphname = z;
+layers = (
+{
+anchors = (
+{
+name = Bottom;
+pos = (440,0);
+},
+{
+name = Top;
+pos = (440,1082);
+}
+);
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(800,0,l),
+(80,0,l),
+(80,108,l),
+(606,948,l),
+(87,948,l),
+(87,1082,l),
+(791,1082,l),
+(791,974,l),
+(265,134,l),
+(800,134,l)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 134;
+},
+{
+position = 948;
+width = 134;
+}
+);
+};
+};
+width = 880;
+}
+);
+unicode = 122;
+}

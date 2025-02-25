@@ -1,0 +1,64 @@
+{
+color = 3;
+glyphname = Acircumflextilde;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (166,740);
+ref = tildecomb;
+},
+{
+ref = Acircumflex;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 21;
+},
+{
+position = 342;
+width = 140;
+},
+{
+position = 1396;
+width = 20;
+},
+{
+position = 1556;
+width = 274;
+},
+{
+position = 1962;
+width = 124;
+},
+{
+position = 2022;
+width = 124;
+},
+{
+position = 2136;
+width = 20;
+}
+);
+vhints = (
+{
+position = 284;
+width = 622;
+},
+{
+position = 295;
+width = 600;
+}
+);
+};
+};
+width = 1190;
+}
+);
+unicode = 7850;
+}

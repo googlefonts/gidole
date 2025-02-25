@@ -1,0 +1,52 @@
+{
+color = 3;
+glyphname = at.case;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (0,167);
+ref = at;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -65;
+width = 134;
+},
+{
+position = 367;
+width = 134;
+},
+{
+position = 910;
+width = 124;
+},
+{
+position = 1347;
+width = 134;
+}
+);
+vhints = (
+{
+position = 180;
+width = 150;
+},
+{
+position = 569;
+width = 150;
+},
+{
+position = 1189;
+width = 150;
+}
+);
+};
+};
+width = 1519;
+}
+);
+}

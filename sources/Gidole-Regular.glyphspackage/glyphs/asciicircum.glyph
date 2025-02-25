@@ -1,0 +1,46 @@
+{
+glyphname = asciicircum;
+layers = (
+{
+anchors = (
+{
+name = _Top;
+pos = (431,1082);
+}
+);
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(431,1360,l),
+(291,1222,l),
+(120,1222,l),
+(378,1496,l),
+(484,1496,l),
+(742,1222,l),
+(571,1222,l)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 1222;
+width = 274;
+}
+);
+vhints = (
+{
+position = 120;
+width = 622;
+}
+);
+};
+};
+width = 862;
+}
+);
+unicode = 94;
+}

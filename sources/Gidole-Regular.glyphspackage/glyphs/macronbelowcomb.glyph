@@ -1,0 +1,39 @@
+{
+color = 3;
+glyphname = macronbelowcomb;
+layers = (
+{
+anchors = (
+{
+name = _Bottom;
+pos = (405,0);
+}
+);
+layerId = m001;
+shapes = (
+{
+pos = (0,-1571);
+ref = macron;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -319;
+width = 134;
+}
+);
+vhints = (
+{
+position = 120;
+width = 570;
+}
+);
+};
+};
+width = 810;
+}
+);
+unicode = 817;
+}

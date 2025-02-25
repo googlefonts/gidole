@@ -1,0 +1,60 @@
+{
+color = 3;
+glyphname = twothirds;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = two.n;
+},
+{
+pos = (918,0);
+ref = three.d;
+},
+{
+pos = (707,0);
+ref = fraction;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -12;
+width = 118;
+},
+{
+position = 330;
+width = 118;
+},
+{
+position = 648;
+width = 118;
+},
+{
+position = 662;
+width = 118;
+},
+{
+position = 1310;
+width = 118;
+}
+);
+vhints = (
+{
+position = 471;
+width = 132;
+},
+{
+position = 1411;
+width = 132;
+}
+);
+};
+};
+width = 1685;
+}
+);
+unicode = 8532;
+}

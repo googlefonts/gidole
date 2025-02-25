@@ -1,0 +1,56 @@
+{
+color = 3;
+glyphname = Ebreve;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (203,334);
+ref = breve;
+},
+{
+ref = E;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 140;
+},
+{
+position = 652;
+width = 140;
+},
+{
+position = 1276;
+width = 140;
+},
+{
+position = 1542;
+width = 124;
+}
+);
+vhints = (
+{
+position = 180;
+width = 156;
+},
+{
+position = 313;
+width = 140;
+},
+{
+position = 703;
+width = 140;
+}
+);
+};
+};
+width = 1100;
+}
+);
+unicode = 276;
+}

@@ -1,0 +1,53 @@
+{
+color = 3;
+glyphname = tripleIntegral;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (1020,0);
+ref = integral;
+},
+{
+pos = (520,0);
+ref = integral;
+},
+{
+pos = (20,0);
+ref = integral;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -428;
+width = 134;
+},
+{
+position = 1378;
+width = 134;
+}
+);
+vhints = (
+{
+position = 180;
+width = 150;
+},
+{
+position = 680;
+width = 150;
+},
+{
+position = 1180;
+width = 150;
+}
+);
+};
+};
+width = 1565;
+}
+);
+unicode = 8749;
+}

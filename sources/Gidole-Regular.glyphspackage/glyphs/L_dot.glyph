@@ -1,0 +1,48 @@
+{
+color = 3;
+glyphname = Ldot;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (381,181);
+ref = periodcentered;
+},
+{
+ref = L;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 140;
+},
+{
+position = 612;
+width = 220;
+},
+{
+position = 1396;
+width = 20;
+}
+);
+vhints = (
+{
+position = 180;
+width = 156;
+},
+{
+position = 541;
+width = 220;
+}
+);
+};
+};
+width = 1010;
+}
+);
+unicode = 319;
+}

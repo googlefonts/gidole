@@ -1,0 +1,54 @@
+{
+glyphname = "em-cy";
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(160,1082,l),
+(310,1082,l),
+(677,487,l),
+(1034,1082,l),
+(1184,1082,l),
+(1184,0,l),
+(1034,0,l),
+(1034,838,l),
+(748,341,l),
+(606,341,l),
+(310,838,l),
+(310,0,l),
+(160,0,l)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 21;
+},
+{
+position = 1062;
+width = 20;
+}
+);
+vhints = (
+{
+position = 160;
+width = 150;
+},
+{
+position = 1034;
+width = 150;
+}
+);
+};
+};
+width = 1344;
+}
+);
+unicode = 1084;
+}

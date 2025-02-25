@@ -1,0 +1,49 @@
+{
+color = 3;
+glyphname = tcaron;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (536,78);
+ref = apostrophemod;
+},
+{
+pos = (20,0);
+ref = t;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -16;
+width = 134;
+},
+{
+position = 958;
+width = 124;
+},
+{
+position = 1166;
+width = 424;
+}
+);
+vhints = (
+{
+position = 210;
+width = 150;
+},
+{
+position = 656;
+width = 220;
+}
+);
+};
+};
+width = 996;
+}
+);
+unicode = 357;
+}

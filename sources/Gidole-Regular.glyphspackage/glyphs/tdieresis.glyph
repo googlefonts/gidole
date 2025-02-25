@@ -1,0 +1,52 @@
+{
+color = 3;
+glyphname = tdieresis;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (-140,191);
+ref = dieresis;
+},
+{
+ref = t;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -16;
+width = 134;
+},
+{
+position = 958;
+width = 124;
+},
+{
+position = 1438;
+width = 188;
+}
+);
+vhints = (
+{
+position = -20;
+width = 188;
+},
+{
+position = 190;
+width = 150;
+},
+{
+position = 362;
+width = 188;
+}
+);
+};
+};
+width = 652;
+}
+);
+unicode = 7831;
+}

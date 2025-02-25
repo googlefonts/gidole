@@ -1,0 +1,48 @@
+{
+color = 3;
+glyphname = "gje-cy";
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (274,0);
+ref = acutecomb;
+},
+{
+ref = "ge-cy";
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 21;
+},
+{
+position = 948;
+width = 134;
+},
+{
+position = 1222;
+width = 274;
+}
+);
+vhints = (
+{
+position = 160;
+width = 150;
+},
+{
+position = 394;
+width = 323;
+}
+);
+};
+};
+width = 880;
+}
+);
+unicode = 1107;
+}

@@ -1,0 +1,57 @@
+{
+color = 3;
+glyphname = obreve;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (216,1);
+ref = breve;
+},
+{
+pos = (20,0);
+ref = o;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -16;
+width = 134;
+},
+{
+position = 964;
+width = 134;
+},
+{
+position = 1209;
+width = 124;
+}
+);
+vhints = (
+{
+position = 145;
+width = 150;
+},
+{
+position = 326;
+width = 140;
+},
+{
+position = 716;
+width = 140;
+},
+{
+position = 845;
+width = 150;
+}
+);
+};
+};
+width = 1100;
+}
+);
+unicode = 335;
+}

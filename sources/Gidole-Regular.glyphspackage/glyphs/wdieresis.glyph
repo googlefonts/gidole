@@ -1,0 +1,48 @@
+{
+color = 3;
+glyphname = wdieresis;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (299,0);
+ref = dieresis;
+},
+{
+ref = w;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 21;
+},
+{
+position = 1062;
+width = 20;
+},
+{
+position = 1247;
+width = 188;
+}
+);
+vhints = (
+{
+position = 419;
+width = 188;
+},
+{
+position = 801;
+width = 188;
+}
+);
+};
+};
+width = 1408;
+}
+);
+unicode = 7813;
+}

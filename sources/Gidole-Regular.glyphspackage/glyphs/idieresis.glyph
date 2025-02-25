@@ -1,0 +1,52 @@
+{
+color = 3;
+glyphname = idieresis;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (-170,0);
+ref = dieresis;
+},
+{
+ref = idotless;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 21;
+},
+{
+position = 1062;
+width = 20;
+},
+{
+position = 1247;
+width = 188;
+}
+);
+vhints = (
+{
+position = -50;
+width = 188;
+},
+{
+position = 160;
+width = 150;
+},
+{
+position = 332;
+width = 188;
+}
+);
+};
+};
+width = 470;
+}
+);
+unicode = 239;
+}

@@ -1,0 +1,37 @@
+{
+glyphname = upArrow;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(120,715,l),
+(601,1132,l),
+(705,1132,l),
+(1186,715,l),
+(1094,609,l),
+(728,926,l),
+(728,50,l),
+(578,50,l),
+(578,926,l),
+(212,609,l)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+vhints = (
+{
+position = 578;
+width = 150;
+}
+);
+};
+};
+width = 1306;
+}
+);
+unicode = 8593;
+}

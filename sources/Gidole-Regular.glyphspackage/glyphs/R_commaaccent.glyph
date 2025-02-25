@@ -1,0 +1,56 @@
+{
+color = 3;
+glyphname = Rcommaaccent;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (386,0);
+ref = commaaccentcomb;
+},
+{
+ref = R;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -455;
+width = 330;
+},
+{
+position = 0;
+width = 21;
+},
+{
+position = 556;
+width = 140;
+},
+{
+position = 1276;
+width = 140;
+}
+);
+vhints = (
+{
+position = 180;
+width = 156;
+},
+{
+position = 506;
+width = 193;
+},
+{
+position = 870;
+width = 156;
+}
+);
+};
+};
+width = 1151;
+}
+);
+unicode = 342;
+}

@@ -1,0 +1,52 @@
+{
+color = 3;
+glyphname = Yhookabove;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (232,334);
+ref = hookabovecomb;
+},
+{
+ref = Y;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 21;
+},
+{
+position = 1396;
+width = 20;
+},
+{
+position = 1543;
+width = 98;
+},
+{
+position = 1780;
+width = 98;
+}
+);
+vhints = (
+{
+position = 463;
+width = 156;
+},
+{
+position = 590;
+width = 110;
+}
+);
+};
+};
+width = 1082;
+}
+);
+unicode = 7926;
+}

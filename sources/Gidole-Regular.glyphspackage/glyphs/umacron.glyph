@@ -1,0 +1,54 @@
+{
+color = 2;
+glyphname = umacron;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(870,1386,l),
+(870,1252,l),
+(300,1252,l),
+(300,1386,l)
+);
+},
+{
+pos = (20,0);
+ref = u;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -16;
+width = 134;
+},
+{
+position = 1062;
+width = 20;
+},
+{
+position = 1252;
+width = 134;
+}
+);
+vhints = (
+{
+position = 170;
+width = 150;
+},
+{
+position = 810;
+width = 150;
+}
+);
+};
+};
+width = 1100;
+}
+);
+unicode = 363;
+}

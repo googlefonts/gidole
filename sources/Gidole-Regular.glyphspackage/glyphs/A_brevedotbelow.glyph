@@ -1,0 +1,60 @@
+{
+color = 3;
+glyphname = Abrevedotbelow;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (220,349);
+ref = brevecomb;
+},
+{
+ref = Adotbelow;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -372;
+width = 207;
+},
+{
+position = 0;
+width = 21;
+},
+{
+position = 342;
+width = 140;
+},
+{
+position = 1396;
+width = 20;
+},
+{
+position = 1557;
+width = 124;
+}
+);
+vhints = (
+{
+position = 330;
+width = 140;
+},
+{
+position = 492;
+width = 206;
+},
+{
+position = 720;
+width = 140;
+}
+);
+};
+};
+width = 1190;
+}
+);
+unicode = 7862;
+}

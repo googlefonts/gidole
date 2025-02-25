@@ -1,0 +1,65 @@
+{
+glyphname = paragraph;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(594,1276,l),
+(594,0,l),
+(438,0,l),
+(438,536,l),
+(358,555,o),
+(280,593,o),
+(215,668,cs),
+(142,754,o),
+(110,862,o),
+(110,966,cs),
+(110,1070,o),
+(141,1179,o),
+(215,1264,cs),
+(347,1416,o),
+(533,1416,o),
+(678,1416,cs),
+(956,1416,l),
+(956,0,l),
+(800,0,l),
+(800,1276,l)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 21;
+},
+{
+position = 1276;
+width = 140;
+}
+);
+vhints = (
+{
+position = 110;
+width = 484;
+},
+{
+position = 438;
+width = 156;
+},
+{
+position = 800;
+width = 156;
+}
+);
+};
+};
+width = 1136;
+}
+);
+unicode = 182;
+}

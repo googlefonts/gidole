@@ -1,0 +1,60 @@
+{
+color = 3;
+glyphname = rdotbelowmacron;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (60,0);
+ref = macroncomb;
+},
+{
+ref = rdotbelow;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -372;
+width = 207;
+},
+{
+position = 0;
+width = 21;
+},
+{
+position = 964;
+width = 134;
+},
+{
+position = 1062;
+width = 20;
+},
+{
+position = 1252;
+width = 134;
+}
+);
+vhints = (
+{
+position = 131;
+width = 206;
+},
+{
+position = 160;
+width = 150;
+},
+{
+position = 180;
+width = 570;
+}
+);
+};
+};
+width = 697;
+}
+);
+unicode = 7773;
+}

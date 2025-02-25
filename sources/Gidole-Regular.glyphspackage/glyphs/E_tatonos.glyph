@@ -1,0 +1,66 @@
+{
+glyphname = Etatonos;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(518,1416,l),
+(518,792,l),
+(1126,792,l),
+(1126,1416,l),
+(1282,1416,l),
+(1282,0,l),
+(1126,0,l),
+(1126,652,l),
+(518,652,l),
+(518,0,l),
+(362,0,l),
+(362,1416,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(176,1269,l),
+(50,1269,l),
+(102,1543,l),
+(272,1543,l)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 21;
+},
+{
+position = 652;
+width = 140;
+},
+{
+position = 1396;
+width = 20;
+}
+);
+vhints = (
+{
+position = 362;
+width = 156;
+},
+{
+position = 1126;
+width = 156;
+}
+);
+};
+};
+width = 1462;
+}
+);
+unicode = 905;
+}

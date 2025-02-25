@@ -1,0 +1,64 @@
+{
+color = 3;
+glyphname = ntilde;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (146,0);
+ref = tilde;
+},
+{
+ref = n;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 21;
+},
+{
+position = 964;
+width = 134;
+},
+{
+position = 1062;
+width = 20;
+},
+{
+position = 1222;
+width = 124;
+},
+{
+position = 1282;
+width = 124;
+},
+{
+position = 1396;
+width = 20;
+}
+);
+vhints = (
+{
+position = 160;
+width = 150;
+},
+{
+position = 275;
+width = 600;
+},
+{
+position = 800;
+width = 150;
+}
+);
+};
+};
+width = 1100;
+}
+);
+unicode = 241;
+}

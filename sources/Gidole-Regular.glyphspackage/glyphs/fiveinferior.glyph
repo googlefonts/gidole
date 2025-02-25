@@ -1,0 +1,45 @@
+{
+color = 3;
+glyphname = fiveinferior;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (0,-177);
+ref = five.d;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -189;
+width = 118;
+},
+{
+position = 186;
+width = 118;
+},
+{
+position = 459;
+width = 118;
+}
+);
+vhints = (
+{
+position = 138;
+width = 132;
+},
+{
+position = 498;
+width = 132;
+}
+);
+};
+};
+width = 740;
+}
+);
+unicode = 8325;
+}

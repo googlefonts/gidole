@@ -1,0 +1,48 @@
+{
+color = 3;
+glyphname = Tcommaaccent;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (309,0);
+ref = commaaccentcomb;
+},
+{
+ref = T;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -455;
+width = 330;
+},
+{
+position = 0;
+width = 21;
+},
+{
+position = 1277;
+width = 140;
+}
+);
+vhints = (
+{
+position = 429;
+width = 193;
+},
+{
+position = 446;
+width = 156;
+}
+);
+};
+};
+width = 1048;
+}
+);
+unicode = 538;
+}

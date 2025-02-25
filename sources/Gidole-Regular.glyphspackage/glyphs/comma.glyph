@@ -1,0 +1,48 @@
+{
+glyphname = comma;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(315,204,o),
+(360,159,o),
+(360,94,cs),
+(360,69,o),
+(355,52,o),
+(336,0,cs),
+(245,-250,l),
+(147,-250,l),
+(204,-7,l),
+(167,7,o),
+(140,45,o),
+(140,94,cs),
+(140,159,o),
+(185,204,o),
+(250,204,cs)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -250;
+width = 454;
+}
+);
+vhints = (
+{
+position = 140;
+width = 220;
+}
+);
+};
+};
+width = 500;
+}
+);
+unicode = 44;
+}

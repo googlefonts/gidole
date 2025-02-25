@@ -1,0 +1,57 @@
+{
+glyphname = "dzhe-cy";
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(800,1082,l),
+(950,1082,l),
+(950,0,l),
+(635,0,l),
+(610,-374,l),
+(500,-374,l),
+(475,0,l),
+(160,0,l),
+(160,1082,l),
+(310,1082,l),
+(310,134,l),
+(800,134,l)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 134;
+},
+{
+position = 1062;
+width = 20;
+}
+);
+vhints = (
+{
+position = 160;
+width = 150;
+},
+{
+position = 500;
+width = 110;
+},
+{
+position = 800;
+width = 150;
+}
+);
+};
+};
+width = 1110;
+}
+);
+unicode = 1119;
+}

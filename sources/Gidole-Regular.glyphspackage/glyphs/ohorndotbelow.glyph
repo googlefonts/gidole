@@ -1,0 +1,56 @@
+{
+color = 3;
+glyphname = ohorndotbelow;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (327,0);
+ref = dotbelowcomb;
+},
+{
+ref = ohorn;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -372;
+width = 207;
+},
+{
+position = -16;
+width = 134;
+},
+{
+position = 964;
+width = 134;
+}
+);
+vhints = (
+{
+position = 125;
+width = 150;
+},
+{
+position = 447;
+width = 206;
+},
+{
+position = 825;
+width = 150;
+},
+{
+position = 1004;
+width = 140;
+}
+);
+};
+};
+width = 1100;
+}
+);
+unicode = 7907;
+}

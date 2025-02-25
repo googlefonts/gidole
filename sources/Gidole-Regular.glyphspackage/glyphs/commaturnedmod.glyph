@@ -1,0 +1,34 @@
+{
+color = 3;
+glyphname = commaturnedmod;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+angle = 180;
+pos = (460,2600);
+ref = quoteright;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 1088;
+width = 424;
+}
+);
+vhints = (
+{
+position = 120;
+width = 220;
+}
+);
+};
+};
+width = 460;
+}
+);
+unicode = 699;
+}

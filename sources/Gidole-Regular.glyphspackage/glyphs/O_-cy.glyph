@@ -1,0 +1,40 @@
+{
+color = 3;
+glyphname = "O-cy";
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = O;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -19;
+width = 140;
+},
+{
+position = 1295;
+width = 140;
+}
+);
+vhints = (
+{
+position = 130;
+width = 156;
+},
+{
+position = 970;
+width = 156;
+}
+);
+};
+};
+width = 1256;
+}
+);
+unicode = 1054;
+}

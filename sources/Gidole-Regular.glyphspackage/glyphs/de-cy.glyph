@@ -1,0 +1,74 @@
+{
+glyphname = "de-cy";
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(20,-264,l),
+(20,140,l),
+(135,140,l),
+(258,453,o),
+(275,718,o),
+(275,1082,c),
+(870,1082,l),
+(870,140,l),
+(1020,140,l),
+(1020,-264,l),
+(920,-264,l),
+(890,0,l),
+(150,0,l),
+(120,-264,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(420,662,o),
+(397,420,o),
+(293,140,c),
+(720,140,l),
+(720,948,l),
+(424,948,l)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 140;
+},
+{
+position = 948;
+width = 134;
+}
+);
+vhints = (
+{
+position = 20;
+width = 100;
+},
+{
+position = 275;
+width = 149;
+},
+{
+position = 720;
+width = 150;
+},
+{
+position = 920;
+width = 100;
+}
+);
+};
+};
+width = 1040;
+}
+);
+unicode = 1076;
+}

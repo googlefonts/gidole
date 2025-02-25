@@ -1,0 +1,53 @@
+{
+color = 2;
+glyphname = Imacron;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(543,1720,l),
+(543,1586,l),
+(-27,1586,l),
+(-27,1720,l)
+);
+},
+{
+ref = I;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 21;
+},
+{
+position = 1396;
+width = 20;
+},
+{
+position = 1586;
+width = 134;
+}
+);
+vhints = (
+{
+position = -27;
+width = 570;
+},
+{
+position = 180;
+width = 156;
+}
+);
+};
+};
+width = 516;
+}
+);
+unicode = 298;
+}

@@ -1,0 +1,68 @@
+{
+color = 3;
+glyphname = aring;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (186,0);
+ref = ringcomb;
+},
+{
+ref = a;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -16;
+width = 134;
+},
+{
+position = 0;
+width = 21;
+},
+{
+position = 527;
+width = 124;
+},
+{
+position = 964;
+width = 134;
+},
+{
+position = 1182;
+width = 95;
+},
+{
+position = 1452;
+width = 95;
+}
+);
+vhints = (
+{
+position = 100;
+width = 150;
+},
+{
+position = 306;
+width = 106;
+},
+{
+position = 576;
+width = 106;
+},
+{
+position = 720;
+width = 150;
+}
+);
+};
+};
+width = 1020;
+}
+);
+unicode = 229;
+}

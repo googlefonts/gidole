@@ -1,0 +1,56 @@
+{
+color = 3;
+glyphname = Ohorngrave;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (294,334);
+ref = gravecomb;
+},
+{
+ref = Ohorn;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -19;
+width = 140;
+},
+{
+position = 1295;
+width = 140;
+},
+{
+position = 1556;
+width = 274;
+}
+);
+vhints = (
+{
+position = 130;
+width = 156;
+},
+{
+position = 414;
+width = 323;
+},
+{
+position = 970;
+width = 156;
+},
+{
+position = 1130;
+width = 140;
+}
+);
+};
+};
+width = 1256;
+}
+);
+unicode = 7900;
+}

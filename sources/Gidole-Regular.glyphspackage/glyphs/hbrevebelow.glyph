@@ -1,0 +1,56 @@
+{
+color = 3;
+glyphname = hbrevebelow;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (175,0);
+ref = brevebelowcomb;
+},
+{
+ref = h;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -473;
+width = 124;
+},
+{
+position = 0;
+width = 21;
+},
+{
+position = 964;
+width = 134;
+}
+);
+vhints = (
+{
+position = 160;
+width = 150;
+},
+{
+position = 285;
+width = 140;
+},
+{
+position = 675;
+width = 140;
+},
+{
+position = 800;
+width = 150;
+}
+);
+};
+};
+width = 1100;
+}
+);
+unicode = 7723;
+}

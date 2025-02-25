@@ -1,0 +1,26 @@
+{
+color = 3;
+glyphname = horizontalbar;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = emdash;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 472;
+width = 134;
+}
+);
+};
+};
+width = 2088;
+}
+);
+unicode = 8213;
+}

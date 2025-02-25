@@ -1,0 +1,52 @@
+{
+color = 3;
+glyphname = Uhungarumlaut;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (258,334);
+ref = hungarumlaut;
+},
+{
+ref = U;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -19;
+width = 140;
+},
+{
+position = 1396;
+width = 20;
+},
+{
+position = 1556;
+width = 274;
+}
+);
+vhints = (
+{
+position = 160;
+width = 156;
+},
+{
+position = 368;
+width = 610;
+},
+{
+position = 920;
+width = 156;
+}
+);
+};
+};
+width = 1236;
+}
+);
+unicode = 368;
+}
