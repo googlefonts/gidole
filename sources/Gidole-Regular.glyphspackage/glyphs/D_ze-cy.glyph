@@ -1,8 +1,15 @@
 {
-color = 3;
+color = 4;
 glyphname = "Dze-cy";
 layers = (
 {
+background = {
+shapes = (
+{
+ref = S;
+}
+);
+};
 layerId = m001;
 shapes = (
 {

@@ -1,9 +1,9 @@
 {
-color = 3;
+color = 4;
 glyphname = ntilde;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (146,0);
@@ -11,6 +11,18 @@ ref = tilde;
 },
 {
 ref = n;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = n;
+},
+{
+alignment = 1;
+pos = (146,0);
+ref = tildecomb;
 }
 );
 userData = {

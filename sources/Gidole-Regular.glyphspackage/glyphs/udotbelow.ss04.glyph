@@ -1,8 +1,9 @@
 {
+color = 4;
 glyphname = udotbelow.ss04;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 closed = 1;
@@ -54,6 +55,17 @@ nodes = (
 (480,-165,o),
 (545,-165,cs)
 );
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = u.ss04;
+},
+{
+pos = (322,0);
+ref = dotbelowcomb;
 }
 );
 userData = {

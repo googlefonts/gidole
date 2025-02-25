@@ -1,8 +1,15 @@
 {
-color = 3;
+color = 4;
 glyphname = "Je-cy";
 layers = (
 {
+background = {
+shapes = (
+{
+ref = J;
+}
+);
+};
 layerId = m001;
 shapes = (
 {

@@ -1,8 +1,15 @@
 {
-color = 3;
+color = 4;
 glyphname = Ohm;
 layers = (
 {
+background = {
+shapes = (
+{
+ref = Omega;
+}
+);
+};
 layerId = m001;
 shapes = (
 {

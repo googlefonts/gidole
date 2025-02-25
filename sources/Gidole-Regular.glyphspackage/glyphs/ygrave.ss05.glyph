@@ -1,9 +1,9 @@
 {
-color = 3;
+color = 4;
 glyphname = ygrave.ss05;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (171,0);
@@ -11,6 +11,17 @@ ref = gravecomb;
 },
 {
 ref = y.ss05;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = y.ss05;
+},
+{
+pos = (171,0);
+ref = gravecomb;
 }
 );
 userData = {

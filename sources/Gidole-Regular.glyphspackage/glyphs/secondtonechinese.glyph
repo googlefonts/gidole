@@ -1,18 +1,32 @@
 {
-color = 3;
+color = 4;
 glyphname = secondtonechinese;
 layers = (
 {
 anchors = (
 {
-name = _Top;
+name = _top;
 pos = (231,1082);
 }
 );
-layerId = m001;
+background = {
+anchors = (
+{
+name = _top;
+pos = (231,1082);
+}
+);
 shapes = (
 {
 ref = acute;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+alignment = 1;
+ref = acutecomb;
 }
 );
 userData = {

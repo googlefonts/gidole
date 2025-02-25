@@ -1,13 +1,22 @@
 {
-color = 3;
+color = 4;
 glyphname = twosuperior;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (13,839);
-ref = two.d;
+ref = two.dnom;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+alignment = 1;
+pos = (0,839);
+ref = two.dnom;
 }
 );
 userData = {
@@ -30,7 +39,7 @@ width = 132;
 );
 };
 };
-width = 746;
+width = 740;
 }
 );
 unicode = 178;

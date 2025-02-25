@@ -1,9 +1,9 @@
 {
-color = 2;
+color = 4;
 glyphname = imacron;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 closed = 1;
@@ -16,6 +16,17 @@ nodes = (
 },
 {
 ref = idotless;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-170,0);
+ref = macroncomb;
 }
 );
 userData = {

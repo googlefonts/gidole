@@ -1,0 +1,88 @@
+{
+color = 4;
+glyphname = acircumflexhookabove.ss01;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (215,409);
+ref = hookabovecomb;
+},
+{
+ref = acircumflex;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = a.ss01;
+},
+{
+alignment = 1;
+pos = (104,0);
+ref = circumflexcomb;
+},
+{
+alignment = 1;
+pos = (226,395);
+ref = hookabovecomb;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -16;
+width = 134;
+},
+{
+position = 0;
+width = 21;
+},
+{
+position = 527;
+width = 124;
+},
+{
+position = 964;
+width = 134;
+},
+{
+position = 1222;
+width = 274;
+},
+{
+position = 1618;
+width = 98;
+},
+{
+position = 1855;
+width = 98;
+}
+);
+vhints = (
+{
+position = 100;
+width = 150;
+},
+{
+position = 184;
+width = 622;
+},
+{
+position = 573;
+width = 110;
+},
+{
+position = 720;
+width = 150;
+}
+);
+};
+};
+width = 1115;
+}
+);
+}

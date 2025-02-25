@@ -3,6 +3,22 @@ color = 2;
 glyphname = Theta;
 layers = (
 {
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(792,792,l),
+(792,652,l),
+(464,652,l),
+(464,792,l)
+);
+},
+{
+ref = O;
+}
+);
+};
 layerId = m001;
 shapes = (
 {

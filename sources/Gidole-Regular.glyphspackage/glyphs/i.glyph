@@ -1,15 +1,15 @@
 {
-color = 3;
+color = 4;
 glyphname = i;
 layers = (
 {
+background = {
 anchors = (
 {
-name = Bottom;
+name = bottom;
 pos = (240,0);
 }
 );
-layerId = m001;
 shapes = (
 {
 pos = (12,0);
@@ -17,6 +17,18 @@ ref = dotaccentcomb;
 },
 {
 ref = idotless;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = idotless;
+},
+{
+alignment = 1;
+pos = (12,0);
+ref = dotaccentcomb;
 }
 );
 userData = {

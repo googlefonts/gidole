@@ -2,6 +2,19 @@
 glyphname = slash;
 layers = (
 {
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(824,1416,l),
+(253,-90,l),
+(106,-90,l),
+(677,1416,l)
+);
+}
+);
+};
 layerId = m001;
 shapes = (
 {

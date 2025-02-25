@@ -1,0 +1,71 @@
+{
+color = 4;
+glyphname = uhorndotbelow.ss04;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (317,0);
+ref = dotbelowcomb;
+},
+{
+ref = uhorn;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = uhorn.ss04;
+},
+{
+alignment = 1;
+pos = (322,0);
+ref = dotbelowcomb;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -372;
+width = 207;
+},
+{
+position = -16;
+width = 134;
+},
+{
+position = 779;
+width = 110;
+},
+{
+position = 1062;
+width = 20;
+}
+);
+vhints = (
+{
+position = 150;
+width = 150;
+},
+{
+position = 437;
+width = 206;
+},
+{
+position = 790;
+width = 150;
+},
+{
+position = 1094;
+width = 140;
+}
+);
+};
+};
+width = 1100;
+}
+);
+}

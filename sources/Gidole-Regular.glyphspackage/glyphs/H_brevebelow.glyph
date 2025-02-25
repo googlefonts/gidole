@@ -1,9 +1,9 @@
 {
-color = 3;
+color = 4;
 glyphname = Hbrevebelow;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (255,0);
@@ -11,6 +11,18 @@ ref = brevebelowcomb;
 },
 {
 ref = H;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = H;
+},
+{
+alignment = 1;
+pos = (255,0);
+ref = brevebelowcomb;
 }
 );
 userData = {

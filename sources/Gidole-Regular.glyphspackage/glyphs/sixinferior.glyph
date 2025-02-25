@@ -1,13 +1,22 @@
 {
-color = 3;
+color = 4;
 glyphname = sixinferior;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (0,-177);
-ref = six.d;
+ref = six.dnom;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+alignment = 1;
+pos = (0,-177);
+ref = six.dnom;
 }
 );
 userData = {

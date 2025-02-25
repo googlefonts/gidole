@@ -1,9 +1,9 @@
 {
-color = 2;
+color = 4;
 glyphname = Umacron;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 closed = 1;
@@ -17,6 +17,17 @@ nodes = (
 {
 pos = (20,0);
 ref = U;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (213,334);
+ref = macroncomb;
 }
 );
 userData = {

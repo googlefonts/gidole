@@ -1,8 +1,15 @@
 {
-color = 3;
+color = 4;
 glyphname = Nu;
 layers = (
 {
+background = {
+shapes = (
+{
+ref = N;
+}
+);
+};
 layerId = m001;
 shapes = (
 {

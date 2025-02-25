@@ -1,8 +1,15 @@
 {
-color = 3;
+color = 4;
 glyphname = "alpha-latin";
 layers = (
 {
+background = {
+shapes = (
+{
+ref = alpha;
+}
+);
+};
 layerId = m001;
 shapes = (
 {

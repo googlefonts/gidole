@@ -2,6 +2,25 @@
 glyphname = leftArrow;
 layers = (
 {
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(568,8,l),
+(140,500,l),
+(140,582,l),
+(568,1074,l),
+(674,982,l),
+(352,608,l),
+(1220,608,l),
+(1220,474,l),
+(352,474,l),
+(674,100,l)
+);
+}
+);
+};
 layerId = m001;
 shapes = (
 {

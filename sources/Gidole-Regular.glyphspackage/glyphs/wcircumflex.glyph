@@ -1,9 +1,9 @@
 {
-color = 3;
+color = 4;
 glyphname = wcircumflex;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (273,0);
@@ -11,6 +11,18 @@ ref = circumflex;
 },
 {
 ref = w;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = w;
+},
+{
+alignment = 1;
+pos = (273,0);
+ref = circumflexcomb;
 }
 );
 userData = {

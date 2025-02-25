@@ -1,9 +1,9 @@
 {
-color = 3;
+color = 4;
 glyphname = Ohornacute;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (397,334);
@@ -11,6 +11,18 @@ ref = acutecomb;
 },
 {
 ref = Ohorn;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = Ohorn;
+},
+{
+alignment = 1;
+pos = (397,334);
+ref = acutecomb;
 }
 );
 userData = {

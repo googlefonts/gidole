@@ -2,6 +2,32 @@
 glyphname = guillemetleft;
 layers = (
 {
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(822,867,l),
+(612,539,l),
+(822,211,l),
+(704,139,l),
+(460,539,l),
+(704,939,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(490,883,l),
+(272,539,l),
+(490,195,l),
+(372,123,l),
+(120,539,l),
+(372,955,l)
+);
+}
+);
+};
 layerId = m001;
 shapes = (
 {

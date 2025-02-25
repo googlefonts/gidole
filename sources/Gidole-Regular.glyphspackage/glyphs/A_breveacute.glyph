@@ -1,16 +1,34 @@
 {
-color = 3;
+color = 4;
 glyphname = Abreveacute;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
+alignment = 1;
 pos = (397,730);
 ref = acutecomb;
 },
 {
 ref = Abreve;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = A;
+},
+{
+alignment = 1;
+pos = (220,334);
+ref = brevecomb;
+},
+{
+alignment = 1;
+pos = (364,730);
+ref = acutecomb;
 }
 );
 userData = {

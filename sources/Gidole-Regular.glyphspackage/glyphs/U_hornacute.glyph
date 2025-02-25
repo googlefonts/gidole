@@ -1,9 +1,9 @@
 {
-color = 3;
+color = 4;
 glyphname = Uhornacute;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (387,334);
@@ -11,6 +11,18 @@ ref = acutecomb;
 },
 {
 ref = Uhorn;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = Uhorn;
+},
+{
+alignment = 1;
+pos = (387,334);
+ref = acutecomb;
 }
 );
 userData = {
@@ -53,7 +65,7 @@ width = 140;
 );
 };
 };
-width = 1320;
+width = 1236;
 }
 );
 unicode = 7912;

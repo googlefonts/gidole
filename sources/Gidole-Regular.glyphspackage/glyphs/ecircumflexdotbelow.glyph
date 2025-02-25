@@ -1,9 +1,9 @@
 {
-color = 3;
+color = 4;
 glyphname = ecircumflexdotbelow;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (99,-2);
@@ -11,6 +11,23 @@ ref = circumflexcomb;
 },
 {
 ref = edotbelow;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = e;
+},
+{
+alignment = 1;
+pos = (327,0);
+ref = dotbelowcomb;
+},
+{
+alignment = 1;
+pos = (99,0);
+ref = circumflexcomb;
 }
 );
 userData = {

@@ -2,6 +2,21 @@
 glyphname = logicalnot;
 layers = (
 {
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(820,608,l),
+(820,200,l),
+(670,200,l),
+(670,474,l),
+(120,474,l),
+(120,608,l)
+);
+}
+);
+};
 layerId = m001;
 shapes = (
 {

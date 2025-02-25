@@ -1,13 +1,22 @@
 {
-color = 3;
+color = 4;
 glyphname = zeroinferior;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (0,-177);
-ref = zero.d;
+ref = zero.dnom;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+alignment = 1;
+pos = (0,-177);
+ref = zero.dnom;
 }
 );
 userData = {

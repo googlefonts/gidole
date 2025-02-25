@@ -1,9 +1,9 @@
 {
-color = 2;
+color = 4;
 glyphname = udieresisgrave;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 closed = 1;
@@ -16,6 +16,22 @@ nodes = (
 },
 {
 ref = udieresis;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = u;
+},
+{
+alignment = 1;
+pos = (140,0);
+ref = dieresiscomb;
+},
+{
+pos = (211,335);
+ref = gravecomb;
 }
 );
 userData = {

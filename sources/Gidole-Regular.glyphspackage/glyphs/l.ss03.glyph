@@ -2,6 +2,37 @@
 glyphname = l.ss03;
 layers = (
 {
+anchors = (
+{
+name = apos;
+pos = (390,1414);
+},
+{
+name = bottom;
+pos = (235,0);
+},
+{
+name = center;
+pos = (289,725);
+},
+{
+name = top;
+pos = (235,1456);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(160,0,l),
+(160,1496,l),
+(310,1496,l),
+(310,0,l)
+);
+}
+);
+};
 layerId = m001;
 shapes = (
 {

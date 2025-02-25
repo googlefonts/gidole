@@ -1,8 +1,15 @@
 {
-color = 3;
+color = 4;
 glyphname = product;
 layers = (
 {
+background = {
+shapes = (
+{
+ref = Pi;
+}
+);
+};
 layerId = m001;
 shapes = (
 {

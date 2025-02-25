@@ -1,19 +1,45 @@
 {
-color = 3;
 glyphname = periodcentered;
 layers = (
 {
 anchors = (
 {
-name = _Center;
+name = _center;
 pos = (-45,541);
 }
 );
-layerId = m001;
+background = {
+anchors = (
+{
+name = _center;
+pos = (-45,541);
+}
+);
 shapes = (
 {
 pos = (20,447);
 ref = period;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(335,651,o),
+(380,606,o),
+(380,541,cs),
+(380,476,o),
+(335,431,o),
+(270,431,cs),
+(205,431,o),
+(160,476,o),
+(160,541,cs),
+(160,606,o),
+(205,651,o),
+(270,651,cs)
+);
 }
 );
 userData = {

@@ -1,0 +1,61 @@
+{
+color = 4;
+glyphname = eight.numr;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (0,662);
+ref = eight.dnom;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+alignment = 1;
+pos = (0,662);
+ref = eight.dnom;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 650;
+width = 118;
+},
+{
+position = 992;
+width = 118;
+},
+{
+position = 1310;
+width = 118;
+}
+);
+vhints = (
+{
+position = 97;
+width = 132;
+},
+{
+position = 114;
+width = 132;
+},
+{
+position = 494;
+width = 132;
+},
+{
+position = 511;
+width = 132;
+}
+);
+};
+};
+width = 740;
+}
+);
+}

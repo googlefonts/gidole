@@ -1,9 +1,9 @@
 {
-color = 3;
+color = 4;
 glyphname = Uhorntilde;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (189,334);
@@ -11,6 +11,18 @@ ref = tildecomb;
 },
 {
 ref = Uhorn;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = Uhorn;
+},
+{
+alignment = 1;
+pos = (189,334);
+ref = tildecomb;
 }
 );
 userData = {
@@ -61,7 +73,7 @@ width = 140;
 );
 };
 };
-width = 1320;
+width = 1236;
 }
 );
 unicode = 7918;

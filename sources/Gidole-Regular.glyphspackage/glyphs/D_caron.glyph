@@ -1,9 +1,9 @@
 {
-color = 3;
+color = 4;
 glyphname = Dcaron;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (156,334);
@@ -11,6 +11,18 @@ ref = caron;
 },
 {
 ref = D;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = D;
+},
+{
+alignment = 1;
+pos = (156,334);
+ref = caroncomb;
 }
 );
 userData = {

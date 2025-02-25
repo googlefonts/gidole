@@ -1,18 +1,19 @@
 {
+color = 4;
 glyphname = gdotaccent.ss02;
 layers = (
 {
+background = {
 anchors = (
 {
-name = Bottom;
+name = bottom;
 pos = (545,-414);
 },
 {
-name = Top;
+name = top;
 pos = (520,1082);
 }
 );
-layerId = m001;
 shapes = (
 {
 closed = 1;
@@ -129,6 +130,17 @@ nodes = (
 (465,1435,o),
 (520,1435,cs)
 );
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = g.ss02;
+},
+{
+pos = (297,0);
+ref = dotaccentcomb;
 }
 );
 userData = {

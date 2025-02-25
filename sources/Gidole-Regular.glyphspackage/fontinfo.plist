@@ -97,6 +97,8 @@ code = "feature locl;
 feature subs;
 feature sinf;
 feature sups;
+feature numr;
+feature dnom;
 feature frac;
 feature ordn;
 feature case;
@@ -205,15 +207,46 @@ tag = sups;
 },
 {
 automatic = 1;
-code = "sub one slash eight by oneeighth;
-sub one slash four by onequarter;
-sub three slash eight by threeeighths;
-sub one slash two by onehalf;
-sub five slash eight by fiveeighths;
-sub three slash four by threequarters;
-sub seven slash eight by seveneighths;
-sub one slash three by onethird;
-sub two slash three by twothirds;
+code = "sub zero by zero.numr;
+sub one by one.numr;
+sub two by two.numr;
+sub three by three.numr;
+sub four by four.numr;
+sub five by five.numr;
+sub six by six.numr;
+sub seven by seven.numr;
+sub eight by eight.numr;
+sub nine by nine.numr;
+";
+tag = numr;
+},
+{
+automatic = 1;
+code = "sub zero by zero.dnom;
+sub one by one.dnom;
+sub two by two.dnom;
+sub three by three.dnom;
+sub four by four.dnom;
+sub five by five.dnom;
+sub six by six.dnom;
+sub seven by seven.dnom;
+sub eight by eight.dnom;
+sub nine by nine.dnom;
+";
+tag = dnom;
+},
+{
+automatic = 1;
+code = "lookup FRAC {
+	sub slash by fraction;
+} FRAC;
+lookup UP {
+	sub [zero one two three four five six seven eight nine] by [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
+} UP;
+lookup DOWN {
+	sub fraction [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr]' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
+	sub [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom] [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr]' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
+} DOWN;
 ";
 tag = frac;
 },
@@ -223,6 +256,22 @@ code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfem
 sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
 ";
 tag = ordn;
+},
+{
+automatic = 1;
+code = "sub colon by colon.case;
+sub exclamdown by exclamdown.case;
+sub questiondown by questiondown.case;
+sub parenleft by parenleft.case;
+sub parenright by parenright.case;
+sub braceleft by braceleft.case;
+sub braceright by braceright.case;
+sub bracketleft by bracketleft.case;
+sub bracketright by bracketright.case;
+sub at by at.case;
+sub at.ss06 by at.ss06.case;
+";
+tag = case;
 },
 {
 automatic = 1;
@@ -253,9 +302,22 @@ automatic = 1;
 code = "sub a by a.ss01;
 sub aacute by aacute.ss01;
 sub abreve by abreve.ss01;
+sub abreveacute by abreveacute.ss01;
+sub abrevedotbelow by abrevedotbelow.ss01;
+sub abrevegrave by abrevegrave.ss01;
+sub abrevehookabove by abrevehookabove.ss01;
+sub abrevetilde by abrevetilde.ss01;
+sub acaron by acaron.ss01;
 sub acircumflex by acircumflex.ss01;
+sub acircumflexacute by acircumflexacute.ss01;
+sub acircumflexdotbelow by acircumflexdotbelow.ss01;
+sub acircumflexgrave by acircumflexgrave.ss01;
+sub acircumflexhookabove by acircumflexhookabove.ss01;
+sub acircumflextilde by acircumflextilde.ss01;
 sub adieresis by adieresis.ss01;
+sub adotbelow by adotbelow.ss01;
 sub agrave by agrave.ss01;
+sub ahookabove by ahookabove.ss01;
 sub amacron by amacron.ss01;
 sub aogonek by aogonek.ss01;
 sub aring by aring.ss01;
@@ -272,10 +334,13 @@ tag = ss01;
 {
 automatic = 1;
 code = "sub g by g.ss02;
+sub gacute by gacute.ss02;
 sub gbreve by gbreve.ss02;
+sub gcaron by gcaron.ss02;
 sub gcircumflex by gcircumflex.ss02;
 sub gcommaaccent by gcommaaccent.ss02;
 sub gdotaccent by gdotaccent.ss02;
+sub gmacron by gmacron.ss02;
 ";
 labels = (
 {
@@ -292,6 +357,9 @@ sub lacute by lacute.ss03;
 sub lcaron by lcaron.ss03;
 sub lcommaaccent by lcommaaccent.ss03;
 sub ldot by ldot.ss03;
+sub ldotbelow by ldotbelow.ss03;
+sub ldotbelowmacron by ldotbelowmacron.ss03;
+sub lmacronbelow by lmacronbelow.ss03;
 sub lslash by lslash.ss03;
 ";
 labels = (
@@ -307,10 +375,22 @@ automatic = 1;
 code = "sub u by u.ss04;
 sub uacute by uacute.ss04;
 sub ubreve by ubreve.ss04;
+sub ucaron by ucaron.ss04;
 sub ucircumflex by ucircumflex.ss04;
 sub udieresis by udieresis.ss04;
+sub udieresisacute by udieresisacute.ss04;
+sub udieresiscaron by udieresiscaron.ss04;
+sub udieresisgrave by udieresisgrave.ss04;
+sub udieresismacron by udieresismacron.ss04;
 sub udotbelow by udotbelow.ss04;
 sub ugrave by ugrave.ss04;
+sub uhookabove by uhookabove.ss04;
+sub uhorn by uhorn.ss04;
+sub uhornacute by uhornacute.ss04;
+sub uhorndotbelow by uhorndotbelow.ss04;
+sub uhorngrave by uhorngrave.ss04;
+sub uhornhookabove by uhornhookabove.ss04;
+sub uhorntilde by uhorntilde.ss04;
 sub uhungarumlaut by uhungarumlaut.ss04;
 sub umacron by umacron.ss04;
 sub uogonek by uogonek.ss04;
@@ -331,7 +411,10 @@ code = "sub y by y.ss05;
 sub yacute by yacute.ss05;
 sub ycircumflex by ycircumflex.ss05;
 sub ydieresis by ydieresis.ss05;
+sub ydotaccent by ydotaccent.ss05;
+sub ydotbelow by ydotbelow.ss05;
 sub ygrave by ygrave.ss05;
+sub yhookabove by yhookabove.ss05;
 sub ytilde by ytilde.ss05;
 ";
 labels = (
@@ -366,22 +449,6 @@ value = "Alternate 3&4 shape";
 }
 );
 tag = ss07;
-},
-{
-automatic = 1;
-code = "sub colon by colon.case;
-sub exclamdown by exclamdown.case;
-sub questiondown by questiondown.case;
-sub parenleft by parenleft.case;
-sub parenright by parenright.case;
-sub braceleft by braceleft.case;
-sub braceright by braceright.case;
-sub bracketleft by bracketleft.case;
-sub bracketright by bracketright.case;
-sub at by at.case;
-sub at.ss06 by at.ss06.case;
-";
-tag = case;
 }
 );
 fontMaster = (
@@ -576,6 +643,19 @@ value = "Gidole Regular";
 );
 }
 );
+kerningLTR = {
+m001 = {
+fraction = {
+eight.dnom = -30;
+four.dnom = -90;
+three.dnom = -30;
+two.dnom = -30;
+};
+seven.numr = {
+fraction = -120;
+};
+};
+};
 metrics = (
 {
 type = ascender;
@@ -638,9 +718,6 @@ key = versionString;
 value = "Version 2.001";
 }
 );
-settings = {
-disablesAutomaticAlignment = 1;
-};
 unitsPerEm = 2048;
 userData = {
 UFOFormat = 3;

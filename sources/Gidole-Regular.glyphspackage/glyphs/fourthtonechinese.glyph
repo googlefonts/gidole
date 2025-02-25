@@ -1,18 +1,32 @@
 {
-color = 3;
+color = 4;
 glyphname = fourthtonechinese;
 layers = (
 {
 anchors = (
 {
-name = _Top;
+name = _top;
 pos = (334,1082);
 }
 );
-layerId = m001;
+background = {
+anchors = (
+{
+name = _top;
+pos = (334,1082);
+}
+);
 shapes = (
 {
 ref = grave;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+alignment = 1;
+ref = gravecomb;
 }
 );
 userData = {

@@ -1,9 +1,9 @@
 {
-color = 3;
+color = 4;
 glyphname = ohorngrave;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (216,0);
@@ -11,6 +11,18 @@ ref = gravecomb;
 },
 {
 ref = ohorn;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = ohorn;
+},
+{
+alignment = 1;
+pos = (216,0);
+ref = gravecomb;
 }
 );
 userData = {

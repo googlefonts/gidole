@@ -1,8 +1,15 @@
 {
-color = 3;
+color = 4;
 glyphname = Kappa;
 layers = (
 {
+background = {
+shapes = (
+{
+ref = K;
+}
+);
+};
 layerId = m001;
 shapes = (
 {

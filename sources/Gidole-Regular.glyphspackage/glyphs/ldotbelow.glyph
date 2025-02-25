@@ -1,15 +1,15 @@
 {
-color = 3;
+color = 4;
 glyphname = ldotbelow;
 layers = (
 {
+background = {
 anchors = (
 {
-name = Top;
+name = top;
 pos = (235,1496);
 }
 );
-layerId = m001;
 shapes = (
 {
 pos = (87,0);
@@ -17,6 +17,18 @@ ref = dotbelowcomb;
 },
 {
 ref = l;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = l;
+},
+{
+alignment = 1;
+pos = (87,0);
+ref = dotbelowcomb;
 }
 );
 userData = {

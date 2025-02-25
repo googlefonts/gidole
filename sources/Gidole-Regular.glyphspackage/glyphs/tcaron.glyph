@@ -1,9 +1,9 @@
 {
-color = 3;
+color = 4;
 glyphname = tcaron;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (536,78);
@@ -12,6 +12,18 @@ ref = apostrophemod;
 {
 pos = (20,0);
 ref = t;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = t;
+},
+{
+alignment = 1;
+pos = (336,78);
+ref = apostrophemod;
 }
 );
 userData = {
@@ -42,7 +54,7 @@ width = 220;
 );
 };
 };
-width = 996;
+width = 652;
 }
 );
 unicode = 357;

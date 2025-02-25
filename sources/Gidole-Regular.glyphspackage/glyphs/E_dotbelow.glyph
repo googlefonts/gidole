@@ -1,9 +1,9 @@
 {
-color = 3;
+color = 4;
 glyphname = Edotbelow;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (372,0);
@@ -11,6 +11,18 @@ ref = dotbelowcomb;
 },
 {
 ref = E;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = E;
+},
+{
+alignment = 1;
+pos = (354,0);
+ref = dotbelowcomb;
 }
 );
 userData = {

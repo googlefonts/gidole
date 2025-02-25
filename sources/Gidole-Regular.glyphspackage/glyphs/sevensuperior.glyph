@@ -1,13 +1,22 @@
 {
-color = 3;
+color = 4;
 glyphname = sevensuperior;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (0,177);
-ref = seven.n;
+ref = seven.numr;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+alignment = 1;
+pos = (0,177);
+ref = seven.numr;
 }
 );
 userData = {

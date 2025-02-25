@@ -1,19 +1,51 @@
 {
-color = 3;
 glyphname = brevebelowcomb;
 layers = (
 {
 anchors = (
 {
-name = _Bottom;
+name = _bottom;
+pos = (375,0);
+},
+{
+name = bottom;
+pos = (375,-472);
+}
+);
+background = {
+anchors = (
+{
+name = _bottom;
 pos = (375,0);
 }
 );
-layerId = m001;
 shapes = (
 {
 pos = (0,-1681);
 ref = breve;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(250,-185,l),
+(250,-300,o),
+(312,-349,o),
+(375,-349,cs),
+(438,-349,o),
+(500,-300,o),
+(500,-185,c),
+(640,-185,l),
+(640,-337,o),
+(542,-473,o),
+(375,-473,cs),
+(208,-473,o),
+(110,-337,o),
+(110,-185,c)
+);
 }
 );
 userData = {

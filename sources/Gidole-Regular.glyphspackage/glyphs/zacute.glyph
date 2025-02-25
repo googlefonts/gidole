@@ -1,9 +1,9 @@
 {
-color = 2;
+color = 4;
 glyphname = zacute;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 closed = 1;
@@ -16,6 +16,17 @@ nodes = (
 },
 {
 ref = z;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = z;
+},
+{
+pos = (209,0);
+ref = acutecomb;
 }
 );
 userData = {

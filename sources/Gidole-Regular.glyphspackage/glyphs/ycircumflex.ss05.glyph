@@ -1,9 +1,9 @@
 {
-color = 3;
+color = 4;
 glyphname = ycircumflex.ss05;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (74,0);
@@ -11,6 +11,17 @@ ref = circumflexcomb;
 },
 {
 ref = y.ss05;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = y.ss05;
+},
+{
+pos = (74,0);
+ref = circumflexcomb;
 }
 );
 userData = {

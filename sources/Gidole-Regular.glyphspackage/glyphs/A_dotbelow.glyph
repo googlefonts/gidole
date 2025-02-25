@@ -1,22 +1,35 @@
 {
-color = 3;
+color = 4;
 glyphname = Adotbelow;
 layers = (
 {
+background = {
 anchors = (
 {
-name = Top;
+name = top;
 pos = (595,1416);
 }
 );
-layerId = m001;
 shapes = (
 {
+alignment = 1;
 pos = (372,0);
 ref = dotbelowcomb;
 },
 {
 ref = A;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = A;
+},
+{
+alignment = 1;
+pos = (372,0);
+ref = dotbelowcomb;
 }
 );
 userData = {

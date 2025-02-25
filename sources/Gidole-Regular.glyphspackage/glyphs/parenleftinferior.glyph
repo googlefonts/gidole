@@ -1,13 +1,22 @@
 {
-color = 3;
+color = 8;
 glyphname = parenleftinferior;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 angle = 180;
 pos = (524,400);
+ref = parenrightinferior;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+angle = 180;
+pos = (523,400);
 ref = parenrightinferior;
 }
 );

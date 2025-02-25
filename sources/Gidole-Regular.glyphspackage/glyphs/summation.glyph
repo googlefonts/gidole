@@ -1,8 +1,15 @@
 {
-color = 3;
+color = 4;
 glyphname = summation;
 layers = (
 {
+background = {
+shapes = (
+{
+ref = Sigma;
+}
+);
+};
 layerId = m001;
 shapes = (
 {

@@ -1,9 +1,9 @@
 {
-color = 3;
+color = 4;
 glyphname = "iegrave-cy";
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (166,-2);
@@ -11,6 +11,17 @@ ref = gravecomb;
 },
 {
 ref = "ie-cy";
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = "ie-cy";
+},
+{
+pos = (196,0);
+ref = gravecomb;
 }
 );
 userData = {

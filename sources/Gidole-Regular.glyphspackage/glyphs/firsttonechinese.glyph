@@ -1,18 +1,32 @@
 {
-color = 3;
+color = 4;
 glyphname = firsttonechinese;
 layers = (
 {
 anchors = (
 {
-name = _Top;
+name = _top;
 pos = (405,1082);
 }
 );
-layerId = m001;
+background = {
+anchors = (
+{
+name = _top;
+pos = (405,1082);
+}
+);
 shapes = (
 {
 ref = macron;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+alignment = 1;
+ref = macroncomb;
 }
 );
 userData = {

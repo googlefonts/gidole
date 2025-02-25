@@ -1,20 +1,52 @@
 {
-color = 3;
 glyphname = breveinvertedcomb;
 layers = (
 {
 anchors = (
 {
-name = _Top;
+name = _top;
+pos = (375,1082);
+},
+{
+name = top;
+pos = (375,1512);
+}
+);
+background = {
+anchors = (
+{
+name = _top;
 pos = (375,1082);
 }
 );
-layerId = m001;
 shapes = (
 {
 angle = 180;
 pos = (750,2718);
 ref = breve;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(500,1224,l),
+(500,1339,o),
+(438,1388,o),
+(375,1388,cs),
+(312,1388,o),
+(250,1339,o),
+(250,1224,c),
+(110,1224,l),
+(110,1376,o),
+(208,1512,o),
+(375,1512,cs),
+(542,1512,o),
+(640,1376,o),
+(640,1224,c)
+);
 }
 );
 userData = {

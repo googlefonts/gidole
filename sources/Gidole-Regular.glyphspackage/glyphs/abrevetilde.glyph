@@ -1,9 +1,9 @@
 {
-color = 3;
+color = 4;
 glyphname = abrevetilde;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (66,406);
@@ -11,6 +11,23 @@ ref = tildecomb;
 },
 {
 ref = abreve;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = a;
+},
+{
+alignment = 1;
+pos = (120,0);
+ref = brevecomb;
+},
+{
+alignment = 1;
+pos = (66,396);
+ref = tildecomb;
 }
 );
 userData = {

@@ -1,0 +1,63 @@
+{
+color = 4;
+glyphname = ucaron.ss04;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (114,0);
+ref = caron;
+},
+{
+ref = u;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = u.ss04;
+},
+{
+alignment = 1;
+pos = (114,0);
+ref = caroncomb;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -16;
+width = 134;
+},
+{
+position = 1062;
+width = 20;
+},
+{
+position = 1222;
+width = 274;
+}
+);
+vhints = (
+{
+position = 150;
+width = 150;
+},
+{
+position = 234;
+width = 622;
+},
+{
+position = 790;
+width = 150;
+}
+);
+};
+};
+width = 1100;
+}
+);
+}

@@ -1,18 +1,43 @@
 {
-color = 3;
 glyphname = circumflexcomb;
 layers = (
 {
 anchors = (
 {
-name = _Top;
+name = _top;
+pos = (431,1082);
+},
+{
+name = top;
+pos = (431,1477);
+}
+);
+background = {
+anchors = (
+{
+name = _top;
 pos = (431,1082);
 }
 );
-layerId = m001;
 shapes = (
 {
 ref = asciicircum;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(431,1360,l),
+(291,1222,l),
+(120,1222,l),
+(378,1496,l),
+(484,1496,l),
+(742,1222,l),
+(571,1222,l)
+);
 }
 );
 userData = {

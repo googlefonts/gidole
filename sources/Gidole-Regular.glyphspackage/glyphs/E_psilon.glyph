@@ -1,8 +1,15 @@
 {
-color = 3;
+color = 4;
 glyphname = Epsilon;
 layers = (
 {
+background = {
+shapes = (
+{
+ref = E;
+}
+);
+};
 layerId = m001;
 shapes = (
 {

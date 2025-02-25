@@ -1,9 +1,9 @@
 {
-color = 2;
+color = 4;
 glyphname = racute;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 closed = 1;
@@ -16,6 +16,17 @@ nodes = (
 },
 {
 ref = r;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = r;
+},
+{
+pos = (234,0);
+ref = acutecomb;
 }
 );
 userData = {

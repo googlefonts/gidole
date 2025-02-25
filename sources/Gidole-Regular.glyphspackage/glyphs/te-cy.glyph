@@ -2,6 +2,23 @@
 glyphname = "te-cy";
 layers = (
 {
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(383,948,l),
+(80,948,l),
+(80,1082,l),
+(836,1082,l),
+(836,948,l),
+(533,948,l),
+(533,0,l),
+(383,0,l)
+);
+}
+);
+};
 layerId = m001;
 shapes = (
 {

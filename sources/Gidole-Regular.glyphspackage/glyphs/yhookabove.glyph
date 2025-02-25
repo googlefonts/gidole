@@ -1,9 +1,9 @@
 {
-color = 3;
+color = 4;
 glyphname = yhookabove;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (196,0);
@@ -11,6 +11,18 @@ ref = hookabovecomb;
 },
 {
 ref = y;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = y;
+},
+{
+alignment = 1;
+pos = (196,0);
+ref = hookabovecomb;
 }
 );
 userData = {

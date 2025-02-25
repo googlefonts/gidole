@@ -2,6 +2,19 @@
 glyphname = hyphen;
 layers = (
 {
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(160,608,l),
+(660,608,l),
+(660,474,l),
+(160,474,l)
+);
+}
+);
+};
 layerId = m001;
 shapes = (
 {

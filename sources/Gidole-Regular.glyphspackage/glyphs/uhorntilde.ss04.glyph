@@ -1,0 +1,79 @@
+{
+color = 4;
+glyphname = uhorntilde.ss04;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (111,0);
+ref = tildecomb;
+},
+{
+ref = uhorn;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = uhorn.ss04;
+},
+{
+alignment = 1;
+pos = (116,0);
+ref = tildecomb;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -16;
+width = 134;
+},
+{
+position = 779;
+width = 110;
+},
+{
+position = 1062;
+width = 20;
+},
+{
+position = 1222;
+width = 124;
+},
+{
+position = 1282;
+width = 124;
+},
+{
+position = 1396;
+width = 20;
+}
+);
+vhints = (
+{
+position = 150;
+width = 150;
+},
+{
+position = 240;
+width = 600;
+},
+{
+position = 790;
+width = 150;
+},
+{
+position = 1094;
+width = 140;
+}
+);
+};
+};
+width = 1100;
+}
+);
+}

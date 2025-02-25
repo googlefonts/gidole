@@ -1,15 +1,28 @@
 {
-color = 3;
+color = 4;
 glyphname = second;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (330,0);
 ref = minute;
 },
 {
+ref = minute;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+alignment = 1;
+ref = minute;
+},
+{
+alignment = 1;
+pos = (440,0);
 ref = minute;
 }
 );
@@ -33,7 +46,7 @@ width = 200;
 );
 };
 };
-width = 770;
+width = 880;
 }
 );
 unicode = 8243;

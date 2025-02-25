@@ -1,13 +1,22 @@
 {
-color = 3;
+color = 4;
 glyphname = nineinferior;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (0,-177);
-ref = nine.d;
+ref = nine.dnom;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+alignment = 1;
+pos = (0,-177);
+ref = nine.dnom;
 }
 );
 userData = {

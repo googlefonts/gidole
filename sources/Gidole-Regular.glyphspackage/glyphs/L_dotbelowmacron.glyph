@@ -1,9 +1,9 @@
 {
-color = 3;
+color = 4;
 glyphname = Ldotbelowmacron;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (-146,334);
@@ -11,6 +11,23 @@ ref = macroncomb;
 },
 {
 ref = Ldotbelow;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = L;
+},
+{
+alignment = 1;
+pos = (318,0);
+ref = dotbelowcomb;
+},
+{
+alignment = 1;
+pos = (-146,334);
+ref = macroncomb;
 }
 );
 userData = {

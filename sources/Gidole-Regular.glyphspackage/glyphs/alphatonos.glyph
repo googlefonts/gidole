@@ -1,9 +1,9 @@
 {
-color = 3;
+color = 4;
 glyphname = alphatonos;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (322,0);
@@ -11,6 +11,17 @@ ref = tonos;
 },
 {
 ref = alpha;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = alpha;
+},
+{
+pos = (1115,0);
+ref = tonos;
 }
 );
 userData = {
@@ -49,7 +60,7 @@ width = 150;
 );
 };
 };
-width = 1115;
+width = 1590;
 }
 );
 unicode = 940;

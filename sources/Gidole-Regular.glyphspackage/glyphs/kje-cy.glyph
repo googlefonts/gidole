@@ -1,9 +1,9 @@
 {
-color = 3;
+color = 4;
 glyphname = "kje-cy";
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (258,0);
@@ -11,6 +11,17 @@ ref = acutecomb;
 },
 {
 ref = "ka-cy";
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = "ka-cy";
+},
+{
+pos = (258,0);
+ref = acutecomb;
 }
 );
 userData = {

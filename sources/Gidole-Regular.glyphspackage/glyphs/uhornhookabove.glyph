@@ -1,9 +1,9 @@
 {
-color = 3;
+color = 4;
 glyphname = uhornhookabove;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (231,0);
@@ -11,6 +11,18 @@ ref = hookabovecomb;
 },
 {
 ref = uhorn;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = uhorn;
+},
+{
+alignment = 1;
+pos = (236,0);
+ref = hookabovecomb;
 }
 );
 userData = {
@@ -57,7 +69,7 @@ width = 140;
 );
 };
 };
-width = 1184;
+width = 1100;
 }
 );
 unicode = 7917;

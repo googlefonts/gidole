@@ -2,6 +2,22 @@
 glyphname = V;
 layers = (
 {
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(203,1416,l),
+(595,211,l),
+(987,1416,l),
+(1150,1416,l),
+(670,0,l),
+(520,0,l),
+(40,1416,l)
+);
+}
+);
+};
 layerId = m001;
 shapes = (
 {

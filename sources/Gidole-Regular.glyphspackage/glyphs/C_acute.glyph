@@ -1,9 +1,9 @@
 {
-color = 2;
+color = 4;
 glyphname = Cacute;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 closed = 1;
@@ -16,6 +16,17 @@ nodes = (
 },
 {
 ref = C;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = C;
+},
+{
+pos = (387,334);
+ref = acutecomb;
 }
 );
 userData = {

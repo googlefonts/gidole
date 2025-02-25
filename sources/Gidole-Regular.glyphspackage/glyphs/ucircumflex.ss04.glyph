@@ -1,8 +1,9 @@
 {
+color = 4;
 glyphname = ucircumflex.ss04;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 closed = 1;
@@ -49,6 +50,17 @@ nodes = (
 (856,1222,l),
 (685,1222,l)
 );
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = u.ss04;
+},
+{
+pos = (114,0);
+ref = circumflexcomb;
 }
 );
 userData = {

@@ -3,13 +3,27 @@ color = 3;
 glyphname = napostrophe;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (290,0);
 ref = n;
 },
 {
+pos = (20,0);
+ref = apostrophemod;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+alignment = -1;
+pos = (290,0);
+ref = n;
+},
+{
+alignment = -1;
 pos = (20,0);
 ref = apostrophemod;
 }
@@ -50,8 +64,9 @@ width = 150;
 );
 };
 };
-width = 1370;
+width = 1390;
 }
 );
+metricRight = n;
 unicode = 329;
 }

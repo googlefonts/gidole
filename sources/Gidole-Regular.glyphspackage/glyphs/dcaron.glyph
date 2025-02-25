@@ -3,7 +3,7 @@ color = 3;
 glyphname = dcaron;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (989,80);
@@ -11,6 +11,19 @@ ref = apostrophemod;
 },
 {
 ref = d;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+alignment = -1;
+ref = d;
+},
+{
+alignment = -1;
+pos = (989,80);
+ref = apostrophemod;
 }
 );
 userData = {
@@ -49,8 +62,9 @@ width = 220;
 );
 };
 };
-width = 1469;
+width = 1309;
 }
 );
+metricLeft = d;
 unicode = 271;
 }

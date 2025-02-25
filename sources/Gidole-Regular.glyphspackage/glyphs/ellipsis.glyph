@@ -1,9 +1,9 @@
 {
-color = 2;
+color = 3;
 glyphname = ellipsis;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 closed = 0;
@@ -21,6 +21,25 @@ ref = period;
 },
 {
 pos = (20,0);
+ref = period;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+alignment = -1;
+pos = (19,0);
+ref = period;
+},
+{
+alignment = -1;
+pos = (386,0);
+ref = period;
+},
+{
+alignment = -1;
+pos = (755,0);
 ref = period;
 }
 );
@@ -48,7 +67,7 @@ width = 220;
 );
 };
 };
-width = 1236;
+width = 1274;
 }
 );
 unicode = 8230;

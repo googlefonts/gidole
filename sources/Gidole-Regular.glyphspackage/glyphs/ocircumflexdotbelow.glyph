@@ -1,9 +1,9 @@
 {
-color = 3;
+color = 4;
 glyphname = ocircumflexdotbelow;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (119,-2);
@@ -11,6 +11,23 @@ ref = circumflexcomb;
 },
 {
 ref = odotbelow;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = o;
+},
+{
+alignment = 1;
+pos = (327,0);
+ref = dotbelowcomb;
+},
+{
+alignment = 1;
+pos = (119,0);
+ref = circumflexcomb;
 }
 );
 userData = {

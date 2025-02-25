@@ -1,18 +1,40 @@
 {
-color = 3;
 glyphname = acutecomb;
 layers = (
 {
 anchors = (
 {
-name = _Top;
+name = _top;
+pos = (231,1082);
+},
+{
+name = top;
+pos = (282,1496);
+}
+);
+background = {
+anchors = (
+{
+name = _top;
 pos = (231,1082);
 }
 );
-layerId = m001;
 shapes = (
 {
 ref = acute;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(278,1222,l),
+(120,1222,l),
+(274,1496,l),
+(443,1496,l)
+);
 }
 );
 userData = {

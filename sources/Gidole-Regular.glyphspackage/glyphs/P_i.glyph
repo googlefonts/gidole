@@ -2,6 +2,23 @@
 glyphname = Pi;
 layers = (
 {
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(1080,1416,l),
+(1080,0,l),
+(924,0,l),
+(924,1276,l),
+(336,1276,l),
+(336,0,l),
+(180,0,l),
+(180,1416,l)
+);
+}
+);
+};
 layerId = m001;
 shapes = (
 {

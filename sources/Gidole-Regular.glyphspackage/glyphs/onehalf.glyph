@@ -1,9 +1,9 @@
 {
-color = 3;
+color = 4;
 glyphname = onehalf;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (539,0);
@@ -11,11 +11,28 @@ ref = fraction;
 },
 {
 pos = (771,0);
-ref = two.d;
+ref = two.dnom;
 },
 {
 pos = (10,663);
-ref = one.d;
+ref = one.dnom;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+alignment = 1;
+ref = one.numr;
+},
+{
+pos = (548,0);
+ref = fraction;
+},
+{
+alignment = 1;
+pos = (794,0);
+ref = two.dnom;
 }
 );
 userData = {
@@ -46,7 +63,7 @@ width = 132;
 );
 };
 };
-width = 1517;
+width = 1534;
 }
 );
 unicode = 189;

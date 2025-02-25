@@ -1,14 +1,43 @@
 {
-color = 3;
 glyphname = commaturnedmod;
 layers = (
 {
-layerId = m001;
+anchors = (
+{
+name = _apos;
+pos = (395,1152);
+}
+);
+background = {
 shapes = (
 {
 angle = 180;
 pos = (460,2600);
 ref = quoteright;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(165,1088,o),
+(120,1133,o),
+(120,1198,cs),
+(120,1223,o),
+(124,1239,o),
+(145,1290,cs),
+(235,1512,l),
+(333,1512,l),
+(276,1299,l),
+(313,1285,o),
+(340,1247,o),
+(340,1198,cs),
+(340,1133,o),
+(295,1088,o),
+(230,1088,cs)
+);
 }
 );
 userData = {

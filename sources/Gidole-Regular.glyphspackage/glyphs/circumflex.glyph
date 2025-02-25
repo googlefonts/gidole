@@ -1,17 +1,31 @@
 {
-color = 3;
+color = 4;
 glyphname = circumflex;
 layers = (
 {
 anchors = (
 {
-name = _Top;
+name = _top;
 pos = (431,1082);
 }
 );
+background = {
+anchors = (
+{
+name = _top;
+pos = (431,1082);
+}
+);
+shapes = (
+{
+ref = asciicircum;
+}
+);
+};
 layerId = m001;
 shapes = (
 {
+alignment = 1;
 ref = asciicircum;
 }
 );

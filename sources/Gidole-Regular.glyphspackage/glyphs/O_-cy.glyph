@@ -1,8 +1,15 @@
 {
-color = 3;
+color = 4;
 glyphname = "O-cy";
 layers = (
 {
+background = {
+shapes = (
+{
+ref = O;
+}
+);
+};
 layerId = m001;
 shapes = (
 {

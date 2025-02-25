@@ -1,9 +1,9 @@
 {
-color = 3;
+color = 4;
 glyphname = omicrontonos;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (352,0);
@@ -11,6 +11,17 @@ ref = tonos;
 },
 {
 ref = omicron;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = omicron;
+},
+{
+pos = (1100,0);
+ref = tonos;
 }
 );
 userData = {
@@ -45,7 +56,7 @@ width = 150;
 );
 };
 };
-width = 1100;
+width = 1575;
 }
 );
 unicode = 972;

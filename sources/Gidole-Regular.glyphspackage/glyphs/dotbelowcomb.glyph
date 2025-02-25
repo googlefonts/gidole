@@ -1,19 +1,49 @@
 {
-color = 3;
 glyphname = dotbelowcomb;
 layers = (
 {
 anchors = (
 {
-name = _Bottom;
+name = _bottom;
+pos = (223,0);
+},
+{
+name = bottom;
+pos = (223,-375);
+}
+);
+background = {
+anchors = (
+{
+name = _bottom;
 pos = (223,0);
 }
 );
-layerId = m001;
 shapes = (
 {
 pos = (0,-1619);
 ref = dotaccent;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(284,-168,o),
+(326,-212,o),
+(326,-272,cs),
+(326,-333,o),
+(284,-375,o),
+(223,-375,cs),
+(162,-375,o),
+(120,-333,o),
+(120,-272,cs),
+(120,-212,o),
+(162,-168,o),
+(223,-168,cs)
+);
 }
 );
 userData = {

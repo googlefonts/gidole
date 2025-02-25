@@ -2,6 +2,19 @@
 glyphname = bar;
 layers = (
 {
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(316,1538,l),
+(316,-456,l),
+(176,-456,l),
+(176,1538,l)
+);
+}
+);
+};
 layerId = m001;
 shapes = (
 {

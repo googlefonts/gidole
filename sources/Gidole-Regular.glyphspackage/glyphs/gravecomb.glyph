@@ -1,18 +1,40 @@
 {
-color = 3;
 glyphname = gravecomb;
 layers = (
 {
 anchors = (
 {
-name = _Top;
+name = _top;
+pos = (334,1082);
+},
+{
+name = top;
+pos = (282,1496);
+}
+);
+background = {
+anchors = (
+{
+name = _top;
 pos = (334,1082);
 }
 );
-layerId = m001;
 shapes = (
 {
 ref = grave;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(289,1496,l),
+(443,1222,l),
+(285,1222,l),
+(120,1496,l)
+);
 }
 );
 userData = {

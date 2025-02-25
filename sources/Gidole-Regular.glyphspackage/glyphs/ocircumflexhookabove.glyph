@@ -1,9 +1,9 @@
 {
-color = 3;
+color = 4;
 glyphname = ocircumflexhookabove;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (270,409);
@@ -11,6 +11,23 @@ ref = hookabovecomb;
 },
 {
 ref = ocircumflex;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = o;
+},
+{
+alignment = 1;
+pos = (119,0);
+ref = circumflexcomb;
+},
+{
+alignment = 1;
+pos = (241,395);
+ref = hookabovecomb;
 }
 );
 userData = {

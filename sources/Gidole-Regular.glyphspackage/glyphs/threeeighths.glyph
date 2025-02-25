@@ -1,21 +1,38 @@
 {
-color = 3;
+color = 4;
 glyphname = threeeighths;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (0,662);
-ref = three.d;
+ref = three.dnom;
 },
 {
 pos = (880,0);
-ref = eight.d;
+ref = eight.dnom;
 },
 {
 pos = (687,0);
 ref = fraction;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+alignment = 1;
+ref = three.numr;
+},
+{
+pos = (740,0);
+ref = fraction;
+},
+{
+alignment = 1;
+pos = (986,0);
+ref = eight.dnom;
 }
 );
 userData = {
@@ -70,7 +87,7 @@ width = 132;
 );
 };
 };
-width = 1665;
+width = 1726;
 }
 );
 unicode = 8540;

@@ -4,10 +4,32 @@ layers = (
 {
 anchors = (
 {
-name = Top;
+name = top;
 pos = (505,1082);
 }
 );
+background = {
+anchors = (
+{
+name = top;
+pos = (505,1082);
+}
+);
+shapes = (
+{
+closed = 1;
+nodes = (
+(60,1082,l),
+(217,1082,l),
+(505,192,l),
+(793,1082,l),
+(950,1082,l),
+(577,0,l),
+(433,0,l)
+);
+}
+);
+};
 layerId = m001;
 shapes = (
 {

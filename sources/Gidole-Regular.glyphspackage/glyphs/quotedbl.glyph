@@ -1,15 +1,28 @@
 {
-color = 3;
+color = 4;
 glyphname = quotedbl;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (320,0);
 ref = quotesingle;
 },
 {
+ref = quotesingle;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+alignment = 1;
+ref = quotesingle;
+},
+{
+alignment = 1;
+pos = (440,0);
 ref = quotesingle;
 }
 );
@@ -41,7 +54,7 @@ width = 98;
 );
 };
 };
-width = 760;
+width = 880;
 }
 );
 unicode = 34;

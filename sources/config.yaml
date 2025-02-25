@@ -1,0 +1,5 @@
+sources:
+  - Gidole-Regular.glyphspackage
+buildTTF: true
+buildOTF: false
+buildWebfont: false

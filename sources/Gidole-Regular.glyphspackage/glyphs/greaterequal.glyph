@@ -2,6 +2,31 @@
 glyphname = greaterequal;
 layers = (
 {
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(880,872,l),
+(880,750,l),
+(235,478,l),
+(183,604,l),
+(691,811,l),
+(183,1018,l),
+(235,1144,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(880,264,l),
+(180,264,l),
+(180,398,l),
+(880,398,l)
+);
+}
+);
+};
 layerId = m001;
 shapes = (
 {

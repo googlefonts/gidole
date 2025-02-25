@@ -1,14 +1,32 @@
 {
-color = 3;
 glyphname = rightArrow;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 angle = 180;
 pos = (1340,1082);
 ref = leftArrow;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(772,1074,l),
+(1200,582,l),
+(1200,500,l),
+(772,8,l),
+(666,100,l),
+(988,474,l),
+(120,474,l),
+(120,608,l),
+(988,608,l),
+(666,982,l)
+);
 }
 );
 userData = {

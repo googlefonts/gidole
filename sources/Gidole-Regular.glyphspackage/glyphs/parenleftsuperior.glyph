@@ -1,12 +1,19 @@
 {
-color = 3;
+color = 4;
 glyphname = parenleftsuperior;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (0,1016);
+ref = parenleftinferior;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
 ref = parenleftinferior;
 }
 );

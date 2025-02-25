@@ -1,11 +1,19 @@
 {
-color = 3;
+color = 4;
 glyphname = eight.tab;
 layers = (
 {
+background = {
+shapes = (
+{
+ref = eight;
+}
+);
+};
 layerId = m001;
 shapes = (
 {
+alignment = 1;
 ref = eight;
 }
 );

@@ -1,8 +1,15 @@
 {
-color = 3;
+color = 4;
 glyphname = "ie-cy";
 layers = (
 {
+background = {
+shapes = (
+{
+ref = e;
+}
+);
+};
 layerId = m001;
 shapes = (
 {

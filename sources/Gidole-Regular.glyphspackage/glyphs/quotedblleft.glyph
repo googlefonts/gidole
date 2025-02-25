@@ -1,9 +1,9 @@
 {
-color = 3;
+color = 8;
 glyphname = quotedblleft;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 angle = 180;
@@ -13,6 +13,22 @@ ref = quoteright;
 {
 angle = 180;
 pos = (460,2584);
+ref = quoteright;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+alignment = 1;
+angle = 180;
+pos = (460,1536);
+ref = quoteright;
+},
+{
+alignment = 1;
+angle = 180;
+pos = (920,1536);
 ref = quoteright;
 }
 );
@@ -36,7 +52,7 @@ width = 220;
 );
 };
 };
-width = 780;
+width = 920;
 }
 );
 unicode = 8220;

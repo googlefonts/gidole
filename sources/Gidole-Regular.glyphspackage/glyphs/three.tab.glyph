@@ -1,11 +1,19 @@
 {
-color = 3;
+color = 4;
 glyphname = three.tab;
 layers = (
 {
+background = {
+shapes = (
+{
+ref = three;
+}
+);
+};
 layerId = m001;
 shapes = (
 {
+alignment = 1;
 ref = three;
 }
 );

@@ -1,11 +1,19 @@
 {
-color = 3;
+color = 4;
 glyphname = seven.tab;
 layers = (
 {
+background = {
+shapes = (
+{
+ref = seven;
+}
+);
+};
 layerId = m001;
 shapes = (
 {
+alignment = 1;
 ref = seven;
 }
 );

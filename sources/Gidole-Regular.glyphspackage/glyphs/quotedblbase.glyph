@@ -1,9 +1,9 @@
 {
-color = 3;
+color = 4;
 glyphname = quotedblbase;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (320,-1308);
@@ -11,6 +11,19 @@ ref = quoteright;
 },
 {
 pos = (0,-1308);
+ref = quoteright;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+alignment = 1;
+ref = quoteright;
+},
+{
+alignment = 1;
+pos = (460,0);
 ref = quoteright;
 }
 );
@@ -34,7 +47,7 @@ width = 220;
 );
 };
 };
-width = 780;
+width = 920;
 }
 );
 unicode = 8222;

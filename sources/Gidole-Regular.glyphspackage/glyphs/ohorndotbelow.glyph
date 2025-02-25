@@ -1,9 +1,9 @@
 {
-color = 3;
+color = 4;
 glyphname = ohorndotbelow;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (327,0);
@@ -11,6 +11,18 @@ ref = dotbelowcomb;
 },
 {
 ref = ohorn;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = ohorn;
+},
+{
+alignment = 1;
+pos = (327,0);
+ref = dotbelowcomb;
 }
 );
 userData = {

@@ -1,9 +1,9 @@
 {
-color = 2;
+color = 4;
 glyphname = zero.zero;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 closed = 1;
@@ -66,6 +66,19 @@ nodes = (
 {
 pos = (324,613);
 ref = period;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+alignment = 1;
+ref = zero;
+},
+{
+alignment = 1;
+pos = (289,166);
+ref = periodcentered;
 }
 );
 userData = {

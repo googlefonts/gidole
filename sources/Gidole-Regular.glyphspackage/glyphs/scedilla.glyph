@@ -1,8 +1,9 @@
 {
+color = 4;
 glyphname = scedilla;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 closed = 1;
@@ -73,6 +74,17 @@ nodes = (
 (409,-306,o),
 (422,-306,cs)
 );
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = s;
+},
+{
+pos = (188,0);
+ref = cedillacomb;
 }
 );
 userData = {

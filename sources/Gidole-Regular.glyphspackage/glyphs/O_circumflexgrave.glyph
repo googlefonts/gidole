@@ -1,9 +1,9 @@
 {
-color = 3;
+color = 4;
 glyphname = Ocircumflexgrave;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (264,730);
@@ -11,6 +11,23 @@ ref = gravecomb;
 },
 {
 ref = Ocircumflex;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = O;
+},
+{
+alignment = 1;
+pos = (197,334);
+ref = circumflexcomb;
+},
+{
+alignment = 1;
+pos = (294,729);
+ref = gravecomb;
 }
 );
 userData = {

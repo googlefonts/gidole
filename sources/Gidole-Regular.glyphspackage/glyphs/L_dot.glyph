@@ -1,9 +1,9 @@
 {
-color = 3;
+color = 4;
 glyphname = Ldot;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (381,181);
@@ -11,6 +11,18 @@ ref = periodcentered;
 },
 {
 ref = L;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = L;
+},
+{
+alignment = 1;
+pos = (381,181);
+ref = periodcentered;
 }
 );
 userData = {

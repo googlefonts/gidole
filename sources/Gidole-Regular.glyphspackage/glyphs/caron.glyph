@@ -1,20 +1,41 @@
 {
-color = 3;
 glyphname = caron;
 layers = (
 {
 anchors = (
 {
-name = _Top;
+name = _top;
 pos = (431,1082);
 }
 );
-layerId = m001;
+background = {
+anchors = (
+{
+name = _top;
+pos = (431,1082);
+}
+);
 shapes = (
 {
 angle = 180;
 pos = (862,2718);
 ref = circumflex;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(431,1356,l),
+(571,1494,l),
+(742,1494,l),
+(484,1220,l),
+(378,1220,l),
+(120,1494,l),
+(291,1494,l)
+);
 }
 );
 userData = {

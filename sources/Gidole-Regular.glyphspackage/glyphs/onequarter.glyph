@@ -1,9 +1,9 @@
 {
-color = 3;
+color = 4;
 glyphname = onequarter;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (540,0);
@@ -11,11 +11,28 @@ ref = fraction;
 },
 {
 pos = (604,0);
-ref = four.d;
+ref = four.dnom;
 },
 {
 pos = (10,662);
-ref = one.d;
+ref = one.dnom;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+alignment = 1;
+ref = one.numr;
+},
+{
+pos = (548,0);
+ref = fraction;
+},
+{
+alignment = 1;
+pos = (734,0);
+ref = four.dnom;
 }
 );
 userData = {
@@ -46,7 +63,7 @@ width = 132;
 );
 };
 };
-width = 1367;
+width = 1474;
 }
 );
 unicode = 188;

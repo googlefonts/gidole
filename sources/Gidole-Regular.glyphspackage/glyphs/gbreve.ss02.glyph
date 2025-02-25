@@ -1,18 +1,19 @@
 {
+color = 4;
 glyphname = gbreve.ss02;
 layers = (
 {
+background = {
 anchors = (
 {
-name = Bottom;
+name = bottom;
 pos = (545,-414);
 },
 {
-name = Top;
+name = top;
 pos = (520,1082);
 }
 );
-layerId = m001;
 shapes = (
 {
 closed = 1;
@@ -131,6 +132,17 @@ nodes = (
 (256,1345,o),
 (256,1497,c)
 );
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = g.ss02;
+},
+{
+pos = (145,0);
+ref = brevecomb;
 }
 );
 userData = {

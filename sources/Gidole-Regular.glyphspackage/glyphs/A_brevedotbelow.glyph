@@ -1,16 +1,34 @@
 {
-color = 3;
+color = 4;
 glyphname = Abrevedotbelow;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
+alignment = 1;
 pos = (220,349);
 ref = brevecomb;
 },
 {
 ref = Adotbelow;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = A;
+},
+{
+alignment = 1;
+pos = (372,0);
+ref = dotbelowcomb;
+},
+{
+alignment = 1;
+pos = (220,334);
+ref = brevecomb;
 }
 );
 userData = {

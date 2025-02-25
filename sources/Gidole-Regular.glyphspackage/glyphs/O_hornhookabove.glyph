@@ -1,9 +1,9 @@
 {
-color = 3;
+color = 4;
 glyphname = Ohornhookabove;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (319,334);
@@ -11,6 +11,18 @@ ref = hookabovecomb;
 },
 {
 ref = Ohorn;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = Ohorn;
+},
+{
+alignment = 1;
+pos = (319,334);
+ref = hookabovecomb;
 }
 );
 userData = {

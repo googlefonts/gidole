@@ -1,18 +1,43 @@
 {
-color = 3;
 glyphname = caroncomb;
 layers = (
 {
 anchors = (
 {
-name = _Top;
+name = _top;
+pos = (431,1082);
+},
+{
+name = top;
+pos = (431,1507);
+}
+);
+background = {
+anchors = (
+{
+name = _top;
 pos = (431,1082);
 }
 );
-layerId = m001;
 shapes = (
 {
 ref = caron;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(431,1369,l),
+(571,1507,l),
+(742,1507,l),
+(484,1233,l),
+(378,1233,l),
+(120,1507,l),
+(291,1507,l)
+);
 }
 );
 userData = {

@@ -1,8 +1,9 @@
 {
+color = 4;
 glyphname = ugrave.ss04;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 closed = 1;
@@ -46,6 +47,17 @@ nodes = (
 (476,1222,l),
 (311,1496,l)
 );
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = u.ss04;
+},
+{
+pos = (211,0);
+ref = gravecomb;
 }
 );
 userData = {

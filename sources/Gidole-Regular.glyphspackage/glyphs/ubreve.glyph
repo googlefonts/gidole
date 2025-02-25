@@ -1,9 +1,9 @@
 {
-color = 3;
+color = 4;
 glyphname = ubreve;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (211,1);
@@ -12,6 +12,18 @@ ref = breve;
 {
 pos = (20,0);
 ref = u;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = u;
+},
+{
+alignment = 1;
+pos = (170,0);
+ref = brevecomb;
 }
 );
 userData = {

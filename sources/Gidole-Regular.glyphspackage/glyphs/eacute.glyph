@@ -1,9 +1,9 @@
 {
-color = 2;
+color = 4;
 glyphname = eacute;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 closed = 1;
@@ -16,6 +16,17 @@ nodes = (
 },
 {
 ref = e;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (299,0);
+ref = acutecomb;
 }
 );
 userData = {

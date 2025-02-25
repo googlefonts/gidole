@@ -1,11 +1,20 @@
 {
-color = 3;
+color = 4;
 glyphname = at.case;
 layers = (
 {
+background = {
+shapes = (
+{
+pos = (0,167);
+ref = at;
+}
+);
+};
 layerId = m001;
 shapes = (
 {
+alignment = 1;
 pos = (0,167);
 ref = at;
 }

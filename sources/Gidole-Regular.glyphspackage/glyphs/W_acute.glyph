@@ -1,9 +1,9 @@
 {
-color = 2;
+color = 4;
 glyphname = Wacute;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 closed = 1;
@@ -16,6 +16,17 @@ nodes = (
 },
 {
 ref = W;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = W;
+},
+{
+pos = (519,334);
+ref = acutecomb;
 }
 );
 userData = {

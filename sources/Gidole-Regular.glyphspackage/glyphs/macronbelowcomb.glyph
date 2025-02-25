@@ -1,19 +1,41 @@
 {
-color = 3;
 glyphname = macronbelowcomb;
 layers = (
 {
 anchors = (
 {
-name = _Bottom;
+name = _bottom;
+pos = (405,0);
+},
+{
+name = bottom;
+pos = (405,-321);
+}
+);
+background = {
+anchors = (
+{
+name = _bottom;
 pos = (405,0);
 }
 );
-layerId = m001;
 shapes = (
 {
 pos = (0,-1571);
 ref = macron;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(690,-187,l),
+(690,-321,l),
+(120,-321,l),
+(120,-187,l)
+);
 }
 );
 userData = {

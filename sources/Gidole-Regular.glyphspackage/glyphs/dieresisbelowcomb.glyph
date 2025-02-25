@@ -1,19 +1,66 @@
 {
-color = 3;
 glyphname = dieresisbelowcomb;
 layers = (
 {
 anchors = (
 {
-name = _Bottom;
+name = _bottom;
+pos = (405,0);
+},
+{
+name = bottom;
+pos = (405,1247);
+}
+);
+background = {
+anchors = (
+{
+name = _bottom;
 pos = (405,0);
 }
 );
-layerId = m001;
 shapes = (
 {
 pos = (0,-1610);
 ref = dieresis;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(651,-177,o),
+(690,-216,o),
+(690,-271,cs),
+(690,-326,o),
+(651,-365,o),
+(596,-365,cs),
+(541,-365,o),
+(502,-326,o),
+(502,-271,cs),
+(502,-216,o),
+(541,-177,o),
+(596,-177,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(269,-177,o),
+(308,-216,o),
+(308,-271,cs),
+(308,-326,o),
+(269,-365,o),
+(214,-365,cs),
+(159,-365,o),
+(120,-326,o),
+(120,-271,cs),
+(120,-216,o),
+(159,-177,o),
+(214,-177,cs)
+);
 }
 );
 userData = {

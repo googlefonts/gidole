@@ -1,8 +1,15 @@
 {
-color = 3;
+color = 4;
 glyphname = Chi;
 layers = (
 {
+background = {
+shapes = (
+{
+ref = X;
+}
+);
+};
 layerId = m001;
 shapes = (
 {

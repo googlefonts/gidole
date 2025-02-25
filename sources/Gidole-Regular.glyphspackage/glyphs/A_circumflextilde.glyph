@@ -1,16 +1,34 @@
 {
-color = 3;
+color = 4;
 glyphname = Acircumflextilde;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
+alignment = 1;
 pos = (166,740);
 ref = tildecomb;
 },
 {
 ref = Acircumflex;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = A;
+},
+{
+alignment = 1;
+pos = (164,334);
+ref = circumflexcomb;
+},
+{
+alignment = 1;
+pos = (166,729);
+ref = tildecomb;
 }
 );
 userData = {

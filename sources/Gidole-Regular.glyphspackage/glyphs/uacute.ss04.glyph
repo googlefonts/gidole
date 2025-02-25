@@ -1,8 +1,9 @@
 {
+color = 4;
 glyphname = uacute.ss04;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 closed = 1;
@@ -46,6 +47,17 @@ nodes = (
 (608,1496,l),
 (777,1496,l)
 );
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = u.ss04;
+},
+{
+pos = (314,0);
+ref = acutecomb;
 }
 );
 userData = {

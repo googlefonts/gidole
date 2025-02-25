@@ -1,18 +1,9 @@
 {
+color = 4;
 glyphname = uhorn;
 layers = (
 {
-anchors = (
-{
-name = Bottom;
-pos = (540,0);
-},
-{
-name = Top;
-pos = (540,1082);
-}
-);
-layerId = m001;
+background = {
 shapes = (
 {
 closed = 1;
@@ -66,6 +57,17 @@ nodes = (
 );
 }
 );
+};
+layerId = m001;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (819,-252);
+ref = horncomb;
+}
+);
 userData = {
 com.fontlab.hintData = {
 hhints = (
@@ -98,7 +100,7 @@ width = 140;
 );
 };
 };
-width = 1184;
+width = 1100;
 }
 );
 unicode = 432;

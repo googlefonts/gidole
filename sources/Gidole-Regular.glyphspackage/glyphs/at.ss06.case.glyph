@@ -1,11 +1,20 @@
 {
-color = 3;
+color = 4;
 glyphname = at.ss06.case;
 layers = (
 {
+background = {
+shapes = (
+{
+pos = (0,166);
+ref = at.ss06;
+}
+);
+};
 layerId = m001;
 shapes = (
 {
+alignment = 1;
 pos = (0,166);
 ref = at.ss06;
 }

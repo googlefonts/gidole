@@ -2,6 +2,21 @@
 glyphname = guilsinglleft;
 layers = (
 {
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(490,883,l),
+(272,539,l),
+(490,195,l),
+(372,123,l),
+(120,539,l),
+(372,955,l)
+);
+}
+);
+};
 layerId = m001;
 shapes = (
 {

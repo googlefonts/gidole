@@ -1,13 +1,22 @@
 {
-color = 3;
+color = 4;
 glyphname = foursuperior;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (0,177);
-ref = four.n;
+ref = four.numr;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+alignment = 1;
+pos = (0,177);
+ref = four.numr;
 }
 );
 userData = {

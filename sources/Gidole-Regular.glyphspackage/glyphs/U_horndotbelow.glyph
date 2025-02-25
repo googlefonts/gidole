@@ -1,9 +1,9 @@
 {
-color = 3;
+color = 4;
 glyphname = Uhorndotbelow;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (395,0);
@@ -11,6 +11,18 @@ ref = dotbelowcomb;
 },
 {
 ref = Uhorn;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = Uhorn;
+},
+{
+alignment = 1;
+pos = (395,0);
+ref = dotbelowcomb;
 }
 );
 userData = {
@@ -53,7 +65,7 @@ width = 140;
 );
 };
 };
-width = 1320;
+width = 1236;
 }
 );
 unicode = 7920;

@@ -1,9 +1,9 @@
 {
-color = 3;
+color = 4;
 glyphname = Tdotbelow;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (301,0);
@@ -11,6 +11,18 @@ ref = dotbelowcomb;
 },
 {
 ref = T;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = T;
+},
+{
+alignment = 1;
+pos = (301,0);
+ref = dotbelowcomb;
 }
 );
 userData = {

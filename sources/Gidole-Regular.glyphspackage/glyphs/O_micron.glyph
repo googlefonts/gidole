@@ -1,8 +1,15 @@
 {
-color = 3;
+color = 4;
 glyphname = Omicron;
 layers = (
 {
+background = {
+shapes = (
+{
+ref = O;
+}
+);
+};
 layerId = m001;
 shapes = (
 {

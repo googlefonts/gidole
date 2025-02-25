@@ -1,8 +1,15 @@
 {
-color = 3;
+color = 4;
 glyphname = gsingle;
 layers = (
 {
+background = {
+shapes = (
+{
+ref = g;
+}
+);
+};
 layerId = m001;
 shapes = (
 {

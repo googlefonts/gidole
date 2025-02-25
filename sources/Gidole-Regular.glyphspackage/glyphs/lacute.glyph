@@ -1,9 +1,9 @@
 {
-color = 3;
+color = 4;
 glyphname = lacute;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (3,414);
@@ -11,6 +11,18 @@ ref = acutecomb;
 },
 {
 ref = l;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = l;
+},
+{
+alignment = 1;
+pos = (3,414);
+ref = acutecomb;
 }
 );
 userData = {

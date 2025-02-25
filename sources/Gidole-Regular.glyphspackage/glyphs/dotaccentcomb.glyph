@@ -1,18 +1,48 @@
 {
-color = 3;
 glyphname = dotaccentcomb;
 layers = (
 {
 anchors = (
 {
-name = _Top;
+name = _top;
+pos = (223,1082);
+},
+{
+name = top;
+pos = (223,1454);
+}
+);
+background = {
+anchors = (
+{
+name = _top;
 pos = (223,1082);
 }
 );
-layerId = m001;
 shapes = (
 {
 ref = dotaccent;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(284,1454,o),
+(326,1410,o),
+(326,1350,cs),
+(326,1289,o),
+(284,1247,o),
+(223,1247,cs),
+(162,1247,o),
+(120,1289,o),
+(120,1350,cs),
+(120,1410,o),
+(162,1454,o),
+(223,1454,cs)
+);
 }
 );
 userData = {

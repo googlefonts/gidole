@@ -1,9 +1,9 @@
 {
-color = 2;
+color = 4;
 glyphname = Igrave;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 closed = 1;
@@ -16,6 +16,17 @@ nodes = (
 },
 {
 ref = I;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-76,334);
+ref = gravecomb;
 }
 );
 userData = {

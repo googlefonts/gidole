@@ -1,9 +1,9 @@
 {
-color = 3;
+color = 4;
 glyphname = "Io-cy";
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (165,310);
@@ -11,6 +11,17 @@ ref = dieresiscomb;
 },
 {
 ref = "Ie-cy";
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = "Ie-cy";
+},
+{
+pos = (172,334);
+ref = dieresiscomb;
 }
 );
 userData = {

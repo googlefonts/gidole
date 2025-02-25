@@ -1,8 +1,15 @@
 {
-color = 3;
+color = 4;
 glyphname = "Er-cy";
 layers = (
 {
+background = {
+shapes = (
+{
+ref = P;
+}
+);
+};
 layerId = m001;
 shapes = (
 {

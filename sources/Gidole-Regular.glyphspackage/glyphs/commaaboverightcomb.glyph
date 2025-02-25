@@ -1,18 +1,55 @@
 {
-color = 3;
 glyphname = commaaboverightcomb;
 layers = (
 {
 anchors = (
 {
-name = _Apos;
+name = _apos;
+pos = (67,1416);
+},
+{
+name = _topright;
+pos = (100,1536);
+},
+{
+name = topright;
+pos = (360,1512);
+}
+);
+background = {
+anchors = (
+{
+name = _apos;
 pos = (45,1364);
 }
 );
-layerId = m001;
 shapes = (
 {
 ref = quoteright;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(295,1512,o),
+(340,1467,o),
+(340,1402,cs),
+(340,1377,o),
+(336,1361,o),
+(315,1310,cs),
+(225,1088,l),
+(127,1088,l),
+(184,1301,l),
+(147,1315,o),
+(120,1353,o),
+(120,1402,cs),
+(120,1467,o),
+(165,1512,o),
+(230,1512,cs)
+);
 }
 );
 userData = {

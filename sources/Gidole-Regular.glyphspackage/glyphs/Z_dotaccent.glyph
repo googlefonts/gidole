@@ -1,9 +1,9 @@
 {
-color = 3;
+color = 4;
 glyphname = Zdotaccent;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (291,334);
@@ -11,6 +11,18 @@ ref = dotaccentcomb;
 },
 {
 ref = Z;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = Z;
+},
+{
+alignment = 1;
+pos = (291,334);
+ref = dotaccentcomb;
 }
 );
 userData = {

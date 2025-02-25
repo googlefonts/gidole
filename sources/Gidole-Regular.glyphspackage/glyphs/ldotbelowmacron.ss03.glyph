@@ -1,0 +1,68 @@
+{
+color = 4;
+glyphname = ldotbelowmacron.ss03;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (-170,414);
+ref = macroncomb;
+},
+{
+ref = ldotbelow;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = l.ss03;
+},
+{
+alignment = 1;
+pos = (12,0);
+ref = dotbelowcomb;
+},
+{
+alignment = 1;
+pos = (-170,374);
+ref = macroncomb;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -372;
+width = 207;
+},
+{
+position = -16;
+width = 134;
+},
+{
+position = 1666;
+width = 134;
+}
+);
+vhints = (
+{
+position = -50;
+width = 570;
+},
+{
+position = 160;
+width = 150;
+},
+{
+position = 207;
+width = 206;
+}
+);
+};
+};
+width = 470;
+}
+);
+}

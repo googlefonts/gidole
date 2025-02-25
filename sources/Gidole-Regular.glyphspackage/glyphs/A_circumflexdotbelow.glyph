@@ -1,16 +1,34 @@
 {
-color = 3;
+color = 4;
 glyphname = Acircumflexdotbelow;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
+alignment = 1;
 pos = (164,334);
 ref = circumflexcomb;
 },
 {
 ref = Adotbelow;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = A;
+},
+{
+alignment = 1;
+pos = (372,0);
+ref = dotbelowcomb;
+},
+{
+alignment = 1;
+pos = (164,334);
+ref = circumflexcomb;
 }
 );
 userData = {

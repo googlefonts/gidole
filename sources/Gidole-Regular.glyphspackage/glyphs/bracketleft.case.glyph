@@ -1,11 +1,20 @@
 {
-color = 3;
+color = 4;
 glyphname = bracketleft.case;
 layers = (
 {
+background = {
+shapes = (
+{
+pos = (0,172);
+ref = bracketleft;
+}
+);
+};
 layerId = m001;
 shapes = (
 {
+alignment = 1;
 pos = (0,172);
 ref = bracketleft;
 }

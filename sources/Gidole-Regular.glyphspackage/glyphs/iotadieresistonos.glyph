@@ -1,15 +1,21 @@
 {
-color = 3;
+color = 4;
 glyphname = iotadieresistonos;
 layers = (
 {
 anchors = (
 {
-name = Bottom;
+name = bottom;
 pos = (240,0);
 }
 );
-layerId = m001;
+background = {
+anchors = (
+{
+name = bottom;
+pos = (240,0);
+}
+);
 shapes = (
 {
 pos = (-210,0);
@@ -17,6 +23,17 @@ ref = dieresistonos;
 },
 {
 ref = iota;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = iota;
+},
+{
+pos = (-210,0);
+ref = dieresistonos;
 }
 );
 userData = {

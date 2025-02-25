@@ -1,20 +1,37 @@
 {
-color = 3;
+color = 4;
 glyphname = twothirds;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
-ref = two.n;
+ref = two.numr;
 },
 {
 pos = (918,0);
-ref = three.d;
+ref = three.dnom;
 },
 {
 pos = (707,0);
 ref = fraction;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+alignment = 1;
+ref = two.numr;
+},
+{
+pos = (740,0);
+ref = fraction;
+},
+{
+alignment = 1;
+pos = (986,0);
+ref = three.dnom;
 }
 );
 userData = {
@@ -53,7 +70,7 @@ width = 132;
 );
 };
 };
-width = 1685;
+width = 1726;
 }
 );
 unicode = 8532;

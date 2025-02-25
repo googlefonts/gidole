@@ -1,13 +1,22 @@
 {
-color = 3;
+color = 4;
 glyphname = twoinferior;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (0,-177);
-ref = two.d;
+ref = two.dnom;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+alignment = 1;
+pos = (0,-177);
+ref = two.dnom;
 }
 );
 userData = {

@@ -1,0 +1,76 @@
+{
+color = 4;
+glyphname = udieresisacute.ss04;
+layers = (
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(624,1557,l),
+(466,1557,l),
+(620,1831,l),
+(789,1831,l)
+);
+},
+{
+ref = udieresis;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = u.ss04;
+},
+{
+alignment = 1;
+pos = (140,0);
+ref = dieresiscomb;
+},
+{
+pos = (314,335);
+ref = acutecomb;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -16;
+width = 134;
+},
+{
+position = 1062;
+width = 20;
+},
+{
+position = 1247;
+width = 188;
+}
+);
+vhints = (
+{
+position = 150;
+width = 150;
+},
+{
+position = 260;
+width = 188;
+},
+{
+position = 642;
+width = 188;
+},
+{
+position = 790;
+width = 150;
+}
+);
+};
+};
+width = 1100;
+}
+);
+}

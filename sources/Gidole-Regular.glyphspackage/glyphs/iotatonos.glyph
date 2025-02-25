@@ -1,19 +1,29 @@
 {
-color = 3;
+color = 4;
 glyphname = iotatonos;
 layers = (
 {
 anchors = (
 {
-name = Bottom;
+name = bottom;
 pos = (310,0);
 },
 {
-name = Top;
+name = top;
 pos = (234,1496);
 }
 );
-layerId = m001;
+background = {
+anchors = (
+{
+name = bottom;
+pos = (310,0);
+},
+{
+name = top;
+pos = (234,1496);
+}
+);
 shapes = (
 {
 pos = (37,0);
@@ -21,6 +31,17 @@ ref = tonos;
 },
 {
 ref = iota;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = iota;
+},
+{
+pos = (470,0);
+ref = tonos;
 }
 );
 userData = {
@@ -51,7 +72,7 @@ width = 222;
 );
 };
 };
-width = 470;
+width = 945;
 }
 );
 unicode = 943;

@@ -1,18 +1,58 @@
 {
-color = 3;
 glyphname = cedillacomb;
 layers = (
 {
 anchors = (
 {
-name = _Bottom;
+name = _bottom;
+pos = (290,0);
+},
+{
+name = bottom;
+pos = (257,-430);
+}
+);
+background = {
+anchors = (
+{
+name = _bottom;
 pos = (290,0);
 }
 );
-layerId = m001;
 shapes = (
 {
 ref = cedilla;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(240,-306,o),
+(264,-269,o),
+(264,-228,cs),
+(264,-183,o),
+(240,-156,o),
+(189,-138,c),
+(228,0,l),
+(352,0,l),
+(324,-97,l),
+(364,-117,o),
+(404,-160,o),
+(404,-229,cs),
+(404,-350,o),
+(317,-430,o),
+(198,-430,cs),
+(165,-430,o),
+(135,-423,o),
+(109,-416,c),
+(147,-297,l),
+(165,-304,o),
+(181,-306,o),
+(194,-306,cs)
+);
 }
 );
 userData = {

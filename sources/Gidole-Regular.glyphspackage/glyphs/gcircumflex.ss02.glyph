@@ -1,18 +1,19 @@
 {
+color = 4;
 glyphname = gcircumflex.ss02;
 layers = (
 {
+background = {
 anchors = (
 {
-name = Bottom;
+name = bottom;
 pos = (545,-414);
 },
 {
-name = Top;
+name = top;
 pos = (520,1082);
 }
 );
-layerId = m001;
 shapes = (
 {
 closed = 1;
@@ -124,6 +125,17 @@ nodes = (
 (831,1222,l),
 (660,1222,l)
 );
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = g.ss02;
+},
+{
+pos = (89,0);
+ref = circumflexcomb;
 }
 );
 userData = {

@@ -1,8 +1,9 @@
 {
+color = 4;
 glyphname = ubreve.ss04;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 closed = 1;
@@ -56,6 +57,17 @@ nodes = (
 (281,1345,o),
 (281,1497,c)
 );
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = u.ss04;
+},
+{
+pos = (170,0);
+ref = brevecomb;
 }
 );
 userData = {

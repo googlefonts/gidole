@@ -1,8 +1,9 @@
 {
+color = 4;
 glyphname = lacute.ss03;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 closed = 1;
@@ -21,6 +22,17 @@ nodes = (
 (298,1870,l),
 (467,1870,l)
 );
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = l.ss03;
+},
+{
+pos = (4,374);
+ref = acutecomb;
 }
 );
 userData = {

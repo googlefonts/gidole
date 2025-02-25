@@ -1,9 +1,9 @@
 {
-color = 3;
+color = 4;
 glyphname = Ecircumflextilde;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (148,740);
@@ -11,6 +11,23 @@ ref = tildecomb;
 },
 {
 ref = Ecircumflex;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = E;
+},
+{
+alignment = 1;
+pos = (146,334);
+ref = circumflexcomb;
+},
+{
+alignment = 1;
+pos = (148,729);
+ref = tildecomb;
 }
 );
 userData = {

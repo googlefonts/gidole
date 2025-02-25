@@ -1,9 +1,9 @@
 {
-color = 3;
+color = 4;
 glyphname = ndotaccent;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (352,0);
@@ -11,6 +11,18 @@ ref = dotaccentcomb;
 },
 {
 ref = n;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = n;
+},
+{
+alignment = 1;
+pos = (352,0);
+ref = dotaccentcomb;
 }
 );
 userData = {

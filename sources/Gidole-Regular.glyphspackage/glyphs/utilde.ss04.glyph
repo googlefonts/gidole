@@ -1,8 +1,9 @@
 {
+color = 4;
 glyphname = utilde.ss04;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 closed = 1;
@@ -62,6 +63,17 @@ nodes = (
 (380,1263,o),
 (368,1228,c)
 );
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = u.ss04;
+},
+{
+pos = (116,0);
+ref = tildecomb;
 }
 );
 userData = {

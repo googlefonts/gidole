@@ -1,0 +1,49 @@
+{
+color = 4;
+glyphname = six.numr;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (0,662);
+ref = six.dnom;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+alignment = 1;
+pos = (0,662);
+ref = six.dnom;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 653;
+width = 118;
+},
+{
+position = 1043;
+width = 111;
+}
+);
+vhints = (
+{
+position = 97;
+width = 132;
+},
+{
+position = 511;
+width = 132;
+}
+);
+};
+};
+width = 740;
+}
+);
+}

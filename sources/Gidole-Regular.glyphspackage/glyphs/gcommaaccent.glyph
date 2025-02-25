@@ -1,9 +1,9 @@
 {
-color = 3;
+color = 4;
 glyphname = gcommaaccent;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (303,0);
@@ -11,6 +11,18 @@ ref = commaturnedabovecomb;
 },
 {
 ref = g;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = g;
+},
+{
+alignment = 1;
+pos = (303,0);
+ref = commaturnedabovecomb;
 }
 );
 userData = {

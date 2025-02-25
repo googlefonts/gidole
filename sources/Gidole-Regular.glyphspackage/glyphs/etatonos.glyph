@@ -1,9 +1,9 @@
 {
-color = 3;
+color = 4;
 glyphname = etatonos;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (377,0);
@@ -11,6 +11,17 @@ ref = tonos;
 },
 {
 ref = eta;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = eta;
+},
+{
+pos = (1100,0);
+ref = tonos;
 }
 );
 userData = {
@@ -49,7 +60,7 @@ width = 150;
 );
 };
 };
-width = 1100;
+width = 1575;
 }
 );
 unicode = 942;

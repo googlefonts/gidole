@@ -1,9 +1,9 @@
 {
-color = 3;
+color = 4;
 glyphname = Udieresiscaron;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (187,669);
@@ -11,6 +11,18 @@ ref = caron;
 },
 {
 ref = Udieresis;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = Udieresis;
+},
+{
+alignment = 1;
+pos = (187,669);
+ref = caroncomb;
 }
 );
 userData = {

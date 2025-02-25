@@ -1,13 +1,23 @@
 {
-color = 3;
+color = 8;
 glyphname = quoteleft;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 angle = 180;
 pos = (460,2584);
+ref = quoteright;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+alignment = 1;
+angle = 180;
+pos = (460,1536);
 ref = quoteright;
 }
 );

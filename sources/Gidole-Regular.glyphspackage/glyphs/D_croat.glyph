@@ -1,8 +1,15 @@
 {
-color = 3;
+color = 4;
 glyphname = Dcroat;
 layers = (
 {
+background = {
+shapes = (
+{
+ref = Eth;
+}
+);
+};
 layerId = m001;
 shapes = (
 {

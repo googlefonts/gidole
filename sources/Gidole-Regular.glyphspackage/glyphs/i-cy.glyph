@@ -1,12 +1,24 @@
 {
-color = 3;
+color = 4;
 glyphname = "i-cy";
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 ref = i;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = idotless;
+},
+{
+alignment = 1;
+pos = (12,0);
+ref = dotaccentcomb;
 }
 );
 userData = {

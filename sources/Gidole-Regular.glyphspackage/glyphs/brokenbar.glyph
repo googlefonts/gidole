@@ -2,6 +2,28 @@
 glyphname = brokenbar;
 layers = (
 {
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(316,1538,l),
+(316,698,l),
+(176,698,l),
+(176,1538,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(316,394,l),
+(316,-456,l),
+(176,-456,l),
+(176,394,l)
+);
+}
+);
+};
 layerId = m001;
 shapes = (
 {

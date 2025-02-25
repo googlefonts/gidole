@@ -1,9 +1,9 @@
 {
-color = 3;
+color = 4;
 glyphname = Iotadieresis;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (-147,334);
@@ -11,6 +11,18 @@ ref = dieresiscomb;
 },
 {
 ref = Iota;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = Iota;
+},
+{
+alignment = 1;
+pos = (-147,334);
+ref = dieresiscomb;
 }
 );
 userData = {

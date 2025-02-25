@@ -1,0 +1,53 @@
+{
+color = 4;
+glyphname = nine.numr;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (0,662);
+ref = nine.dnom;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+alignment = 1;
+pos = (0,662);
+ref = nine.dnom;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 662;
+width = 21;
+},
+{
+position = 930;
+width = 108;
+},
+{
+position = 1310;
+width = 118;
+}
+);
+vhints = (
+{
+position = 100;
+width = 132;
+},
+{
+position = 508;
+width = 132;
+}
+);
+};
+};
+width = 740;
+}
+);
+}

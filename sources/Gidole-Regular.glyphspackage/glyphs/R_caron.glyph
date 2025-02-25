@@ -1,9 +1,9 @@
 {
-color = 3;
+color = 4;
 glyphname = Rcaron;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (125,334);
@@ -11,6 +11,18 @@ ref = caron;
 },
 {
 ref = R;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = R;
+},
+{
+alignment = 1;
+pos = (125,334);
+ref = caroncomb;
 }
 );
 userData = {

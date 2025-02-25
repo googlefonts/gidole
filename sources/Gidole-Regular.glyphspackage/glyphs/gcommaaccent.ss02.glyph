@@ -1,18 +1,19 @@
 {
+color = 4;
 glyphname = gcommaaccent.ss02;
 layers = (
 {
+background = {
 anchors = (
 {
-name = Bottom;
+name = bottom;
 pos = (545,-414);
 },
 {
-name = Top;
+name = top;
 pos = (520,1082);
 }
 );
-layerId = m001;
 shapes = (
 {
 closed = 1;
@@ -132,6 +133,17 @@ nodes = (
 (423,1246,o),
 (423,1301,cs)
 );
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = g.ss02;
+},
+{
+pos = (303,0);
+ref = commaturnedabovecomb;
 }
 );
 userData = {

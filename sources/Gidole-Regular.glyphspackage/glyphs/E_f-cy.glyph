@@ -1,8 +1,15 @@
 {
-color = 3;
+color = 4;
 glyphname = "Ef-cy";
 layers = (
 {
+background = {
+shapes = (
+{
+ref = Phi;
+}
+);
+};
 layerId = m001;
 shapes = (
 {

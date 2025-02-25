@@ -1,8 +1,15 @@
 {
-color = 3;
+color = 4;
 glyphname = Beta;
 layers = (
 {
+background = {
+shapes = (
+{
+ref = B;
+}
+);
+};
 layerId = m001;
 shapes = (
 {

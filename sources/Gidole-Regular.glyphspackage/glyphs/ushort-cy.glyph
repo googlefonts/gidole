@@ -1,9 +1,9 @@
 {
-color = 3;
+color = 4;
 glyphname = "ushort-cy";
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (130,0);
@@ -11,6 +11,18 @@ ref = brevecomb;
 },
 {
 ref = "u-cy";
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = "u-cy";
+},
+{
+alignment = 1;
+pos = (130,0);
+ref = brevecomb;
 }
 );
 userData = {

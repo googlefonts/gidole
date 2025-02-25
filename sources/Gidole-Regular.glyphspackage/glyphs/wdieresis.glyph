@@ -1,9 +1,9 @@
 {
-color = 3;
+color = 4;
 glyphname = wdieresis;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (299,0);
@@ -11,6 +11,18 @@ ref = dieresis;
 },
 {
 ref = w;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = w;
+},
+{
+alignment = 1;
+pos = (299,0);
+ref = dieresiscomb;
 }
 );
 userData = {

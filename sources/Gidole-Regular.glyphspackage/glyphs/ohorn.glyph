@@ -1,18 +1,19 @@
 {
+color = 4;
 glyphname = ohorn;
 layers = (
 {
+background = {
 anchors = (
 {
-name = Bottom;
+name = bottom;
 pos = (550,0);
 },
 {
-name = Top;
+name = top;
 pos = (550,1082);
 }
 );
-layerId = m001;
 shapes = (
 {
 closed = 1;
@@ -83,6 +84,17 @@ nodes = (
 (639,964,o),
 (550,964,cs)
 );
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (729,-252);
+ref = horncomb;
 }
 );
 userData = {

@@ -1,9 +1,9 @@
 {
-color = 2;
+color = 4;
 glyphname = Wgrave;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 closed = 1;
@@ -13,9 +13,17 @@ nodes = (
 (701,1556,l),
 (536,1830,l)
 );
-},
+}
+);
+};
+layerId = m001;
+shapes = (
 {
 ref = W;
+},
+{
+pos = (416,334);
+ref = gravecomb;
 }
 );
 userData = {

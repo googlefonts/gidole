@@ -1,8 +1,9 @@
 {
+color = 4;
 glyphname = uhungarumlaut.ss04;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 closed = 1;
@@ -55,6 +56,17 @@ nodes = (
 (458,1496,l),
 (617,1496,l)
 );
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = u.ss04;
+},
+{
+pos = (185,0);
+ref = hungarumlautcomb;
 }
 );
 userData = {

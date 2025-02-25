@@ -1,8 +1,9 @@
 {
+color = 4;
 glyphname = aogonek;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 closed = 1;
@@ -84,6 +85,17 @@ nodes = (
 (720,527,l),
 (530,527,ls)
 );
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (424,0);
+ref = ogonekcomb;
 }
 );
 userData = {

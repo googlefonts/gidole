@@ -1,9 +1,9 @@
 {
-color = 3;
+color = 4;
 glyphname = Lcommaaccent;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (326,0);
@@ -11,6 +11,18 @@ ref = commaaccentcomb;
 },
 {
 ref = L;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = L;
+},
+{
+alignment = 1;
+pos = (326,0);
+ref = commaaccentcomb;
 }
 );
 userData = {

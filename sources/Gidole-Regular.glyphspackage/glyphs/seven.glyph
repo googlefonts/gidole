@@ -2,6 +2,22 @@
 glyphname = seven;
 layers = (
 {
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(126,1416,l),
+(982,1416,l),
+(982,1322,l),
+(437,0,l),
+(270,0,l),
+(797,1276,l),
+(126,1276,l)
+);
+}
+);
+};
 layerId = m001;
 shapes = (
 {

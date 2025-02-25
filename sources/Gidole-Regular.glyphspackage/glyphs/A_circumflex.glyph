@@ -1,15 +1,15 @@
 {
-color = 3;
+color = 4;
 glyphname = Acircumflex;
 layers = (
 {
+background = {
 anchors = (
 {
-name = Bottom;
+name = bottom;
 pos = (595,0);
 }
 );
-layerId = m001;
 shapes = (
 {
 pos = (164,334);
@@ -17,6 +17,18 @@ ref = circumflex;
 },
 {
 ref = A;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = A;
+},
+{
+alignment = 1;
+pos = (164,334);
+ref = circumflexcomb;
 }
 );
 userData = {

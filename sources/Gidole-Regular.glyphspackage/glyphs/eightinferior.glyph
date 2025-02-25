@@ -1,13 +1,22 @@
 {
-color = 3;
+color = 4;
 glyphname = eightinferior;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (0,-177);
-ref = eight.d;
+ref = eight.dnom;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+alignment = 1;
+pos = (0,-177);
+ref = eight.dnom;
 }
 );
 userData = {

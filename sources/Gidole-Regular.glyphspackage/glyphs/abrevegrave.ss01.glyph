@@ -1,0 +1,88 @@
+{
+color = 4;
+glyphname = abrevegrave.ss01;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (131,396);
+ref = gravecomb;
+},
+{
+ref = abreve;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = a.ss01;
+},
+{
+alignment = 1;
+pos = (160,0);
+ref = brevecomb;
+},
+{
+alignment = 1;
+pos = (201,396);
+ref = gravecomb;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -16;
+width = 134;
+},
+{
+position = 0;
+width = 21;
+},
+{
+position = 527;
+width = 124;
+},
+{
+position = 964;
+width = 134;
+},
+{
+position = 1208;
+width = 124;
+},
+{
+position = 1618;
+width = 274;
+}
+);
+vhints = (
+{
+position = 100;
+width = 150;
+},
+{
+position = 230;
+width = 140;
+},
+{
+position = 251;
+width = 323;
+},
+{
+position = 620;
+width = 140;
+},
+{
+position = 720;
+width = 150;
+}
+);
+};
+};
+width = 1115;
+}
+);
+}

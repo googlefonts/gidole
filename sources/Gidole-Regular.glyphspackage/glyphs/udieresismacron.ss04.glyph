@@ -1,0 +1,80 @@
+{
+color = 4;
+glyphname = udieresismacron.ss04;
+layers = (
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(830,1691,l),
+(830,1557,l),
+(260,1557,l),
+(260,1691,l)
+);
+},
+{
+ref = udieresis;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = u.ss04;
+},
+{
+alignment = 1;
+pos = (140,0);
+ref = dieresiscomb;
+},
+{
+pos = (140,335);
+ref = macroncomb;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -16;
+width = 134;
+},
+{
+position = 1062;
+width = 20;
+},
+{
+position = 1247;
+width = 188;
+},
+{
+position = 1557;
+width = 134;
+}
+);
+vhints = (
+{
+position = 150;
+width = 150;
+},
+{
+position = 260;
+width = 188;
+},
+{
+position = 642;
+width = 188;
+},
+{
+position = 790;
+width = 150;
+}
+);
+};
+};
+width = 1100;
+}
+);
+}

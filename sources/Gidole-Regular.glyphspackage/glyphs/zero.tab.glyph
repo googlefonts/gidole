@@ -1,11 +1,19 @@
 {
-color = 3;
+color = 4;
 glyphname = zero.tab;
 layers = (
 {
+background = {
+shapes = (
+{
+ref = zero;
+}
+);
+};
 layerId = m001;
 shapes = (
 {
+alignment = 1;
 ref = zero;
 }
 );

@@ -4,26 +4,65 @@ layers = (
 {
 anchors = (
 {
-name = Apos;
+name = apos;
 pos = (30,0);
 },
 {
-name = Bottom;
+name = bottom;
 pos = (257,0);
 },
 {
-name = Center;
+name = center;
 pos = (20,0);
 },
 {
-name = DoubleTop;
+name = doubletop;
 pos = (30,0);
 },
 {
-name = Top;
+name = ogonek;
+pos = (336,0);
+},
+{
+name = top;
 pos = (258,1416);
 }
 );
+background = {
+anchors = (
+{
+name = apos;
+pos = (30,0);
+},
+{
+name = bottom;
+pos = (257,0);
+},
+{
+name = center;
+pos = (20,0);
+},
+{
+name = doubletop;
+pos = (30,0);
+},
+{
+name = top;
+pos = (258,1416);
+}
+);
+shapes = (
+{
+closed = 1;
+nodes = (
+(336,0,l),
+(180,0,l),
+(180,1416,l),
+(336,1416,l)
+);
+}
+);
+};
 layerId = m001;
 shapes = (
 {

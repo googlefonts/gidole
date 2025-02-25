@@ -1,14 +1,27 @@
 {
-color = 3;
+color = 4;
 glyphname = omicron;
 layers = (
 {
 anchors = (
 {
-name = Top;
+name = top;
 pos = (550,1082);
 }
 );
+background = {
+anchors = (
+{
+name = top;
+pos = (550,1082);
+}
+);
+shapes = (
+{
+ref = o;
+}
+);
+};
 layerId = m001;
 shapes = (
 {

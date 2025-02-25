@@ -2,6 +2,35 @@
 glyphname = "Ge-cy";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (555,0);
+},
+{
+name = bottomright;
+pos = (970,0);
+},
+{
+name = top;
+pos = (555,1416);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(180,1416,l),
+(900,1416,l),
+(900,1276,l),
+(336,1276,l),
+(336,0,l),
+(180,0,l)
+);
+}
+);
+};
 layerId = m001;
 shapes = (
 {

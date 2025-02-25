@@ -2,6 +2,23 @@
 glyphname = bracketright;
 layers = (
 {
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(482,-456,l),
+(150,-456,l),
+(150,-332,l),
+(342,-332,l),
+(342,1414,l),
+(150,1414,l),
+(150,1538,l),
+(482,1538,l)
+);
+}
+);
+};
 layerId = m001;
 shapes = (
 {

@@ -1,8 +1,15 @@
 {
-color = 3;
+color = 4;
 glyphname = increment;
 layers = (
 {
+background = {
+shapes = (
+{
+ref = Delta;
+}
+);
+};
 layerId = m001;
 shapes = (
 {

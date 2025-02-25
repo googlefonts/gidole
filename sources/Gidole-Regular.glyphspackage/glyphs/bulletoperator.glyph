@@ -1,11 +1,19 @@
 {
-color = 3;
+color = 4;
 glyphname = bulletoperator;
 layers = (
 {
+background = {
+shapes = (
+{
+ref = periodcentered;
+}
+);
+};
 layerId = m001;
 shapes = (
 {
+alignment = 1;
 ref = periodcentered;
 }
 );

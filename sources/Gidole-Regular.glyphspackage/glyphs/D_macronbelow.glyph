@@ -1,9 +1,9 @@
 {
-color = 3;
+color = 4;
 glyphname = Dmacronbelow;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (176,0);
@@ -11,6 +11,18 @@ ref = macronbelowcomb;
 },
 {
 ref = D;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = D;
+},
+{
+alignment = 1;
+pos = (176,0);
+ref = macronbelowcomb;
 }
 );
 userData = {

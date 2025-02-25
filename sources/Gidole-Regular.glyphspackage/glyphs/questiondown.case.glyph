@@ -1,12 +1,21 @@
 {
-color = 3;
+color = 4;
 glyphname = questiondown.case;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (-20,414);
+ref = questiondown;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+alignment = 1;
+pos = (0,414);
 ref = questiondown;
 }
 );
@@ -38,7 +47,7 @@ width = 132;
 );
 };
 };
-width = 776;
+width = 726;
 }
 );
 }

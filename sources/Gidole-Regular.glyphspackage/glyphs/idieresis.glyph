@@ -1,9 +1,9 @@
 {
-color = 3;
+color = 4;
 glyphname = idieresis;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (-170,0);
@@ -11,6 +11,18 @@ ref = dieresis;
 },
 {
 ref = idotless;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = idotless;
+},
+{
+alignment = 1;
+pos = (-170,0);
+ref = dieresiscomb;
 }
 );
 userData = {

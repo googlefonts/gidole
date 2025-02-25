@@ -1,0 +1,92 @@
+{
+color = 4;
+glyphname = acircumflextilde.ss01;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (66,406);
+ref = tildecomb;
+},
+{
+ref = acircumflex;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = a.ss01;
+},
+{
+alignment = 1;
+pos = (104,0);
+ref = circumflexcomb;
+},
+{
+alignment = 1;
+pos = (106,395);
+ref = tildecomb;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -16;
+width = 134;
+},
+{
+position = 0;
+width = 21;
+},
+{
+position = 527;
+width = 124;
+},
+{
+position = 964;
+width = 134;
+},
+{
+position = 1222;
+width = 274;
+},
+{
+position = 1628;
+width = 124;
+},
+{
+position = 1688;
+width = 124;
+},
+{
+position = 1802;
+width = 20;
+}
+);
+vhints = (
+{
+position = 100;
+width = 150;
+},
+{
+position = 184;
+width = 622;
+},
+{
+position = 195;
+width = 600;
+},
+{
+position = 720;
+width = 150;
+}
+);
+};
+};
+width = 1115;
+}
+);
+}

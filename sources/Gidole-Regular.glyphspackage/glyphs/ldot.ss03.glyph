@@ -1,8 +1,9 @@
 {
+color = 4;
 glyphname = ldot.ss03;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 closed = 1;
@@ -31,6 +32,18 @@ nodes = (
 );
 }
 );
+};
+layerId = m001;
+shapes = (
+{
+ref = l.ss03;
+},
+{
+alignment = 1;
+pos = (334,184);
+ref = periodcentered;
+}
+);
 userData = {
 com.fontlab.hintData = {
 hhints = (
@@ -55,7 +68,7 @@ width = 220;
 );
 };
 };
-width = 854;
+width = 470;
 }
 );
 }

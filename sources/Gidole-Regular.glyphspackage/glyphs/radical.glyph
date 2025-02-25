@@ -2,6 +2,22 @@
 glyphname = radical;
 layers = (
 {
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(200,634,l),
+(503,183,l),
+(887,1496,l),
+(1042,1496,l),
+(601,0,l),
+(459,0,l),
+(80,552,l)
+);
+}
+);
+};
 layerId = m001;
 shapes = (
 {

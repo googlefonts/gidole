@@ -1,9 +1,9 @@
 {
-color = 3;
+color = 4;
 glyphname = aogonek.ss01;
 layers = (
 {
-layerId = m001;
+background = {
 shapes = (
 {
 pos = (509,0);
@@ -11,6 +11,18 @@ ref = ogonekcomb;
 },
 {
 ref = a.ss01;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = a.ss01;
+},
+{
+alignment = 1;
+pos = (509,0);
+ref = ogonekcomb;
 }
 );
 userData = {

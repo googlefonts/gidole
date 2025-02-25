@@ -1,0 +1,75 @@
+{
+color = 4;
+glyphname = uhornhookabove.ss04;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (231,0);
+ref = hookabovecomb;
+},
+{
+ref = uhorn;
+}
+);
+};
+layerId = m001;
+shapes = (
+{
+ref = uhorn.ss04;
+},
+{
+alignment = 1;
+pos = (236,0);
+ref = hookabovecomb;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -16;
+width = 134;
+},
+{
+position = 779;
+width = 110;
+},
+{
+position = 1062;
+width = 20;
+},
+{
+position = 1209;
+width = 98;
+},
+{
+position = 1446;
+width = 98;
+}
+);
+vhints = (
+{
+position = 150;
+width = 150;
+},
+{
+position = 589;
+width = 110;
+},
+{
+position = 790;
+width = 150;
+},
+{
+position = 1094;
+width = 140;
+}
+);
+};
+};
+width = 1100;
+}
+);
+}
