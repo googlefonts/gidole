@@ -1,0 +1,61 @@
+{
+glyphname = ldot.ss03;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(160,0,l),
+(160,1496,l),
+(310,1496,l),
+(310,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(669,834,o),
+(714,789,o),
+(714,724,cs),
+(714,659,o),
+(669,614,o),
+(604,614,cs),
+(539,614,o),
+(494,659,o),
+(494,724,cs),
+(494,789,o),
+(539,834,o),
+(604,834,cs)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 21;
+},
+{
+position = 614;
+width = 220;
+}
+);
+vhints = (
+{
+position = 160;
+width = 150;
+},
+{
+position = 494;
+width = 220;
+}
+);
+};
+};
+width = 854;
+}
+);
+}

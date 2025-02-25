@@ -83,6 +83,8 @@ automatic = 1;
 code = "languagesystem DFLT dflt;
 
 languagesystem latn dflt;
+languagesystem latn ROM;
+languagesystem latn MOL;
 languagesystem latn CAT;
 ";
 name = Languagesystems;
@@ -99,17 +101,54 @@ feature frac;
 feature ordn;
 feature case;
 feature zero;
+feature ss01;
+feature ss02;
+feature ss03;
+feature ss04;
+feature ss05;
+feature ss06;
+feature ss07;
 ";
 tag = aalt;
 },
 {
 automatic = 1;
+code = "lookup ccmp_DFLT_1 {
+	@CombiningTopAccents = [acutecomb brevecomb breveinvertedcomb caroncomb circumflexcomb commaaboverightcomb commaturnedabovecomb dblgravecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb];
+	lookupflag UseMarkFilteringSet @CombiningTopAccents;
+	sub i' @CombiningTopAccents by idotless;
+	sub j' @CombiningTopAccents by jdotless;
+} ccmp_DFLT_1;
+
+lookup ccmp_latn_1 {
+	lookupflag 0;
+	sub napostrophe by apostrophemod n;
+} ccmp_latn_1;
+
+script latn;
+lookup ccmp_latn_1;
+";
+tag = ccmp;
+},
+{
+automatic = 1;
 code = "script latn;
-language CAT;
+language ROM;
 lookup locl_latn_0 {
+	sub Scedilla by Scommaaccent;
+	sub scedilla by scommaaccent;
+	sub Tcedilla by Tcommaaccent;
+	sub tcedilla by tcommaaccent;
+} locl_latn_0;
+language MOL;
+lookup locl_latn_0;
+
+script latn;
+language CAT;
+lookup locl_latn_1 {
 	sub  l' periodcentered' l by ldot;
 	sub  L' periodcentered' L by Ldot;
-} locl_latn_0;
+} locl_latn_1;
 ";
 tag = locl;
 },
@@ -187,22 +226,6 @@ tag = ordn;
 },
 {
 automatic = 1;
-code = "sub colon by colon.case;
-sub exclamdown by exclamdown.case;
-sub questiondown by questiondown.case;
-sub parenleft by parenleft.case;
-sub parenright by parenright.case;
-sub braceleft by braceleft.case;
-sub braceright by braceright.case;
-sub bracketleft by bracketleft.case;
-sub bracketright by bracketright.case;
-sub at by at.case;
-sub at.alt by at.alt.case;
-";
-tag = case;
-},
-{
-automatic = 1;
 code = "lookupflag IgnoreMarks;
 sub f j by f_j;
 sub f t by f_t;
@@ -224,6 +247,141 @@ automatic = 1;
 code = "sub zero by zero.zero;
 ";
 tag = zero;
+},
+{
+automatic = 1;
+code = "sub a by a.ss01;
+sub aacute by aacute.ss01;
+sub abreve by abreve.ss01;
+sub acircumflex by acircumflex.ss01;
+sub adieresis by adieresis.ss01;
+sub agrave by agrave.ss01;
+sub amacron by amacron.ss01;
+sub aogonek by aogonek.ss01;
+sub aring by aring.ss01;
+sub atilde by atilde.ss01;
+";
+labels = (
+{
+language = dflt;
+value = "Alternate a shape";
+}
+);
+tag = ss01;
+},
+{
+automatic = 1;
+code = "sub g by g.ss02;
+sub gbreve by gbreve.ss02;
+sub gcircumflex by gcircumflex.ss02;
+sub gcommaaccent by gcommaaccent.ss02;
+sub gdotaccent by gdotaccent.ss02;
+";
+labels = (
+{
+language = dflt;
+value = "Alternate g shape";
+}
+);
+tag = ss02;
+},
+{
+automatic = 1;
+code = "sub l by l.ss03;
+sub lacute by lacute.ss03;
+sub lcaron by lcaron.ss03;
+sub lcommaaccent by lcommaaccent.ss03;
+sub ldot by ldot.ss03;
+sub lslash by lslash.ss03;
+";
+labels = (
+{
+language = dflt;
+value = "Alternate l shape";
+}
+);
+tag = ss03;
+},
+{
+automatic = 1;
+code = "sub u by u.ss04;
+sub uacute by uacute.ss04;
+sub ubreve by ubreve.ss04;
+sub ucircumflex by ucircumflex.ss04;
+sub udieresis by udieresis.ss04;
+sub udotbelow by udotbelow.ss04;
+sub ugrave by ugrave.ss04;
+sub uhungarumlaut by uhungarumlaut.ss04;
+sub umacron by umacron.ss04;
+sub uogonek by uogonek.ss04;
+sub uring by uring.ss04;
+sub utilde by utilde.ss04;
+";
+labels = (
+{
+language = dflt;
+value = "Alternate u shape";
+}
+);
+tag = ss04;
+},
+{
+automatic = 1;
+code = "sub y by y.ss05;
+sub yacute by yacute.ss05;
+sub ycircumflex by ycircumflex.ss05;
+sub ydieresis by ydieresis.ss05;
+sub ygrave by ygrave.ss05;
+sub ytilde by ytilde.ss05;
+";
+labels = (
+{
+language = dflt;
+value = "Alternate y shape";
+}
+);
+tag = ss05;
+},
+{
+automatic = 1;
+code = "sub at by at.ss06;
+";
+labels = (
+{
+language = dflt;
+value = "Alternate @ shape";
+}
+);
+tag = ss06;
+},
+{
+automatic = 1;
+code = "sub three by three.ss07;
+sub four by four.ss07;
+";
+labels = (
+{
+language = dflt;
+value = "Alternate 3&4 shape";
+}
+);
+tag = ss07;
+},
+{
+automatic = 1;
+code = "sub colon by colon.case;
+sub exclamdown by exclamdown.case;
+sub questiondown by questiondown.case;
+sub parenleft by parenleft.case;
+sub parenright by parenright.case;
+sub braceleft by braceleft.case;
+sub braceright by braceright.case;
+sub bracketleft by bracketleft.case;
+sub bracketright by bracketright.case;
+sub at by at.case;
+sub at.ss06 by at.ss06.case;
+";
+tag = case;
 }
 );
 fontMaster = (

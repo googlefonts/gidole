@@ -1,0 +1,43 @@
+{
+color = 3;
+glyphname = ydieresis.ss05;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (100,0);
+ref = dieresiscomb;
+},
+{
+ref = y.ss05;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 1062;
+width = 20;
+},
+{
+position = 1247;
+width = 188;
+}
+);
+vhints = (
+{
+position = 220;
+width = 188;
+},
+{
+position = 602;
+width = 188;
+}
+);
+};
+};
+width = 1010;
+}
+);
+}

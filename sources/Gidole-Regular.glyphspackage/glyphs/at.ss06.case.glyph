@@ -1,0 +1,56 @@
+{
+color = 3;
+glyphname = at.ss06.case;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (0,166);
+ref = at.ss06;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -248;
+width = 134;
+},
+{
+position = 150;
+width = 134;
+},
+{
+position = 1130;
+width = 134;
+},
+{
+position = 1528;
+width = 134;
+}
+);
+vhints = (
+{
+position = 160;
+width = 150;
+},
+{
+position = 558;
+width = 150;
+},
+{
+position = 1238;
+width = 150;
+},
+{
+position = 1638;
+width = 150;
+}
+);
+};
+};
+width = 1948;
+}
+);
+}

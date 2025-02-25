@@ -1,0 +1,67 @@
+{
+color = 3;
+glyphname = atilde.ss01;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (106,0);
+ref = tildecomb;
+},
+{
+ref = a.ss01;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -16;
+width = 134;
+},
+{
+position = 0;
+width = 21;
+},
+{
+position = 964;
+width = 134;
+},
+{
+position = 1062;
+width = 20;
+},
+{
+position = 1222;
+width = 124;
+},
+{
+position = 1282;
+width = 124;
+},
+{
+position = 1396;
+width = 20;
+}
+);
+vhints = (
+{
+position = 125;
+width = 150;
+},
+{
+position = 235;
+width = 600;
+},
+{
+position = 805;
+width = 150;
+}
+);
+};
+};
+width = 1115;
+}
+);
+}

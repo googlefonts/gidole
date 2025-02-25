@@ -1,0 +1,60 @@
+{
+glyphname = lcommaaccent.ss03;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(160,0,l),
+(160,1496,l),
+(310,1496,l),
+(310,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(333,-249,o),
+(320,-278,o),
+(308,-302,cs),
+(236,-455,l),
+(144,-455,l),
+(197,-306,ls),
+(164,-294,o),
+(140,-263,o),
+(140,-220,cs),
+(140,-165,o),
+(183,-125,o),
+(236,-125,cs),
+(289,-125,o),
+(333,-165,o),
+(333,-220,cs)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 21;
+}
+);
+vhints = (
+{
+position = 140;
+width = 193;
+},
+{
+position = 160;
+width = 150;
+}
+);
+};
+};
+width = 470;
+}
+);
+}
