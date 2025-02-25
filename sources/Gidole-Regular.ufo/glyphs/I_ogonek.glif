@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iogonek" format="2">
+  <advance width="516"/>
+  <unicode hex="012E"/>
+  <outline>
+    <contour>
+      <point x="130" y="-216" type="curve" smooth="yes"/>
+      <point x="130" y="-267"/>
+      <point x="160" y="-306"/>
+      <point x="211" y="-306" type="curve" smooth="yes"/>
+      <point x="239" y="-306"/>
+      <point x="267" y="-293"/>
+      <point x="285" y="-281" type="curve"/>
+      <point x="350" y="-391" type="line"/>
+      <point x="312" y="-413"/>
+      <point x="266" y="-430"/>
+      <point x="211" y="-430" type="curve" smooth="yes"/>
+      <point x="81" y="-430"/>
+      <point x="6" y="-340"/>
+      <point x="6" y="-237" type="curve" smooth="yes"/>
+      <point x="6" y="-122.372"/>
+      <point x="88.0685" y="-44.9986"/>
+      <point x="180" y="6.22852" type="curve"/>
+      <point x="180" y="1416" type="line"/>
+      <point x="336" y="1416" type="line"/>
+      <point x="336" y="0" type="line"/>
+      <point x="332" y="0" type="line"/>
+      <point x="249" y="-30"/>
+      <point x="130" y="-100"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-430</integer>
+            <key>width</key>
+            <integer>124</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1396</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>6</integer>
+            <key>width</key>
+            <integer>124</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>180</integer>
+            <key>width</key>
+            <integer>156</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
