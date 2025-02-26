@@ -393,23 +393,23 @@ fontMaster = (
 customParameters = (
 {
 name = typoAscender;
-value = 1496;
+value = 1960;
 },
 {
 name = typoDescender;
-value = -472;
+value = -560;
 },
 {
 name = typoLineGap;
-value = 102;
+value = 0;
 },
 {
 name = hheaAscender;
-value = 1860;
+value = 1960;
 },
 {
 name = hheaDescender;
-value = -460;
+value = -560;
 },
 {
 name = hheaLineGap;
@@ -417,11 +417,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1906;
+value = 2274;
 },
 {
 name = winDescent;
-value = 472;
+value = 717;
 },
 {
 name = strikeoutPosition;
