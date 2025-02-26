@@ -1,6 +1,8 @@
 {
 color = 4;
 glyphname = Gcommaaccent;
+kernLeft = O;
+kernRight = G;
 layers = (
 {
 background = {

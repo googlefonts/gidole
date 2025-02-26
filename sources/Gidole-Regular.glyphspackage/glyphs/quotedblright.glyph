@@ -1,6 +1,8 @@
 {
 color = 4;
 glyphname = quotedblright;
+kernLeft = quotedblright;
+kernRight = quotedblright;
 layers = (
 {
 background = {
@@ -22,7 +24,7 @@ ref = quoteright;
 },
 {
 alignment = 1;
-pos = (460,0);
+pos = (350,0);
 ref = quoteright;
 }
 );
@@ -46,7 +48,7 @@ width = 220;
 );
 };
 };
-width = 920;
+width = 810;
 }
 );
 unicode = 8221;

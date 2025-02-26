@@ -1,6 +1,8 @@
 {
 color = 4;
 glyphname = Tdotbelow;
+kernLeft = T;
+kernRight = T;
 layers = (
 {
 background = {

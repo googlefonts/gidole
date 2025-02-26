@@ -1,6 +1,8 @@
 {
 color = 4;
 glyphname = Scircumflex;
+kernLeft = S;
+kernRight = S;
 layers = (
 {
 background = {

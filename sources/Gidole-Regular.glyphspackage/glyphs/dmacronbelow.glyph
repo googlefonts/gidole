@@ -1,6 +1,7 @@
 {
 color = 4;
 glyphname = dmacronbelow;
+kernLeft = o;
 layers = (
 {
 background = {

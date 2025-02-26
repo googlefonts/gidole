@@ -4,7 +4,7 @@ layers = (
 {
 anchors = (
 {
-name = _tonos;
+name = _top;
 pos = (198,1082);
 }
 );

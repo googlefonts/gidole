@@ -1,6 +1,8 @@
 {
-color = 4;
+color = 3;
 glyphname = Alphatonos;
+kernLeft = A;
+kernRight = A;
 layers = (
 {
 background = {
@@ -20,7 +22,8 @@ shapes = (
 ref = Alpha;
 },
 {
-pos = (70,46);
+alignment = -1;
+pos = (72,47);
 ref = tonos;
 }
 );

@@ -1,6 +1,8 @@
 {
 color = 4;
 glyphname = "Ushort-cy";
+kernLeft = Y;
+kernRight = Y;
 layers = (
 {
 background = {

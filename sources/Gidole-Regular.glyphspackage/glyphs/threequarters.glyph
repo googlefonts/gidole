@@ -31,7 +31,7 @@ ref = fraction;
 },
 {
 alignment = 1;
-pos = (926,0);
+pos = (906,0);
 ref = four.dnom;
 }
 );
@@ -71,7 +71,7 @@ width = 132;
 );
 };
 };
-width = 1666;
+width = 1646;
 }
 );
 unicode = 190;

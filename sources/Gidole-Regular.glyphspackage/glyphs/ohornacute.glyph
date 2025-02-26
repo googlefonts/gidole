@@ -1,6 +1,8 @@
 {
 color = 4;
 glyphname = ohornacute;
+kernLeft = o;
+kernRight = o;
 layers = (
 {
 background = {
@@ -61,7 +63,7 @@ width = 140;
 );
 };
 };
-width = 1100;
+width = 1140;
 }
 );
 unicode = 7899;

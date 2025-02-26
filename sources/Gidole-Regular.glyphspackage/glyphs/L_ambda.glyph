@@ -1,6 +1,7 @@
 {
-color = 8;
 glyphname = Lambda;
+kernLeft = A;
+kernRight = A;
 layers = (
 {
 background = {
@@ -15,9 +16,16 @@ ref = V;
 layerId = m001;
 shapes = (
 {
-angle = 180;
-pos = (1190,1536);
-ref = V;
+closed = 1;
+nodes = (
+(987,0,l),
+(595,1205,l),
+(203,0,l),
+(40,0,l),
+(520,1416,l),
+(670,1416,l),
+(1150,0,l)
+);
 }
 );
 userData = {

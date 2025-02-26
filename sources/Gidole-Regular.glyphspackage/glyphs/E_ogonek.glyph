@@ -1,6 +1,7 @@
 {
 color = 4;
 glyphname = Eogonek;
+kernRight = E;
 layers = (
 {
 background = {

@@ -1,6 +1,8 @@
 {
 color = 4;
 glyphname = odieresis;
+kernLeft = o;
+kernRight = o;
 layers = (
 {
 background = {

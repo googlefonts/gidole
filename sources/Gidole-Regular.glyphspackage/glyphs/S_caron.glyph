@@ -1,6 +1,8 @@
 {
 color = 4;
 glyphname = Scaron;
+kernLeft = S;
+kernRight = S;
 layers = (
 {
 background = {

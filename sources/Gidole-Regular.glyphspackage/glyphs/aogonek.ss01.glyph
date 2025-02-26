@@ -1,6 +1,7 @@
 {
 color = 4;
 glyphname = aogonek.ss01;
+kernLeft = o;
 layers = (
 {
 background = {

@@ -1,5 +1,7 @@
 {
 glyphname = Omega;
+kernLeft = O;
+kernRight = O;
 layers = (
 {
 background = {

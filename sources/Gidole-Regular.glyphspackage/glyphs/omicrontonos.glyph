@@ -20,7 +20,7 @@ shapes = (
 ref = omicron;
 },
 {
-pos = (1100,0);
+pos = (352,0);
 ref = tonos;
 }
 );
@@ -56,7 +56,7 @@ width = 150;
 );
 };
 };
-width = 1575;
+width = 1100;
 }
 );
 unicode = 972;

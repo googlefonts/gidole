@@ -20,7 +20,7 @@ shapes = (
 ref = alpha;
 },
 {
-pos = (1115,0);
+pos = (322,0);
 ref = tonos;
 }
 );
@@ -60,7 +60,7 @@ width = 150;
 );
 };
 };
-width = 1590;
+width = 1115;
 }
 );
 unicode = 940;

@@ -1,6 +1,7 @@
 {
 color = 4;
 glyphname = Ldotbelowmacron;
+kernRight = L;
 layers = (
 {
 background = {

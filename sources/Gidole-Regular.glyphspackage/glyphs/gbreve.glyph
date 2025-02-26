@@ -1,6 +1,8 @@
 {
 color = 4;
 glyphname = gbreve;
+kernLeft = o;
+kernRight = g;
 layers = (
 {
 background = {

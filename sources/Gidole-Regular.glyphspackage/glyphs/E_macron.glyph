@@ -1,6 +1,7 @@
 {
 color = 4;
 glyphname = Emacron;
+kernRight = E;
 layers = (
 {
 background = {

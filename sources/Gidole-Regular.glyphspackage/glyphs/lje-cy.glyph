@@ -1,5 +1,7 @@
 {
 glyphname = "lje-cy";
+kernLeft = "de-cy";
+kernRight = "softsign-cy";
 layers = (
 {
 background = {

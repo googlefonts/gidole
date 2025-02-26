@@ -1,6 +1,8 @@
 {
 color = 4;
 glyphname = ydieresis.ss05;
+kernLeft = y.alt;
+kernRight = y.alt;
 layers = (
 {
 background = {

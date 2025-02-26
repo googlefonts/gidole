@@ -1,6 +1,8 @@
 {
 color = 4;
 glyphname = "ie-cy";
+kernLeft = o;
+kernRight = e;
 layers = (
 {
 background = {

@@ -1,6 +1,8 @@
 {
 color = 4;
 glyphname = acircumflexacute;
+kernLeft = a;
+kernRight = a;
 layers = (
 {
 background = {

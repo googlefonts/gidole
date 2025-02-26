@@ -1,6 +1,8 @@
 {
 color = 4;
 glyphname = Ydotaccent;
+kernLeft = V;
+kernRight = V;
 layers = (
 {
 background = {

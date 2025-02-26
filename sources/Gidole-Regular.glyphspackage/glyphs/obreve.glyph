@@ -1,6 +1,8 @@
 {
 color = 4;
 glyphname = obreve;
+kernLeft = o;
+kernRight = o;
 layers = (
 {
 background = {

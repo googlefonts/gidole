@@ -1,6 +1,8 @@
 {
 color = 4;
 glyphname = ycircumflex.ss05;
+kernLeft = y.alt;
+kernRight = y.alt;
 layers = (
 {
 background = {

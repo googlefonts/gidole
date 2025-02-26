@@ -1,6 +1,8 @@
 {
 color = 2;
 glyphname = Theta;
+kernLeft = O;
+kernRight = O;
 layers = (
 {
 background = {

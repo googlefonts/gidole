@@ -1,6 +1,8 @@
 {
 color = 4;
 glyphname = tcaron;
+kernLeft = t;
+kernRight = t;
 layers = (
 {
 background = {

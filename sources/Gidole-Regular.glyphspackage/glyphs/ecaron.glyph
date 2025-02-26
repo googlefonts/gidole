@@ -1,6 +1,8 @@
 {
 color = 4;
 glyphname = ecaron;
+kernLeft = o;
+kernRight = e;
 layers = (
 {
 background = {

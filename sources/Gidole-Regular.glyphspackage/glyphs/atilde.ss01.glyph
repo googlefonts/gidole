@@ -1,6 +1,7 @@
 {
 color = 4;
 glyphname = atilde.ss01;
+kernLeft = o;
 layers = (
 {
 background = {

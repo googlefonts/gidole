@@ -22,7 +22,7 @@ ref = quotesingle;
 },
 {
 alignment = 1;
-pos = (440,0);
+pos = (330,0);
 ref = quotesingle;
 }
 );
@@ -54,7 +54,7 @@ width = 98;
 );
 };
 };
-width = 880;
+width = 770;
 }
 );
 unicode = 34;

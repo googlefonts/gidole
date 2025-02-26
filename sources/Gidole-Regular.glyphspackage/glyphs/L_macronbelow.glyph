@@ -1,6 +1,7 @@
 {
 color = 4;
 glyphname = Lmacronbelow;
+kernRight = L;
 layers = (
 {
 background = {

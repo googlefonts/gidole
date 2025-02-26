@@ -1,5 +1,5 @@
 {
-color = 8;
+color = 3;
 glyphname = guillemetright;
 layers = (
 {
@@ -7,7 +7,7 @@ background = {
 shapes = (
 {
 angle = 180;
-pos = (922,1078);
+pos = (962,1078);
 ref = guillemetleft;
 }
 );
@@ -15,14 +15,16 @@ ref = guillemetleft;
 layerId = m001;
 shapes = (
 {
-alignment = 1;
+alignment = -1;
 angle = 180;
-pos = (942,1536);
+pos = (962,1077);
 ref = guillemetleft;
 }
 );
-width = 942;
+width = 982;
 }
 );
+metricLeft = "=|guillemetright";
+metricRight = "=|guillemetright";
 unicode = 187;
 }

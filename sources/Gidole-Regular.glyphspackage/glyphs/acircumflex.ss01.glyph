@@ -1,6 +1,7 @@
 {
 color = 4;
 glyphname = acircumflex.ss01;
+kernLeft = o;
 layers = (
 {
 background = {

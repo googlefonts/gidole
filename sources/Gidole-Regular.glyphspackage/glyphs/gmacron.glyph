@@ -1,6 +1,8 @@
 {
 color = 4;
 glyphname = gmacron;
+kernLeft = o;
+kernRight = g;
 layers = (
 {
 background = {

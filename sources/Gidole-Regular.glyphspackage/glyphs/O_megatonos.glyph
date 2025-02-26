@@ -1,6 +1,8 @@
 {
 color = 2;
 glyphname = Omegatonos;
+kernLeft = O;
+kernRight = O;
 layers = (
 {
 background = {

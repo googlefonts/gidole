@@ -1,6 +1,7 @@
 {
 color = 4;
 glyphname = Rdotbelow;
+kernRight = R;
 layers = (
 {
 background = {

@@ -1,6 +1,7 @@
 {
-color = 8;
 glyphname = quoteleft;
+kernLeft = quotedblleft;
+kernRight = quotedblleft;
 layers = (
 {
 background = {
@@ -15,10 +16,24 @@ ref = quoteright;
 layerId = m001;
 shapes = (
 {
-alignment = 1;
-angle = 180;
-pos = (460,1536);
-ref = quoteright;
+closed = 1;
+nodes = (
+(165,1072,o),
+(120,1117,o),
+(120,1182,cs),
+(120,1207,o),
+(124,1223,o),
+(145,1274,cs),
+(235,1496,l),
+(333,1496,l),
+(276,1283,l),
+(313,1269,o),
+(340,1231,o),
+(340,1182,cs),
+(340,1117,o),
+(295,1072,o),
+(230,1072,cs)
+);
 }
 );
 userData = {

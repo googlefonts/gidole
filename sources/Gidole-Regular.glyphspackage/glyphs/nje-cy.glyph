@@ -1,5 +1,6 @@
 {
 glyphname = "nje-cy";
+kernRight = "softsign-cy";
 layers = (
 {
 anchors = (

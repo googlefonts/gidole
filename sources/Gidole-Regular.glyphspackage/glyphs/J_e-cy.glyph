@@ -1,6 +1,8 @@
 {
 color = 4;
 glyphname = "Je-cy";
+kernLeft = J;
+kernRight = J;
 layers = (
 {
 background = {

@@ -1,6 +1,8 @@
 {
 color = 4;
 glyphname = ohorn;
+kernLeft = o;
+kernRight = o;
 layers = (
 {
 background = {
@@ -90,9 +92,11 @@ nodes = (
 layerId = m001;
 shapes = (
 {
+alignment = -1;
 ref = o;
 },
 {
+alignment = -1;
 pos = (729,-252);
 ref = horncomb;
 }
@@ -125,7 +129,7 @@ width = 140;
 );
 };
 };
-width = 1100;
+width = 1140;
 }
 );
 unicode = 417;

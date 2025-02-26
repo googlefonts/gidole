@@ -1,5 +1,7 @@
 {
 glyphname = "Fita-cy";
+kernLeft = O;
+kernRight = O;
 layers = (
 {
 anchors = (

@@ -1,5 +1,6 @@
 {
 glyphname = "Yat-cy";
+kernRight = "Softsign-cy";
 layers = (
 {
 background = {

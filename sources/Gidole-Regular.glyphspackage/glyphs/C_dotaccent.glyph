@@ -1,6 +1,8 @@
 {
 color = 4;
 glyphname = Cdotaccent;
+kernLeft = O;
+kernRight = C;
 layers = (
 {
 background = {

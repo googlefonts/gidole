@@ -1,6 +1,8 @@
 {
 color = 4;
 glyphname = acircumflexgrave;
+kernLeft = a;
+kernRight = a;
 layers = (
 {
 background = {

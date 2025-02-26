@@ -1,6 +1,7 @@
 {
 color = 3;
 glyphname = dcaron;
+kernLeft = o;
 layers = (
 {
 background = {

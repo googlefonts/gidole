@@ -1,5 +1,6 @@
 {
 glyphname = a.ss01;
+kernLeft = o;
 layers = (
 {
 anchors = (

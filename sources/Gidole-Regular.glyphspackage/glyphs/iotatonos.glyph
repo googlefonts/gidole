@@ -3,16 +3,6 @@ color = 4;
 glyphname = iotatonos;
 layers = (
 {
-anchors = (
-{
-name = bottom;
-pos = (310,0);
-},
-{
-name = top;
-pos = (234,1496);
-}
-);
 background = {
 anchors = (
 {
@@ -40,7 +30,7 @@ shapes = (
 ref = iota;
 },
 {
-pos = (470,0);
+pos = (37,0);
 ref = tonos;
 }
 );
@@ -72,7 +62,7 @@ width = 222;
 );
 };
 };
-width = 945;
+width = 470;
 }
 );
 unicode = 943;

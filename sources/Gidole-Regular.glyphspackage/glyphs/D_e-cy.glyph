@@ -1,5 +1,6 @@
 {
 glyphname = "De-cy";
+kernLeft = "De-cy";
 layers = (
 {
 background = {

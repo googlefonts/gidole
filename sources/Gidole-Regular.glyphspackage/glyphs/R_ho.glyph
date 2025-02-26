@@ -1,6 +1,7 @@
 {
 color = 4;
 glyphname = Rho;
+kernRight = P;
 layers = (
 {
 background = {

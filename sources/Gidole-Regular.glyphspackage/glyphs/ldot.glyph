@@ -1,6 +1,7 @@
 {
 color = 4;
 glyphname = ldot;
+kernRight = l;
 layers = (
 {
 background = {
@@ -17,10 +18,11 @@ ref = l;
 layerId = m001;
 shapes = (
 {
+alignment = -1;
 ref = l;
 },
 {
-alignment = 1;
+alignment = -1;
 pos = (313,184);
 ref = periodcentered;
 }
@@ -49,7 +51,7 @@ width = 220;
 );
 };
 };
-width = 486;
+width = 686;
 }
 );
 unicode = 320;

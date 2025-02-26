@@ -1,6 +1,7 @@
 {
 color = 4;
 glyphname = Rcommaaccent;
+kernRight = R;
 layers = (
 {
 background = {

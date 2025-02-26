@@ -1,6 +1,7 @@
 {
 color = 4;
 glyphname = Eacute;
+kernRight = E;
 layers = (
 {
 background = {

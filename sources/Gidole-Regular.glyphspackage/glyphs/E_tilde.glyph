@@ -1,6 +1,7 @@
 {
 color = 4;
 glyphname = Etilde;
+kernRight = E;
 layers = (
 {
 background = {

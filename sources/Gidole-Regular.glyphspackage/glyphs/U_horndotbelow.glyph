@@ -1,6 +1,8 @@
 {
 color = 4;
 glyphname = Uhorndotbelow;
+kernLeft = U;
+kernRight = U;
 layers = (
 {
 background = {

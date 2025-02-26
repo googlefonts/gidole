@@ -1,5 +1,7 @@
 {
 glyphname = y.ss05;
+kernLeft = y.alt;
+kernRight = y.alt;
 layers = (
 {
 anchors = (

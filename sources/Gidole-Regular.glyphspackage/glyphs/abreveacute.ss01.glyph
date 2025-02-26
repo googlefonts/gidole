@@ -1,6 +1,7 @@
 {
 color = 4;
 glyphname = abreveacute.ss01;
+kernLeft = o;
 layers = (
 {
 background = {

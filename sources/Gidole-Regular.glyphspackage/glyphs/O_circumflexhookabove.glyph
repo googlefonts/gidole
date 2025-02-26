@@ -1,6 +1,8 @@
 {
 color = 4;
 glyphname = Ocircumflexhookabove;
+kernLeft = O;
+kernRight = O;
 layers = (
 {
 background = {

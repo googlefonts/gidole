@@ -1,6 +1,7 @@
 {
 color = 4;
 glyphname = "gje-cy";
+kernRight = "ge-cy";
 layers = (
 {
 background = {

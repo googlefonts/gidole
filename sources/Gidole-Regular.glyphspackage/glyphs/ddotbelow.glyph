@@ -1,6 +1,7 @@
 {
 color = 4;
 glyphname = ddotbelow;
+kernLeft = o;
 layers = (
 {
 background = {

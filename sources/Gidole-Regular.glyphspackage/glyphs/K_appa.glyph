@@ -1,6 +1,7 @@
 {
 color = 4;
 glyphname = Kappa;
+kernRight = K;
 layers = (
 {
 background = {

@@ -1,6 +1,8 @@
 {
 color = 4;
 glyphname = ytilde;
+kernLeft = y;
+kernRight = y;
 layers = (
 {
 background = {

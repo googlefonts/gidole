@@ -1,5 +1,6 @@
 {
 glyphname = "ereversed-cy";
+kernRight = o;
 layers = (
 {
 background = {

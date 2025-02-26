@@ -1,5 +1,6 @@
 {
 glyphname = "hardsign-cy";
+kernRight = "softsign-cy";
 layers = (
 {
 background = {

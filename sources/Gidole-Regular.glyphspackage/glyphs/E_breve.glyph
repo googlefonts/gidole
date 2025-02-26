@@ -1,6 +1,7 @@
 {
 color = 4;
 glyphname = Ebreve;
+kernRight = E;
 layers = (
 {
 background = {

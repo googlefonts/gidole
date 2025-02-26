@@ -1,6 +1,7 @@
 {
 color = 4;
 glyphname = "Ve-cy";
+kernRight = B;
 layers = (
 {
 background = {

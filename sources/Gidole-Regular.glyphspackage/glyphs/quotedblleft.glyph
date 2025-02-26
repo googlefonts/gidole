@@ -1,6 +1,8 @@
 {
-color = 8;
+color = 4;
 glyphname = quotedblleft;
+kernLeft = quotedblleft;
+kernRight = quotedblleft;
 layers = (
 {
 background = {
@@ -21,15 +23,12 @@ layerId = m001;
 shapes = (
 {
 alignment = 1;
-angle = 180;
-pos = (460,1536);
-ref = quoteright;
+ref = quoteleft;
 },
 {
 alignment = 1;
-angle = 180;
-pos = (920,1536);
-ref = quoteright;
+pos = (350,0);
+ref = quoteleft;
 }
 );
 userData = {
@@ -52,7 +51,7 @@ width = 220;
 );
 };
 };
-width = 920;
+width = 810;
 }
 );
 unicode = 8220;

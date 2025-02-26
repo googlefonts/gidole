@@ -1,5 +1,7 @@
 {
 glyphname = "ef-cy";
+kernLeft = o;
+kernRight = o;
 layers = (
 {
 background = {

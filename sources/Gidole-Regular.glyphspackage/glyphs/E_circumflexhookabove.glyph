@@ -1,6 +1,7 @@
 {
 color = 4;
 glyphname = Ecircumflexhookabove;
+kernRight = E;
 layers = (
 {
 background = {
